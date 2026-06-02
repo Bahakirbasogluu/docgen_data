@@ -1,0 +1,2843 @@
+[
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Windows 11 demo sürüm farkı nedir?",
+    "soru": "Merhaba, Gaming.Gen.TR'den bir tavsiye sistem satın aldım. Ancak işletim sistemi satın almadığım için Windows 11 demo sürümü kurduklarını söylediler. Normal sürümle farkı nedir?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sanırım görsel özelleştirme ve birkaç ince ayar yapamıyorsunuz o kadar. İnternetten 100 TL civarına keyleri satılıyor."
+      },
+      {
+        "cevap_metni": "Windows'u etkinleştirdiğimde sorun ortadan kalkıyor yani?"
+      },
+      {
+        "cevap_metni": "Evet sorun ortadan kalkar. Ama bazı keyler format ile silinebiliyor ona dikkat edin."
+      },
+      {
+        "cevap_metni": "Anladım teşekkürler."
+      },
+      {
+        "cevap_metni": "Rica ederim."
+      }
+    ],
+    "cozum": "Sanırım görsel özelleştirme ve birkaç ince ayar yapamıyorsunuz o kadar. İnternetten 100 TL civarına keyleri satılıyor.",
+    "sentiment": "neutral",
+    "reference_summary": "Windows 11 demo sürüm farkı nedir. Çözüm: Sanırım görsel özelleştirme ve birkaç ince ayar yapamıyorsunuz o kadar.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Windows 11 bellek bütünlüğü açılamıyor",
+    "soru": "Bilgisayarımda 3 tane uyumsuz sürücü vardı ve 2'sini silebildim. Sadece bilgisayarımda TesSafe.sys adlı uyumsuz sürücü kaldı. Bu sürücünün bilgisayarımdaki konumunu buldum ama silsem sıkıntı olur mu düzelir mi bilmiyorum.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Silseniz sıkıntı olmaz. Silebilirsiniz. Yardımcı olabildiysem çözüm olarak işaretleyebilirsiniz."
+      },
+      {
+        "cevap_metni": "Bilgisayar konumu nedir? Uyumsuz sürücüyse silebilirsiniz."
+      },
+      {
+        "cevap_metni": "Merhaba StarlendS TesSafe.sys sürücüsünün konumu işte burası : C:\\Windows\\System32"
+      },
+      {
+        "cevap_metni": "Kanka sildim çözüldü ."
+      },
+      {
+        "cevap_metni": "@IamHexy Dostum bende aynı sorunu çözmeye çalışıyorum. Fakat dosyaları silmek için yönetici izini vermeniz lazım diyor izini vermeme rağmen hala çözemiyorum. Bunun çözümünü biliyorsan yardımcı olabilir misin?"
+      },
+      {
+        "cevap_metni": "Luckhunter uygulaması lazım. C diskinde malum dosyaları aratın, bulun, tümünü seçin, sağ tıklayıp LockHunter ile silin, Bilgisayarı yeniden başlatın. Buradaki örnek malum dosya TesSafe bu adı aratın mesela C diskinde. Ama öncelikle klasör seçeneklerini fotoğraftaki gibi yapmayı unutmayın."
+      },
+      {
+        "cevap_metni": "Hoparlör çalışmıyor diye dell.comdan ALC662 indirdim hoparlör çalıştı ama açamıyorum RTKVHD64.sys"
+      }
+    ],
+    "cozum": "Silseniz sıkıntı olmaz. Silebilirsiniz. Yardımcı olabildiysem çözüm olarak işaretleyebilirsiniz.",
+    "sentiment": "neutral",
+    "reference_summary": "Windows 11 bellek bütünlüğü açılamıyor. Çözüm: Silseniz sıkıntı olmaz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Format atmadan Windows hizmetleri nasıl sıfırlanır?",
+    "soru": "Hizmetler ile ilgili bir varsayılana sıfırlama yöntemi var mı? Birkaç program kullandım ama işe yaramadı. Önceki değişikliklerden dolayı Samsung Magician hata veriyor, bir türlü düzelmedi. Bunun için format atmak istemiyorum. Magician'da SSD güç seçenekleri bu yüzden değişmiyor. SSD: Samsung 990EVO Plus 1 TB.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Bu adımları siz de uygulayın: Tweaker uygulaması kesin çözer zaten de WRC, SFC ve DISM de yapın."
+      }
+    ],
+    "cozum": "Bu adımları siz de uygulayın: Tweaker uygulaması kesin çözer zaten de WRC, SFC ve DISM de yapın.",
+    "sentiment": "negative",
+    "reference_summary": "Format atmadan Windows hizmetleri nasıl sıfırlanır. Çözüm: Bu adımları siz de uygulayın: Tweaker uygulaması kesin çözer zaten de WRC, SFC ve DISM de yapın.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Windows 11'de görev çubuğundaki simgeler kayboluyor",
+    "soru": "Son 2 gündür sebepsiz yere görev çubuğundaki simgeler kayboluyor. Sadece kullandığım uygulamalar kalıyor. Simgelerin olduğu yere tıklayıp uygulamaları açabiliyorum; açtığımda simge geri geliyor. Simgeleri geri getirmek için hepsini tek tek açmam gerekiyor. Bu sorunu nasıl çözebilirim? Sanırım 2 gün önce yaptığım Windows güncellemesinden sonra oldu. Yeni bir güncelleme gelene kadar beklemem mi lazım?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Bug var. Yeniden başlatın düzelir. Bence de birkaç kez oldu."
+      },
+      {
+        "cevap_metni": "Windows Gezgini'ni Görev Yöneticisi'nden yeniden başlatınca düzeldi. Umarım yakında bir güncellemeyle çözülür."
+      }
+    ],
+    "cozum": "Bug var. Yeniden başlatın düzelir. Bence de birkaç kez oldu.",
+    "sentiment": "negative",
+    "reference_summary": "Windows 11'de görev çubuğundaki simgeler kayboluyor. Çözüm: Bug var.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Windows 11 arama çubuğu gözükmüyor",
+    "soru": "Arkadaşlar, arama çubuğu en başta tıkladığımda bembeyazdı. Ardından internette gördüğüm şeyleri denedim ve şu anda tıkladığımda arama çubuğu ekranı açılmıyor bile. Hiçbir çözümünü bulamadım, yardımcı olursanız sevinirim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Evet, şu an çalışması gerekiyor. Çalışmazsa Görev Yöneticisi'nden explorer.exe'yi kapatıp tekrardan başlatın."
+      },
+      {
+        "cevap_metni": "Görev çubuğu sağ tık, görev çubuğu ayarları ve arama çubuğunu aktifleştir."
+      },
+      {
+        "cevap_metni": "Hocam aktifleştirme kısmını göremedim ayarlarda nerede tam olarak."
+      },
+      {
+        "cevap_metni": "Görev çubuğu sağ tık, arama kutusu var çubuk olarak göster seçeneğini seçin. Üst taraflarda olması lazım. Ekran görüntüsü atarsanız yardımcı olabilirim daha net. Tam olarak hatırlamıyorum şuan."
+      },
+      {
+        "cevap_metni": "Hocam burasımı dediğiniz yer."
+      },
+      {
+        "cevap_metni": "Hocam görev yöneticisinde explorer.exe yok."
+      },
+      {
+        "cevap_metni": "Ayrıntılar sekmesinde bulunması lazım."
+      },
+      {
+        "cevap_metni": "Hocam sağ olasın arama barı düzeldi. Allah razı olsun senden."
+      },
+      {
+        "cevap_metni": "Yardımcı olabildiysem ne mutlu. İyi sosyaller!"
+      }
+    ],
+    "cozum": "Evet, şu an çalışması gerekiyor. Çalışmazsa Görev Yöneticisi'nden explorer.exe'yi kapatıp tekrardan başlatın.",
+    "sentiment": "negative",
+    "reference_summary": "Windows 11 arama çubuğu gözükmüyor. Çözüm: Evet, şu an çalışması gerekiyor.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Windows 11'de 2 disk birleştirilemiyor",
+    "soru": "Fotoğrafta gördüğünüz gibi, iki ayrılmamış alanım var; birisi 190.2 GB, diğeri ise 2.85 GB. Fakat ikisinin arasında bulunan \"EFI Sistem Bölümü\" sebebiyle ortak bir 193 GB'lık disk oluşturamıyorum. Sağlam (EFI Sistem Bölümü)nü nasıl silebilirim veyahut bunu silmemde bir sakınca var mı?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Merhabalar, EFI, Windows için gerekli olan bir sistem bölümüydü sanırım. EFI 3. parti yazılım kullanmamanız dışında veya CMD ( Burada da tam olmayabilir ) kullanın silmek için. \"Birim Sil\" seçeneğini kullanarak diğer diske eklensin ardından \"Birimi Küçült\" seçeneği ile istediğiniz alanı oluşturun. Soruya gelirsem, evet EFI klasörü Windows oluşturduğu bir klasör silmemek gerekir."
+      },
+      {
+        "cevap_metni": "MiniTool Partition Wizard | Best partition magic alternative for Windows PC and Server bu uygulamayı kullanarak C: Diskini seçip sağ clickleyin sonra ne kadar alanı büyütmek istiyorsanız ona göre ayarlayın. Tamama sonra Apply'a tıklayın bu kadar (not: Sorumluluk almıyorum)"
+      },
+      {
+        "cevap_metni": "Hocam soru olarak açmam lazımmış galiba kusura bakmayın, ayrıca Windows'un olusturdugu bir şey sanırım dokunmamak lazımmış mecbur ayrı 2 disk açacağız."
+      },
+      {
+        "cevap_metni": "Kurtarma yazanlar EFI değil. Silebilirisniz onları. Silmek istemiyorum derseniz EaseUS Partition Master veta mini tool wizard kullanabilirsiniz. Şahsen ben EaseUS'u öneririm. Daha kolay ve daha kullanışlı. Sorun yaşamazsınız bu iki uygulama ile."
+      }
+    ],
+    "cozum": "Merhabalar, EFI, Windows için gerekli olan bir sistem bölümüydü sanırım. EFI 3. parti yazılım kullanmamanız dışında veya CMD ( Burada da tam olmayabilir ) kullanın silmek için. \"Birim Sil\" seçeneğini kullanarak diğer diske eklensin ardından \"Birimi Küçült\" seçeneği ile istediğiniz alanı oluşturun. Soruya gelirsem, evet EFI klasörü Windows oluşturduğu bir klasör silmemek gerekir.",
+    "sentiment": "neutral",
+    "reference_summary": "Windows 11'de 2 disk birleştirilemiyor. Çözüm: Merhabalar, EFI, Windows için gerekli olan bir sistem bölümüydü sanırım.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "OEM lisans satın alınca format gerekir mi?",
+    "soru": "Hazır sistem almıştım, dün geldi, kurdum vs. Windows 11 kurulu gelmiş ama lisans almam lazım galiba. Bende Windows 11 Home var. Windows 11 Pro OEM lisans key satın al | SağlamLisans linki üzerinden Windows 11 Pro OEM lisansı satın alırsam, herhangi bir format vs. gerekir mi yoksa sadece lisansı etkinleştirip normal kullanmaya devam edebilir miyim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Lisans girdikten sonra kullanmaya devam edebilirsin. Format gerekmiyor. Ayrıca ek bilgi OEM alman iyi çünkü sonradan format attıktan sonra lisans gitmiyor. Anakarta işleniyor."
+      },
+      {
+        "cevap_metni": "Home bilgisayara Pro lisans olmaz, bilgisayarı yükseltmiş olursunuz. Ama format gerekmez"
+      },
+      {
+        "cevap_metni": "Home lisans 279, 99₺ Pro lisans 289, 99₺ hocam arada 10₺ var format vs gerekmiyorsa Pro lisansı satın alırım. Herhangi bir hata problem yaşamam değil mi Pro alırsam sonradan."
+      },
+      {
+        "cevap_metni": "Piyasada 300 civar Home Retail var, free. (benim bildigim.) Bul bir tane etkinleştir, farklı forumlardan yardım iste. Para vermeye gerek yok bence. Home surume Pro key girersen, Home'dan Pro'ya yukseltirsin. Formata gerek yok. Pro'dan Home'a dusuremezsin. Pro alırsan MAK olmamasına dikkat et. OEM/retail etkinleştirince donanım degiştirmedigin surece sorunsuz kullanırsın. Retail alman daha iyi, ileride farklı PC de kullanmak gerekirse maile baglarsın vs."
+      },
+      {
+        "cevap_metni": "Sebebi nedir hocam?"
+      },
+      {
+        "cevap_metni": "MAK keyler çoklu etkinleştirme, yani aynı key ile mesela 3000 PC etkinleştirirsin. İleri zamanda format attıgın zaman oto etkinleştirmez, ya manuel etkinleştirirsin(onay ve donanım kimliği yedeklersen belki). Buyuk ihtimalde \"etkinleştirme sınırı aşıldı\" hatası alırsın. Yani baska key ararsın vs."
+      }
+    ],
+    "cozum": "Lisans girdikten sonra kullanmaya devam edebilirsin. Format gerekmiyor. Ayrıca ek bilgi OEM alman iyi çünkü sonradan format attıktan sonra lisans gitmiyor. Anakarta işleniyor.",
+    "sentiment": "neutral",
+    "reference_summary": "OEM lisans satın alınca format gerekir mi. Çözüm: Lisans girdikten sonra kullanmaya devam edebilirsin.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Windows 11 25H2 yüklenmiyor",
+    "soru": "Her türlü yolu denedim bir türlü indirilmiyor. 1 haftadır ve hep %30 olduğunda yükleme başarısız diyor. Kafayı yiyeceğim artık yani sinirlerim bozuldu. Aşağıya da ekran görüntüsünü bırakıyorum birisi yardım etsin.",
+    "cevaplar": [
+      {
+        "cevap_metni": "@Phoenixx123 Yükleme yardımcısı ile deneyin. Windows 11'i indirin"
+      },
+      {
+        "cevap_metni": "Bendede aynı sorun var, %100 oluyor hata veriyor. Bekleyeceğim belli süre."
+      },
+      {
+        "cevap_metni": "CMD'yi yönetici olarak açınız SFC /scannow yazınız sonra DISM.exe /online /cleanup-image /restorehealth bittikten sonra yeniden başlatıp dene."
+      },
+      {
+        "cevap_metni": "Bu adımları yapıp tekrar deneyin."
+      },
+      {
+        "cevap_metni": "Buradaki adımları uygulayıp sonucu bildirin."
+      },
+      {
+        "cevap_metni": "Olmuyor. Deniyorum şu anda."
+      },
+      {
+        "cevap_metni": "Verileriniz korunur."
+      },
+      {
+        "cevap_metni": "Yukarıdaki arkadaşların dediğini yaptım ve bozuk dosya bulup onardı. Şimdi güncellemeyi yeniden yüklemeyi deniyorum. İşe yarar veya yaramazsa haber veririm. Bir de verileriniz korunur derken neyi kastettiniz?"
+      }
+    ],
+    "cozum": "@Phoenixx123 Yükleme yardımcısı ile deneyin. Windows 11'i indirin",
+    "sentiment": "neutral",
+    "reference_summary": "Windows 11 25H2 yüklenmiyor. Çözüm: @Phoenixx123 Yükleme yardımcısı ile deneyin.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Windows'u etkinleştir uyarısı için ne yapılabilir?",
+    "soru": "Vatan PC'den oyun bilgisayarı topladım. 11 Pro kurduk, 3-4 saat sonra geldi yazı. Ne yapabilirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "En sağlıklı yol ürün anahtarı satın almak."
+      },
+      {
+        "cevap_metni": "Nereden alabilirim? Güvenilir bir site var mı?"
+      },
+      {
+        "cevap_metni": "Merhaba, İtemsatış gibi sitelerde ucuz Windows keyleri satıyorlar ortalama 15 20 TL arası bu tarz sitelere bakabilirsin. İtemsatış'tan birkaç defa satın aldım çevremdeki bilgisayarlar için uzun bir süre gidiyorlar. Gayet basit ve hiçbir sistem özellikleriyle oynamadan kullanabilirsiniz."
+      },
+      {
+        "cevap_metni": "Güvenilir mi?"
+      },
+      {
+        "cevap_metni": "Sağlam Lisans önerebilirim. Güvenilir."
+      },
+      {
+        "cevap_metni": "Trendyol'den W11 Pro key aldım geçtim kaç aydır sorun yok. Yapıştırın geçin."
+      },
+      {
+        "cevap_metni": "Senelerdir buradan alırım kendime eşe dosta. Asla bir sıkıntı yaşamadım."
+      },
+      {
+        "cevap_metni": "Ne kadar? Bakayım. Teşekkürler."
+      },
+      {
+        "cevap_metni": "İtemsatış'tan almanız daha mantıklı 20 TL gibi bir fiyatı var kesinlikle güvenilir zaten sistemle ilgili herhangi bir şey yapmıyorsunuz bu yüzden güvenebilirsiniz."
+      }
+    ],
+    "cozum": "En sağlıklı yol ürün anahtarı satın almak.",
+    "sentiment": "neutral",
+    "reference_summary": "Windows'u etkinleştir uyarısı için ne yapılabilir. Çözüm: En sağlıklı yol ürün anahtarı satın almak.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Windows 11",
+    "baslik": "Oturum açmadan kurulum nasıl yapılır?",
+    "soru": "Merhaba. Kardeşime bilgisayar aldım. Windows kurulum yaparken oturum aç kısmına geldim. Oturum açmadan asla ilerlemiyor. Kendi hesabımı açamam hem ben kullanıyorum hem özel şeylerim var. Kardeşime de sürpriz yapacağım onunda hesabını kullanamam. İnterneti kesip denedim olmuyor. İnternette .... e postasını yazın diye tavsiye verenleri de dinledim yapamadım. Bu adımı nasıl geçerim ?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Shift + F10 tuşlarına basın karşınıza CMD ekranı gelecektir oraya şu komutu yazın: start ms-cxh:localonly enterladıktan sonra karşınıza bir ekran gelecek ve oraya kullanıcı adı yazıp ilerleyin kurulum oturum açmadan tamamlanacak."
+      },
+      {
+        "cevap_metni": "Yolları var fakat, Microsoft hepsini tek tek kapatıyor. En iyi yol Rufus ile yazarken çevrimiçi hesap gereksinimi kaldırmak."
+      },
+      {
+        "cevap_metni": "Windows 10 kurarken hesap istemiyordu windows 10 kurun kardeşiniz 11'e yükseltir zaten."
+      }
+    ],
+    "cozum": "Shift + F10 tuşlarına basın karşınıza CMD ekranı gelecektir oraya şu komutu yazın: start ms-cxh:localonly enterladıktan sonra karşınıza bir ekran gelecek ve oraya kullanıcı adı yazıp ilerleyin kurulum oturum açmadan tamamlanacak.",
+    "sentiment": "neutral",
+    "reference_summary": "Oturum açmadan kurulum nasıl yapılır. Çözüm: Shift + F10 tuşlarına basın karşınıza CMD ekranı gelecektir oraya şu komutu yazın: start ms-cxh:localonly enterladıktan sonra karşınıza bir ekran gelecek ve oraya...",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "Apple hesabında eski telefon gözüküyor",
+    "soru": "Merhaba, ben yeni telefon aldım; eski telefonumu da telefoncuya sattım. Bugün Apple hesabım kısmında geziniyordum, eski sattığım cihaz gözüküyor. Sattığımda telefoncu çıkış yapıp sıfırlamıştı, bu cihaz nasıl gözüküyor?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sadece senin cihazda gözüküyor sil diyebilirsin."
+      },
+      {
+        "cevap_metni": "Sil deyince bir uyarı çıkıyor hocam tekrardan giriş falan diye hocam bir sıkıntı olmaz değil mi?"
+      },
+      {
+        "cevap_metni": "Sıkıntı olacak bir durum yok."
+      },
+      {
+        "cevap_metni": "Anladım, oradan o cihazı kaldırırsam eski cihaza bildirim falan gitmez yani değil mi hocam?"
+      },
+      {
+        "cevap_metni": "Gitmez."
+      }
+    ],
+    "cozum": "Sadece senin cihazda gözüküyor sil diyebilirsin.",
+    "sentiment": "neutral",
+    "reference_summary": "Apple hesabında eski telefon gözüküyor. Çözüm: Sadece senin cihazda gözüküyor sil diyebilirsin.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "iPhone 15 şarjı hızlı bitiyor",
+    "soru": "Pil sağlığım 356 devirde %86, normal gibi fakat pil hızlı bitiyor %86 pile göre. Normal mi? Cihazın hala garantisi var. Servise götürsem pili değişirler mi? Sürüm:26.1",
+    "cevaplar": [
+      {
+        "cevap_metni": "Bayağı fazla, pil o sürede bayağı yoğun kullanılmış gibi duruyor hocam. Bu kullanımda normal diyebilirim. Eğer 1000 döngü altında ve iki yıl süre geçmeden %80 altına düşerse servis ücretsiz değişim yapabilir."
+      },
+      {
+        "cevap_metni": "​ iPhone 14 ve daha önceki modeller için piller, ideal koşullar altında 500 tam şarj döngüsü boyunca orijinal kapasitelerinin %80'ine kadarını koruyacak şekilde tasarlanmıştır. iPhone 15 modellerinin pilleri, ideal koşullar altında 1000 tam şarj döngüsü boyunca orijinal kapasitelerinin %80'ine kadarını koruyacak şekilde tasarlanmıştır. Gerçek pil performansı, iPhone'un düzenli olarak nasıl kullanıldığı ve şarj edildiği de dahil olmak üzere birden fazla değişkene bağlıdır. İki yıllık garanti, Türkiye'deki tüketici kanunu kapsamındaki haklara ek olarak arızalı bir pil için servis işlemlerini de kapsar. Garanti kapsamı dışındaki durumlarda Apple tarafından pil servis hizmeti verilir. Fiyatlar ve şartlar değişiklik gösterebilir. Apple, sitesinde 15 ve üstünün 1000 döngüde %80 kapasiteyi koruyacağını belirtmiş. Biraz fazla gitmiş sizinki bence ama garanti kapsamına gireceğini sanmıyorum. Ekran süreniz kaç saat?"
+      },
+      {
+        "cevap_metni": "Pil bölümünden son 10 günü atar mısınız geniş şekilde."
+      },
+      {
+        "cevap_metni": "Pil sağlığı 79 olduğunda garantisi devam ediyorsa ve 1000 döngü altındaysa doğrudan garantiye giriyor. Benim de 15 Pro Max 400 döngüde pil 88, benim de hızlı gitti."
+      },
+      {
+        "cevap_metni": "2 yıl süre içinde %80 altına düşerse tabii götürebilir fakat şu an erken onu demek istedim."
+      },
+      {
+        "cevap_metni": "Garanti kapsamına gireceğini sanmıyorum deyince düşse bile girmez anladım kusura bakmayın."
+      },
+      {
+        "cevap_metni": "14 ve altı olsaydı normal derdim fakat 15'te bu biraz fazla hızlı düşmüş bu Arada kaldım o yüzden."
+      },
+      {
+        "cevap_metni": "Anladım teşekkür ederim."
+      }
+    ],
+    "cozum": "Bayağı fazla, pil o sürede bayağı yoğun kullanılmış gibi duruyor hocam. Bu kullanımda normal diyebilirim. Eğer 1000 döngü altında ve iki yıl süre geçmeden %80 altına düşerse servis ücretsiz değişim yapabilir.",
+    "sentiment": "neutral",
+    "reference_summary": "iPhone 15 şarjı hızlı bitiyor. Çözüm: Bayağı fazla, pil o sürede bayağı yoğun kullanılmış gibi duruyor hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "Yurt dışından alınan iPhone kalıcı olarak açtırılabilir mi?",
+    "soru": "Yurt dışından iPhone almayı düşünüyorum ama her yıl kapanmasıyla uğraşamam. Acaba bunun kalıcı 45 bin TL vermeden daha ucuza açtırmanın bir yolu var mı yoksa Türkiye'den mi almalıyım?",
+    "cevaplar": [
+      {
+        "cevap_metni": "IMEI ucreti ödemeden olmaz, ortalama 8 ay kullanırsın ocak ayında alırsan 8 ay sonra kapanacaktır."
+      },
+      {
+        "cevap_metni": "Kalıcı yolu yok 45.000 TL vermeden."
+      },
+      {
+        "cevap_metni": "Yurt dışını unutun."
+      },
+      {
+        "cevap_metni": "8 ay kullanabilirsiniz yurt dışı cihazı bakanlık tek SIM 2 ay derse toplam 4 ay yapar kafalarına göre değiştirebilirler."
+      }
+    ],
+    "cozum": "IMEI ucreti ödemeden olmaz, ortalama 8 ay kullanırsın ocak ayında alırsan 8 ay sonra kapanacaktır.",
+    "sentiment": "neutral",
+    "reference_summary": "Yurt dışından alınan iPhone kalıcı olarak açtırılabilir mi. Çözüm: IMEI ucreti ödemeden olmaz, ortalama 8 ay kullanırsın ocak ayında alırsan 8 ay sonra kapanacaktır.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "Yeni alınan iPhone telefonun şarj edilmesi için bir kural var mı?",
+    "soru": "Eskiden yeni alınan telefonların ilk şarjında on iki saat gibi süreler vardı. Şu anki iPhone telefonlarda bu durum var mı? Mesela bugün cihaz aldımsa şarjı bitirmem mümkün değil, yarın da gün içinde lazım. Şarjı tam bitmeden şarj etsem sorun olur mu? Normalde sorun olmadığının farkındayım ancak yeni alınan bir cihazda nasıl olabilir bilmiyorum.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Kardeşim eski telefonlardaki bataryalar ile şimdiki telefonların batarya teknolojileri aynı değil, o 12 saat şarjda bırakma olayı eskide kaldı, artık gerek yok. Direkt olarak telefonu kullanabilirsin."
+      },
+      {
+        "cevap_metni": "80-20 kuralı her zaman iyidir. 80 olduğunda şarjdan çıkar, 20 veya 15 olduğunda şarja tak. Bu kuralı öğrendikten sonra pil yüzdemde gözle görülür bir düşüş göremedim. Yaklaşık 7 aydır kuralı uyguluyorum bir düşüş göremedim. Ayrıca telefona şarjda bakmazsan daha verimli sonuç alabilirsin."
+      },
+      {
+        "cevap_metni": "Hocam benim dediğim daha bugün aldım şarj şu an %50 civarı. Şarjı bitirmem pek mümkün değil ama yarın için de yeterli değil. Tam desarj yapmadan %50 iken taksam dolunca çeksem bir sorun olur."
+      },
+      {
+        "cevap_metni": "80-20 kuralı, şarjda bakma falan hepsi takıntıdan ibaret. Elbette işe yarıyordur fakat hiç gerek yok bu tarz saplantılara."
+      },
+      {
+        "cevap_metni": "Peki tam deşarj yapmaya gerek var mı ilk kullanımda?"
+      },
+      {
+        "cevap_metni": "Hayır dediğim gibi direkt olarak telefonu kullanmaya başlayabilirsiniz, istediğinizde şarj edin istediğinizde kullanın. O tip şeyler eski telefonlarda kaldı. Artık böyle şeyleri düşünmemiz gerekmiyor."
+      },
+      {
+        "cevap_metni": "Tamamdır hocam, teşekkür ederim."
+      }
+    ],
+    "cozum": "Kardeşim eski telefonlardaki bataryalar ile şimdiki telefonların batarya teknolojileri aynı değil, o 12 saat şarjda bırakma olayı eskide kaldı, artık gerek yok. Direkt olarak telefonu kullanabilirsin.",
+    "sentiment": "negative",
+    "reference_summary": "Yeni alınan iPhone telefonun şarj edilmesi için bir kural var mı. Çözüm: Kardeşim eski telefonlardaki bataryalar ile şimdiki telefonların batarya teknolojileri aynı değil, o 12 saat şarjda bırakma olayı eskide kaldı, artık gerek yok.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "IPhone'da reklamları kapatmak mümkün müdür?",
+    "soru": "Herkese iyi sosyaller IPhone'da nasıl reklamlar kaldırılır? Android'deki gibi DNS kodunu yazınca reklam çıkmıyordu ama Apple cihazımda herhangi uygulamaya girdiğimde reklam çıkıyor ne yapmam lazım?",
+    "cevaplar": [
+      {
+        "cevap_metni": "How to use AdGuard DNS in iOS bakın hocam."
+      },
+      {
+        "cevap_metni": "Aynı DNS kodlarını girmeyi denedin mi?"
+      },
+      {
+        "cevap_metni": "Onun için DNS profili indireceksiniz. Adgurd, NextDNS, mullvaddns profillerine bakın isterseniz. Ama taraycıı reklamları değil de oyundur vesaire o çıkan reklamları kusursuz engelliyorlar. Yıllardır kullanıyorum. Proil dosyasını indirin sonra ayarları açın kendi algılayıp pprofil indirildi diye uyaracak basıp erişim verirsiniz."
+      },
+      {
+        "cevap_metni": "DNS profili nasıl indireceğim peki anlatma şansınız var mıdır? Bir arkadaşımdan biliyorum oda ad guardın DNS kodunu yazdığında onda çalışmamıştı o yüzden bende denemedim."
+      },
+      {
+        "cevap_metni": "Çok teşekkür ederim."
+      }
+    ],
+    "cozum": "How to use AdGuard DNS in iOS bakın hocam.",
+    "sentiment": "neutral",
+    "reference_summary": "IPhone'da reklamları kapatmak mümkün müdür. Çözüm: How to use AdGuard DNS in iOS bakın hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "Süresi biten iPhone'a TR cihazı bir iPhone'un iCloud'u bağlanırsa arama yapılabilir mi?",
+    "soru": "Kullanım süresi bitmiş Apple cihazı yurt içi cihazın iCloud baglasam arama yapma şansım var mıı?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Evet var, diğer cihaza da arama gider."
+      },
+      {
+        "cevap_metni": "Arama yapamazsın ama arama alırsın."
+      }
+    ],
+    "cozum": "Evet var, diğer cihaza da arama gider.",
+    "sentiment": "neutral",
+    "reference_summary": "Süresi biten iPhone'a TR cihazı bir iPhone'un iCloud'u bağlanırsa arama yapılabilir mi. Çözüm: Evet var, diğer cihaza da arama gider.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "iPhone'da Steam QR kod bölümünde kamera açılmıyor",
+    "soru": "Merhaba arkadaşlar bilgisayarda Steam'den cıkış yaptım, tekrar giriş yapmam için QR kod okutmam gerek telefondan. QR okutma kısmına giriyorum ama kamera açılmıyor. Sebebi nedir? 2 gündür bu şekilde. Örnek fotoğrafı atacağım. Aslında orada bir bilgi vermişler kamera izni ile ilgili ama bulamadım. Telefon iPhone. Yardımcı olursanız çok sevinirim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sorunu bu şekilde çözdüm teşekkür ederim."
+      },
+      {
+        "cevap_metni": "Ayarlar > Gizlilik ve Güvenlik > Kamera adımlarını takip edip Steam'e izin verin."
+      },
+      {
+        "cevap_metni": "Maalesef kamera seçeneği yok orada, normalde yeni bir uygulama yükleyince ilk başta bildirim konum kamera izni gibi seçenekler sunar ama Steam sunmuyor sunmadı."
+      },
+      {
+        "cevap_metni": "Guard eski telefonumda kalmış. Şimdi taşıdım baktım. Bende de görünmüyordu. Uygulamalar > Steam > Kamera açamıyor musunuz? Ben öyle açında düzeldi. Eğer olmuyorsa şu sol alttaki \"Steam Guard kodunu göster\" deyip kod ile giriş yapın."
+      },
+      {
+        "cevap_metni": "Adamsın."
+      }
+    ],
+    "cozum": "Sorunu bu şekilde çözdüm teşekkür ederim.",
+    "sentiment": "negative",
+    "reference_summary": "iPhone'da Steam QR kod bölümünde kamera açılmıyor. Çözüm: Sorunu bu şekilde çözdüm teşekkür ederim.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "iPhone 15 ile iPhone 13 arasında internet hızı farkı var",
+    "soru": "Merhabalar, eşim ile birlikte yan yana telefonlardan Wild Rift oyunu oynuyoruz. Eşim iPhone 15 ben iPhone 13 kullanıyorum. Benim oyunumda sürekli ping dalgalanması mevcut iken eşimin telefonunda hiçbir problem yok. Bunun nedeni ne olabilir ya da yapabileceğim bir şey var mı? Yan yana ve aynı Wi-Fi kullanıyoruz.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Modemleri farklı çünkü. Teknoloji daha iyi 15'te. Doğal sayılabilir."
+      },
+      {
+        "cevap_metni": "Arkadaşın dediği gibi hocam 2 yıl teknoloji farkı var arada biraz normal. Ayrıca telefonların işletim sürümleride ufaktan fark eder. Bazen yeni güncellemelerle daha performanslı olabiliyor veya bazı sorunları çözebiliyorlar. Ama biraz fazla ping dalgalanması varsa normal değildir. iPhone 13 o kadar da kötü sinyal alacak cihazda değil. 2.4 GHz ve 5 GHz ağları oluyoor bazı modemlerde 2.4'e bağlıysanız olabilir, veya arka planda başka bir şeyler açıktır vesaire onlara dikkat edin."
+      },
+      {
+        "cevap_metni": "O kadar fark edeceğini hiç düşünmemiştim çok rahatsız edici bir durum, 5GHz ile bağlıyım hocam. Daha doğrusu mesh sistem üzerinden bağlanıyoruz. Dün de aynı şeyi yaşadım telefonu kapatıp açtığımda düzeldi ama sürekli kapat aç yapmak da olası bir durum değil. Anladığım kadarıyla kabulleneceğim durumu."
+      }
+    ],
+    "cozum": "Modemleri farklı çünkü. Teknoloji daha iyi 15'te. Doğal sayılabilir.",
+    "sentiment": "neutral",
+    "reference_summary": "iPhone 15 ile iPhone 13 arasında internet hızı farkı var. Çözüm: Modemleri farklı çünkü.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "iPhone'da bahis mesajları nasıl engellenir?",
+    "soru": "iPhone kullanıyorum, mesajlara sürekli bahis reklamı geliyor ve engelleyemiyorum. İstenmeyen bildirsem bile geliyor, programsız çözümü var mı?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Kesin bir çözümü yok, numara değiştiriyorum her sene ben. Eğer kumar sitesinde bir hesabınız varsa o mesajlar gelir."
+      },
+      {
+        "cevap_metni": "Bildirimler > Mesajlar > Bildirimleri Özelleştir > Bilinmeyen Gönderenler kısmından en azından bildirimlerini kapatabilirsiniz."
+      },
+      {
+        "cevap_metni": "Mesajlar önemli hocam, Android'deki gibi bahis mesajlarını engelleme özelliği sanırım yok. Kumar sitelerinde hesabım yok."
+      },
+      {
+        "cevap_metni": "Hayır, yok. Bu rehbere kayıtlı olmayanları filtreliyor ve kurunun yanında yaşı da yakıyor."
+      },
+      {
+        "cevap_metni": "Anladım, teşekkürler."
+      },
+      {
+        "cevap_metni": "Junkman uygulamasını kullanıyordum iOS 18 de bayağı güzeldi şu an iOS 26 da filtreleme yapıyorum."
+      }
+    ],
+    "cozum": "Kesin bir çözümü yok, numara değiştiriyorum her sene ben. Eğer kumar sitesinde bir hesabınız varsa o mesajlar gelir.",
+    "sentiment": "neutral",
+    "reference_summary": "iPhone'da bahis mesajları nasıl engellenir. Çözüm: Kesin bir çözümü yok, numara değiştiriyorum her sene ben.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "iPhone",
+    "baslik": "iPhone Bul kapattıktan sonra iCloud çıkışı yaparken şifre sorar mı?",
+    "soru": "Dostlar merhaba. Biraz karmaşık bir soru ama durum şöyle çbugün iPhone cihazımı Hepsiburada kapımda yenile ile sattım. Cihazımda iCloud giriliydi ancak iPhone'mi bul kapalı durumdaydı. Kuryeye vermeden önce direkt sıfırladım verdim. Herhangi bir iCloud şifresi sormadan çıkış yaptı. Bu durumda kurulum yaparken şifre ister mi yoksa iphonemi bul kapatınca tekrar hesaptan çıkış yaparken şifre istemeden çıkması normal midir?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Cihazı sıfırlarken zaten iCloud parolası soruyordu, temiz bir şekilde kurulum yapabilmek için. Eğer sıfırlarken sormadıysa sorun olacağını sanmıyorum."
+      }
+    ],
+    "cozum": "Cihazı sıfırlarken zaten iCloud parolası soruyordu, temiz bir şekilde kurulum yapabilmek için. Eğer sıfırlarken sormadıysa sorun olacağını sanmıyorum.",
+    "sentiment": "neutral",
+    "reference_summary": "iPhone Bul kapattıktan sonra iCloud çıkışı yaparken şifre sorar mı. Çözüm: Cihazı sıfırlarken zaten iCloud parolası soruyordu, temiz bir şekilde kurulum yapabilmek için.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "Kaspersky, Discord, Steam ve Epic'e bağlanmayı engelliyor olabilir mi?",
+    "soru": "Kaspersky kullanıyorum ve geçenlerde Splitwire Türkiye'yi kullanmaya başladım Discord'a girebilmek için. İlk başta bir şey yoktu falan dün birden Steam ana sayfasına girememeye, Discord'u açamamaya falan başladım, bazı uygulamalarda da internet bağlantınızı kontrol edin diyor fakat internete zaten bağlıyım. Kaspersky'ı silmek sorunu çözer mi?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Kaspersky GoodbyeDPI gibi şeyleri engelliyor. Sitelerinde de belirtildi zaten. Kısaca Kaspersky'i kaldırmak sorununuzu çözecektir."
+      },
+      {
+        "cevap_metni": "Bunun varlığından haberdarım fakat Kaspersky'i kapattığım vakit de sorun düzelmiyordu, illa silmem lazımmış demek ki. Kaspersky varken de bir süre çalışmıştı oysa, yanıtınız için teşekkür ederim!"
+      },
+      {
+        "cevap_metni": "Yardımcı olabildiysem ne mutlu. İyi sosyaller!"
+      }
+    ],
+    "cozum": "Kaspersky GoodbyeDPI gibi şeyleri engelliyor. Sitelerinde de belirtildi zaten. Kısaca Kaspersky'i kaldırmak sorununuzu çözecektir.",
+    "sentiment": "negative",
+    "reference_summary": "Kaspersky, Discord, Steam ve Epic'e bağlanmayı engelliyor olabilir mi. Çözüm: Kaspersky GoodbyeDPI gibi şeyleri engelliyor.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "Ethernet takılıyken internet yavaşlıyor",
+    "soru": "Arkadaşlar merhaba, laptop kullanıyorum, HP Victus 16. Arkadaşımla yan yana oyunlar vs. oynuyoruz. Kendi kablomu ona taktığımda bir sıkıntı olmuyor, ama bana takınca 200 MB’lik internet, kablo takılıyken bende 10 MB’e düşüyor ve upload neredeyse yok. Kabloyu çıkarttığım zaman ise 200 MB geri çıkıyor. Ama Valorant vs. oynadığım için pingin olmaması için Ethernet kullanmam gerekiyor. Driver’ı güncelledim, başka Ethernet kablosu da denedim fakat başarılı olamadım. Eski konulara bakınca da bu tarz bir sorun göremedim ve insanlar yaptıkları şeyleri adım adım göstermiyor ya da ben beceremedim. Yardımcı olabilir misiniz? Teşekkürler şimdiden.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Ağ sürücülerini güncellediyseniz fiziksel bir sorun olabilir. Öncelikle soketin içerisine bakın oturmama ihtimali olan bir yer var mı? Temassızlık yapabilecek? İyice temizleyin soket içini. Ardından yine de bir ağ ayarlarınızı gözden geçirin 1gbps modunda çalıştığından emin olun."
+      },
+      {
+        "cevap_metni": "Teşekkürler sorunu hallettim. Bir şey sormak istiyorum arkadaşımın laptopunda görselde gösterilen ayar otomatikte onunla benimki arasında ne farkı var da ondan böyle bir sorun olmadı da bende oldu?"
+      },
+      {
+        "cevap_metni": "Hız ikilisini cihaz otomatikte kullanıyormuş. Normalde pek fark etmez. Biz el ile en yükseğe çektik ki en yüksek hızı alabilsin tüm veri yollarını kullansın. İyi sosyaller."
+      }
+    ],
+    "cozum": "Ağ sürücülerini güncellediyseniz fiziksel bir sorun olabilir. Öncelikle soketin içerisine bakın oturmama ihtimali olan bir yer var mı? Temassızlık yapabilecek? İyice temizleyin soket içini. Ardından yine de bir ağ ayarlarınızı gözden geçirin 1gbps modunda çalıştığından emin olun.",
+    "sentiment": "negative",
+    "reference_summary": "Ethernet takılıyken internet yavaşlıyor. Çözüm: Ağ sürücülerini güncellediyseniz fiziksel bir sorun olabilir.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "Fiber internete nasıl geçilir?",
+    "soru": "Binaya yeni fiber optik kablo çekildi, binanın girişine kadar. Nasıl fiber internete geçiş yapabilirim? Veya farklı bir operatöre geçebilir miyim fiber internet için? Türk Telekom yazıyor kablonun üstünde Türk Telekom optik kablosu diye, paket yenileme işlemerinde fiber paketler gözükmüyor.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Biraz sabırlı olun, kablo çekilir çekilmez binada fibere geçiş ve satış işlemleri başlayamaz. Daha kablonun sonlandırılacağı OFDK (optik fiber dağıtım kutusu) yerleştirilmeli, bağlantıları yapılmalı. Ardından dairelere bu kutudan OBK adı verilen, iç tesisatta kullanılan fiber kablolarla fiber internet dağıtılır. Kablolar bazen Türk Telekom tarafından tüm dairelere kadar çekiliyor, bazen ise internet bağlatıldıkça çekiliyor ya da sizin çekmeniz isteniyor. Sizde henüz daha kutu bile yoksa paket satın almaya çalışmanız için pek doğru bir aşamada sayılmazsınız. Ayrıca kutu hazır olsa bile satışlar hemen açılmayabiliyor. Sizin bizim göremeyeceğimiz, santral tarafında dönen farklı hazırlıklar olabiliyor. Aktif olmasını sabırla beklemeniz lazım."
+      },
+      {
+        "cevap_metni": "TT altyapısı ile hizmet veren birçok firma var. Başvurduğunuz takdirde fiber üzerinden hizmet verebilirler ama altyapının aktif olması gerekli. Mevcut operatörünüzü telefonla ararsanız da paket değişikliği için yardımcı olabilirler ama fiber paket için yeni kablo çekmeleri ve cihaz vermeleri gerekecek."
+      },
+      {
+        "cevap_metni": "Doğru söylüyosun hocam akşam fotoğrafta atabilirim şu an doğal gaz borusunun üstünde sarkık şekilde duruyor."
+      },
+      {
+        "cevap_metni": "Atabilirsiniz, incelerim."
+      },
+      {
+        "cevap_metni": "OFDK'ye (optik fiber dağıtım kutusu) bağlanacak ana kablo. Yakında söz konusu kutuyu da montajlarlar."
+      },
+      {
+        "cevap_metni": "Fiber için fiber güçlü modem gerekiyormuş ben birkaç ay önce almıştım yeni modem iki Wi-Fi'li bir normal bir de 5G var sizce uyumlu mudur?"
+      },
+      {
+        "cevap_metni": "Kendi verdikleri cihazlar da genelde normal kullanıcı için yeterlidir. Sizin cihazınızda WAN portu varsa ve cihaz HGW olarak kullanılabiliyorsa uyumlu olur. Ancak TT fiber altyapısında HGW cihazı değiştirme ile ilgili pek bilgi sahibi değilim. Bu arada HGW dediğim şey halk arasında \"fiber modem\" olarak adlandırılan cihaz. Ancak bu bir modem değildir. Sonuçta telefon hattından gelen sinyali internete dönüştürmüyor."
+      },
+      {
+        "cevap_metni": "TP-Link EX520v AX3000 Fiber HGW Yeni bu Temmuz'dan sonra bu modemi veriyorlar biz kullanıyoruz ne iyi ne kötü."
+      }
+    ],
+    "cozum": "Biraz sabırlı olun, kablo çekilir çekilmez binada fibere geçiş ve satış işlemleri başlayamaz. Daha kablonun sonlandırılacağı OFDK (optik fiber dağıtım kutusu) yerleştirilmeli, bağlantıları yapılmalı. Ardından dairelere bu kutudan OBK adı verilen, iç tesisatta kullanılan fiber kablolarla fiber internet dağıtılır. Kablolar bazen Türk Telekom tarafından tüm dairelere kadar çekiliyor, bazen ise internet bağlatıldıkça çekiliyor ya da sizin çekmeniz isteniyor. Sizde henüz daha kutu bile yoksa paket satın almaya çalışmanız için pek doğru bir aşamada sayılmazsınız. Ayrıca kutu hazır olsa bile satışlar hemen açılmayabiliyor. Sizin bizim göremeyeceğimiz, santral tarafında dönen farklı hazırlıklar olabiliyor. Aktif olmasını sabırla beklemeniz lazım.",
+    "sentiment": "neutral",
+    "reference_summary": "Fiber internete nasıl geçilir. Çözüm: Biraz sabırlı olun, kablo çekilir çekilmez binada fibere geçiş ve satış işlemleri başlayamaz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "47 Mbps ile 98 GB dosya ne kadar sürede iner?",
+    "soru": "47 Mbps ile 98 GB dosya ne kadar sürede iner?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hocam el ile hesaplama yönetimini size hemen söyleyim, bundan sonra internet olmadan vesaire hesaplarsınız. 1 Mbps = 0,125 MB/s Bu durumda 47,1 Mbps = 5,8875 MB/S 1 GB = 1024 MB 98 GB = 100.352 MB Toplam indirme süresini saniye üzerinden bulmak istersek teorik olarak, 100.352/5.8875 = 17.044,92569002123 saniye yapar çıkan sonucu 60'a bölerek dakika cinsinden bulursunuz. 17.044,92569002123/60 = 284 Dakika yapar. Bu da yaklaşık 4,734701580561453 saattdir. Ancak belirtmek gerekir ki bu hız teorikdir. Dalgalanmalar, internetin ara sıra düşmesi veya sunucu performansı gibi problemler bu süreyi uzatacaktır."
+      },
+      {
+        "cevap_metni": "5 saat diyor."
+      },
+      {
+        "cevap_metni": "Ortalama 4.5 saatte indirim sağlarsın. Ağ üzerinde dalgalanma, ani kesinti veya sunucu limiti düşürme gibi olaylar girerse 5.5 - 6 saat gibi bir sürede indirebilirsin."
+      },
+      {
+        "cevap_metni": "Tel Aviv ne alaka Bu arada taş çatlasa 6 saat sürer dalgalanmalar vs olursa. Cartellin attığı siteden kendin istediğin gibi hesaplayabilirsin."
+      }
+    ],
+    "cozum": "Hocam el ile hesaplama yönetimini size hemen söyleyim, bundan sonra internet olmadan vesaire hesaplarsınız. 1 Mbps = 0,125 MB/s Bu durumda 47,1 Mbps = 5,8875 MB/S 1 GB = 1024 MB 98 GB = 100.352 MB Toplam indirme süresini saniye üzerinden bulmak istersek teorik olarak, 100.352/5.8875 = 17.044,92569002123 saniye yapar çıkan sonucu 60'a bölerek dakika cinsinden bulursunuz. 17.044,92569002123/60 = 284 Dakika yapar. Bu da yaklaşık 4,734701580561453 saattdir. Ancak belirtmek gerekir ki bu hız teorikdir. Dalgalanmalar, internetin ara sıra düşmesi veya sunucu performansı gibi problemler bu süreyi uzatacaktır.",
+    "sentiment": "neutral",
+    "reference_summary": "47 Mbps ile 98 GB dosya ne kadar sürede iner. Çözüm: Hocam el ile hesaplama yönetimini size hemen söyleyim, bundan sonra internet olmadan vesaire hesaplarsınız.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "GoodbyeDPI çalışmıyor",
+    "soru": "Merhaba, ben GoodbyeDPI açıyorum ne Roblox'a giriyor ne de Discord'a. Bana yeni bir link atar mısınız? Çok acil bir tane yüklemiştim içinden Cloudware ile bağlan, Google ile bağlan diye şeyler vardı.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Mesajlarınız için teşekkürler sorunu çözdüm splitware ile Superonline kullanıyorum alternetif 4'ü seçtim oldu."
+      },
+      {
+        "cevap_metni": "İnternet sağlayıcınız nedir?"
+      },
+      {
+        "cevap_metni": "GitHub - cagritaskn/GoodbyeDPI-Turkey: GoodbyeDPI (Türkiye için DNS değişikliği engelini bertaraf etme) (Windows) buradan en son sürümünü indirebilirsiniz"
+      }
+    ],
+    "cozum": "Mesajlarınız için teşekkürler sorunu çözdüm splitware ile Superonline kullanıyorum alternetif 4'ü seçtim oldu.",
+    "sentiment": "negative",
+    "reference_summary": "GoodbyeDPI çalışmıyor. Çözüm: Mesajlarınız için teşekkürler sorunu çözdüm splitware ile Superonline kullanıyorum alternetif 4'ü seçtim oldu.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "İki modem ile internet tam verimli kullanılmıyor",
+    "soru": "Ana modemim ZTE Zxhn H3600p V9 bu modemden CAT6 ile diğer 2. modemim ZTE Zxhn H168a bağlantı sağlıyorum. Şimdi 2. modemime telefondan Speedtest yaptığım zaman 170Mbps download alıyorum. Fakat 2. modemimden CAT6 kablo ile bilgisayarıma bağlantı kurduğum zaman anca 90Mbps hız alabiliyorum. Ayrıca ana modemimden gelen kabloyu bilgisayarıma bağladığım zaman 250Mbps download alıyorum. Bu tarz işlerden çok anlayan biri değilim, zar zor bağlayabildim zaten. Bu verim kaybını min seviyeye nasıl dusurebilirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Detaylı ayar yapacak kadar bir bilgim yok fakat kablosuz bağlandığım zaman kabloludan daha fazla download alıyorum. Bu durumda bir anormallik var fakat çözemedim. 2. modemi router gibi kullanıyorum şu anki sistemde. Sorunu çözdüm sorun ne modemde ne de kablolarda. İkinci modemin LAN portlari Max 100Mbps cikis sagliyormus. Modemde 1000BASE-T adlı WAN/LAN portu sadece 1Gigabit destekliyormus. Bu durumda ikinci modemi değistirmem gerekiyor."
+      },
+      {
+        "cevap_metni": "Modemlerde AP, repeater gibi modlar oluyor. Birkaç ayar yapmak gerekiyor. Yok uğraşmam dersen MESH uyumlu sistem alabilirsin."
+      }
+    ],
+    "cozum": "Detaylı ayar yapacak kadar bir bilgim yok fakat kablosuz bağlandığım zaman kabloludan daha fazla download alıyorum. Bu durumda bir anormallik var fakat çözemedim. 2. modemi router gibi kullanıyorum şu anki sistemde. Sorunu çözdüm sorun ne modemde ne de kablolarda. İkinci modemin LAN portlari Max 100Mbps cikis sagliyormus. Modemde 1000BASE-T adlı WAN/LAN portu sadece 1Gigabit destekliyormus. Bu durumda ikinci modemi değistirmem gerekiyor.",
+    "sentiment": "neutral",
+    "reference_summary": "İki modem ile internet tam verimli kullanılmıyor. Çözüm: Detaylı ayar yapacak kadar bir bilgim yok fakat kablosuz bağlandığım zaman kabloludan daha fazla download alıyorum.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "Bilgisayarda bağlantı hızı 10 Mbps ile sınırlı",
+    "soru": "Merhaba, bilgisayarda bağlantı hızım 10Mbps ile sınırlı. Bunu nasıl yükseltebilirim? Çünkü bunun yüzünden internetimin sağladığı hızları almıyorum.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sorun modemdeymiş modem üzerinden kısıtlı fakat galiba ya hiç sınırı kaldırılmıyor ya da servisi aramak gerekmiş."
+      },
+      {
+        "cevap_metni": "Aygıt yöneticisine gel oradan ağ bağdaştırıcılarına gel Realtek gbi family Controllere çift tıkla gelişmişe gel oradanda Speed duplexe gel 1 Gbps yap uygula de."
+      },
+      {
+        "cevap_metni": "BIOS güncellemeden önce bende yaşıyordum. İnternet kablosunu çıkar tak yaparak hız sınırını kaldırıyordum. Fotograf bırakıyorum oradanda kontrol edebilirsin."
+      },
+      {
+        "cevap_metni": "Hiçbiri işe yaramadı gene aynı."
+      },
+      {
+        "cevap_metni": "Telefonda 5 GHz ile test yapınca sonuç ne çıkıyor. Bir de bilgisayardan kabloyu sök tekrar tak olmazsa kablo bozuktur."
+      },
+      {
+        "cevap_metni": "Telefonda değerler normal çıkıyor dediğini de denedim."
+      },
+      {
+        "cevap_metni": "Kablo bozuk o zaman."
+      },
+      {
+        "cevap_metni": "adamsın knk teşekkür etmeye hesap açtım"
+      }
+    ],
+    "cozum": "Sorun modemdeymiş modem üzerinden kısıtlı fakat galiba ya hiç sınırı kaldırılmıyor ya da servisi aramak gerekmiş.",
+    "sentiment": "neutral",
+    "reference_summary": "Bilgisayarda bağlantı hızı 10 Mbps ile sınırlı. Çözüm: Sorun modemdeymiş modem üzerinden kısıtlı fakat galiba ya hiç sınırı kaldırılmıyor ya da servisi aramak gerekmiş.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "Cloudflare WARP servisi çalışmıyor",
+    "soru": "Cloud WARP ve sitelere bağlanamıyorum ama YouTube girebiliyorum. Daha düne kadar bir sorun yoktu.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Genel olarak bir sorun yaşanıyor sanırım. Bende de aynı şekilde."
+      },
+      {
+        "cevap_metni": "YouTube girebilmen normal, çünkü google kendi CDN'ini kullanıyor."
+      },
+      {
+        "cevap_metni": "Bende düzeldi şu an."
+      },
+      {
+        "cevap_metni": "Bende yeni başladı."
+      },
+      {
+        "cevap_metni": "Bende de aynı şekilde şu anda Cloudflare altyapısını kullanan sitelere bağlanamıyorum."
+      }
+    ],
+    "cozum": "Genel olarak bir sorun yaşanıyor sanırım. Bende de aynı şekilde.",
+    "sentiment": "negative",
+    "reference_summary": "Cloudflare WARP servisi çalışmıyor. Çözüm: Genel olarak bir sorun yaşanıyor sanırım.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "Modem kendini resetledi",
+    "soru": "Dün gece maç izlerken modem reset attı, sonra hiç yapmadı. Neden olmuş olabilir, Türk Telekom'un verdiği modemi kullanıyorum? Vc220 g3u Endişelenmeli miyim? Şu an hiç sıkıntı yok ama. Gece yatarken modemi kapatıyorum bir de indirme yoksa.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hocam zaten resetleme sebebi o geceleri genelde güncelleme gönderir ISS firmaları yoğun olmayan saatlerde. Bu da ortalama sizin maç izlediğiniz zamana denk gelmiştir ve mümkünse gece kapatmayın. Geceleri güncelleme gönderiyorlar."
+      },
+      {
+        "cevap_metni": "Hay Allah razı olsun. Korktum be ya. Tamam açık tutucam"
+      },
+      {
+        "cevap_metni": "Modem kendini resetliyorsa arkadaşın dediği gibi güncelleme yapiyor veya teknik çalışma."
+      },
+      {
+        "cevap_metni": "Dün gece 22.00 de bir kere yaptı sonra hiç yapmadı"
+      }
+    ],
+    "cozum": "Hocam zaten resetleme sebebi o geceleri genelde güncelleme gönderir ISS firmaları yoğun olmayan saatlerde. Bu da ortalama sizin maç izlediğiniz zamana denk gelmiştir ve mümkünse gece kapatmayın. Geceleri güncelleme gönderiyorlar.",
+    "sentiment": "neutral",
+    "reference_summary": "Modem kendini resetledi. Çözüm: Hocam zaten resetleme sebebi o geceleri genelde güncelleme gönderir ISS firmaları yoğun olmayan saatlerde.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "İnternet Erişimi",
+    "baslik": "Kablolu internette kopmalar oluyor",
+    "soru": "Bilgisayarımda yeni ortaya çıkan bir sorun, internetim Ethernet kablosu ile bağlı, birazcık yük binince internet kopuyor, Wi-Fi'da bir sorun yok sadece benim bilgisayarımda kopuyor. Kabloyu çıkar tak veya Ethernet'i bilgisayar üzerinden devre dışı bırakıp tekrar etkinleştirdiğimde sorun çözülüyor ama tekrar yük bindiğinde yeniden kopuyor. Oyun oynarken hiçbir sıkıntı olmuyor, genelde yüksek çözünürlüklü video veya bir indirme yaptığımda oluyor. İnternette birkaç çözüm gördüm ve denedim fakat işe yaramıyor. Bunu nasıl çözebilirim? Teşekkürler.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Format attım çözüldü."
+      }
+    ],
+    "cozum": "Format attım çözüldü.",
+    "sentiment": "negative",
+    "reference_summary": "Kablolu internette kopmalar oluyor. Çözüm: Format attım çözüldü.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "PixelExperience recovery tek seferlik mi?",
+    "soru": "PixelExperience ROM kurmak istiyorum tabletim ile bugjeager denen uygulama ile PixelExperience kendi recoverysini kullanacağım. Ancak Fastboot flash recovery yazınca tek seferlik recovery atıyor cihaza ben ROM'u kurduktan sonra PixelExperience recovery tamamen kurulacak mı yoksa gidecek mi ben elimle tekrar mı atacağım başka sürüm kurmak istediğimde cihaz Redmi 9T lime 4/128 Derseniz neden tabletle atıyorsun bilgisayarın yok mu? Var ama Linux çalıştırıyor bu birinci sorun ikinci sorun evde sadece tek kablo var o da tip cden tip cye evdeki tek tip C cihaz da tabletim. Linux ve Windows bu tip C kabloyu anlamıyor. Dönüştürücü de yok durum bu açıklayın ilk defa yapacağım. Bu arada saçma sorular sormayın bootloader kilidi açık",
+    "cevaplar": [
+      {
+        "cevap_metni": "BugJaeger çalışacaktır. Root ile recovery menüleri tamamen bağımsız şeyler, yorumu yapan her kimse 2014 Samsung zamanlarına dönmüş anlaşılan."
+      },
+      {
+        "cevap_metni": "Tek seferlik atılması için boot komutuyla yollanması gerekiyor: fastboot boot recovery.img Bahsettiğiniz flash komutu imajı kalıcı olarak yazacaktır."
+      },
+      {
+        "cevap_metni": "Kusuruma bakmayin bu işlerde biraz yeniyim. Bir şey daha sorayım bu bugjeager programı işe yarar mı? Çünkü bir YouTube kanalındaki yorumlarda öyle diyorlardı \"tek seferlik oluyor root atılması gerek kalıcı olması için TWRP için\" bende TWRP kurmayacağım ama PixelExperience recoverysinde de böyle mi diye sormak istiyorum. Farklı program şimdi ne yapacağını bilmiyorum."
+      },
+      {
+        "cevap_metni": "Anladım çok teşekkür ederim normalde dsu sideloader ile GSI kuruyordum ancak 47 GB alan yetmedi o yüzden böyle bir yönteme başvurmak istedim. Hocam güle güle MIUI yaptım oldu sonunda ilk başta sideload et dedi bende o komut yerinden yazdım sideload meğer alttaymış kalbime indi artık düz kontak PixelExperience var."
+      }
+    ],
+    "cozum": "BugJaeger çalışacaktır. Root ile recovery menüleri tamamen bağımsız şeyler, yorumu yapan her kimse 2014 Samsung zamanlarına dönmüş anlaşılan.",
+    "sentiment": "negative",
+    "reference_summary": "PixelExperience recovery tek seferlik mi. Çözüm: BugJaeger çalışacaktır.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "PC'den telefona atılan dosya okuldaki bilgisayarda açılabilir mi?",
+    "soru": "PC'de Photoshop'tan yaptığım bir ödev var, telefona attım. Telefonda ise okuldayken oradaki bilgisayarlara koyabilir miyim? Kablo götüreceğim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Eğer okuldaki bilgisayarların USB portları devre dışı bırakılmadıysa atılabilir, ama genelde güvenlik amacıyla devre dışı bırakılıyor."
+      },
+      {
+        "cevap_metni": "Oluyor oluyor yapıyorduk biz."
+      },
+      {
+        "cevap_metni": "O zaman yaparsın burada sormana gerek yoktu dostum."
+      },
+      {
+        "cevap_metni": "Önlem alma amacıyla sorum dedim"
+      },
+      {
+        "cevap_metni": "İyi yaptın o zaman kardeşim inşallah atabilirsin"
+      },
+      {
+        "cevap_metni": "Sağ ol abiii."
+      },
+      {
+        "cevap_metni": "Eğer sizin okulda olmuyorsa Wetransfer veya benzeri bir site kullanabilirsiniz."
+      }
+    ],
+    "cozum": "Eğer okuldaki bilgisayarların USB portları devre dışı bırakılmadıysa atılabilir, ama genelde güvenlik amacıyla devre dışı bırakılıyor.",
+    "sentiment": "neutral",
+    "reference_summary": "PC'den telefona atılan dosya okuldaki bilgisayarda açılabilir mi. Çözüm: Eğer okuldaki bilgisayarların USB portları devre dışı bırakılmadıysa atılabilir, ama genelde güvenlik amacıyla devre dışı bırakılıyor.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "Google Play üstünde 2 cihaz gözüküyor",
+    "soru": "Yeni telefona geçtim. Her işlem bitene kadar eskisini sıfırlamadım. Şu anda eski cihazım sıfırlandı, hatta başka hesap ile kuruldu ve çalışıyor. Google hesap ayarlarından da oturumu kapat dedim fakat yine de resimdeki durum var. Hatta sıfırlamadan önceki tüm uygulamalarım da cihazda aktif uygulama gibi. Nasıl kaldırırım?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sorunu çözdüm. Kaldırmak için bilgisayardan Play Store'a girip cihazlarıma tıklıyoruz profilden."
+      },
+      {
+        "cevap_metni": "Bende de öyle hocam. Hala 10 yıl önceki telefonum gözüküyor. Halbuki kırıldı gitti. Sorun yaşamazsınız."
+      },
+      {
+        "cevap_metni": "Sorundan değil de silinse iyi olurdu. Belki bu telefonu bir ara sıfırlarsam geçer. Sadece orda gözüküyor zaten."
+      },
+      {
+        "cevap_metni": "Google Play ayarlarında olması gerek aslında. Ben umursamadığım için ellemedim."
+      }
+    ],
+    "cozum": "Sorunu çözdüm. Kaldırmak için bilgisayardan Play Store'a girip cihazlarıma tıklıyoruz profilden.",
+    "sentiment": "neutral",
+    "reference_summary": "Google Play üstünde 2 cihaz gözüküyor. Çözüm: Sorunu çözdüm.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "Recovery Unisoc T610 işlemciye TWRP portlamak",
+    "soru": "Arkadaşlar merhaba. Okulun dağıttığı ADT1061 tabletlerde spreadtrum tiger T610 işlemci var. Bence çok iyi bir işlemci ama hiç kimse bu işlemci üzerine bir şeyler yapmamış. Bende bu tablete ilk başta Custom ROM kurmak istedim ve forumda gezerken tabletin gsı treble özelliğine sahip olduğunu öğrendim. Bu sayede tablete birçok Custom ROM kurabiliyorum. Ama iki sorunum var. 1. Sorun: Tablete Magisk kuramıyorum. ( @barankrky hocam yaptı ama sadece stock ROM'la çalışıyor ve sürümü gerideydi) tablette Magisk uygulamasından magisk_patched_xxxx. İmg dosyasını aldıktan sonra Fastboot yardımıyla flashlıyorum ve tableti yeniden başlattığımda açılmıyor.(yani aıdata yazısında kalıyor). Vbmeta dosyasından şüpheliyim. 2. Sorun: Tablete TWRP portlanmıyor. İnternette ne kadar araştırdıysam T610 işlemciye TWRP portlamamışlar. Bu yüzden kendim portlamak istedim ancak başarısız oldum. (bunun nedenini bilmiyorum. Benim hatam yüzünden olabilir.) Sorunlarım bunlardı. @Umut Nas hocam yardımcı olursanız çok sevinirim. Cevaplarınız için şimdiden teşekkürler.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Build olmadığı için imkansız."
+      },
+      {
+        "cevap_metni": "İşlemci için bir Build çalışması olmadığı için TWRP bulmak imkansız."
+      },
+      {
+        "cevap_metni": "Portlama ile olmaz mı?"
+      },
+      {
+        "cevap_metni": "Magisk'i nasıl yapabilirim? (hiç olmasa stock sürümdeki Magisk versiyonunu güncellemek istiyorum)"
+      },
+      {
+        "cevap_metni": "Cihazın bootloader kilidini açtınız mı? Ben Unisoc T610 işlemciye sahip Reeder S19 Max Pro cihazına sahibim. Bootloader kilidini bir türlü açamadım. Bootloader kilidini açamadığım için root ve magisk kuramıyorum."
+      },
+      {
+        "cevap_metni": "Hala ilgileniyorsanız yardımda bulunabilirim"
+      }
+    ],
+    "cozum": "Build olmadığı için imkansız.",
+    "sentiment": "negative",
+    "reference_summary": "Recovery Unisoc T610 işlemciye TWRP portlamak. Çözüm: Build olmadığı için imkansız.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "NFC ödeme özelliği Türkiye'de neden kullanılmıyor?",
+    "soru": "NFC ödemeyi çok kolaylaştıran bir özellik değil mi, neden kullanılmıyor? Yarın kullanmayı deneyeceğim ilk defa, Türkiye'deki POS makineleri NFC destekliyor mu?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Kullanabiliyorsunuz, kim diyor kullanılamıyor diye? Ben 2 yıldır kullanıyorum telefon ile. 1 yila yakındır saatle de kullanıyorum. iOS tarafında kapalı sadece fakat onun de yöntemleri var."
+      },
+      {
+        "cevap_metni": "Hocam var hatta giyilebilir teknoloji ile de geldi. Yüzükler falan. Feci geride kalmışsınız giyilebiliri geçtim ne zamandır telfonu POS yapıyor kuryeciler."
+      },
+      {
+        "cevap_metni": "Kullanan hiç görmedim, telefon desteklemedigi için bende kullanmadım, yarın deneyeceğim ilk defa da rezil olmayalım diye konu açtım. Her pos makinesi destekliyor mu, kasadaki kişiye NFC ile ödeyeceğim dememe gerek var mı? Hocam antik telefon kullandığım için, çevremde de kullanan olmadığı için maalesef ."
+      },
+      {
+        "cevap_metni": "Temassız ödeme destekleyen bütün POS makineleri ile kullanabilirsiniz."
+      },
+      {
+        "cevap_metni": "İyi yapmışsınız hocam konuyu açmakla. Temassız var ise posta okut geç. Estağfurullah hocam antik telefon falan aşağılama olmasın tabii kullanmayabilirsiniz yeni telefon."
+      },
+      {
+        "cevap_metni": "Kullanılıyor hocam."
+      },
+      {
+        "cevap_metni": "Teşekkürler, mağaradan ciktim sayenizde. Temassiz ödeyecegim desem yetiyor o halde, teşekkür ederim. Yok valla antikti hocam yeni değiştik, nfcyi görünce ateşi keşfetmiş gibi oldum."
+      },
+      {
+        "cevap_metni": "Nasıl yapılıyor? Bahsettiğiniz şey pos makinesine telefonu okutmak değil mi? Ben mağara devrinde falan kaldım sanırım."
+      },
+      {
+        "cevap_metni": "Ya hocam ne mağarası falan ben geçen seneye kadar iPhone 4S kullanıyordum. Aşağılamayın ben bu konuda nedense takıntılıyım hocam geçmişte zorbalık görmüş biri olarak."
+      }
+    ],
+    "cozum": "Kullanabiliyorsunuz, kim diyor kullanılamıyor diye? Ben 2 yıldır kullanıyorum telefon ile. 1 yila yakındır saatle de kullanıyorum. iOS tarafında kapalı sadece fakat onun de yöntemleri var.",
+    "sentiment": "neutral",
+    "reference_summary": "NFC ödeme özelliği Türkiye'de neden kullanılmıyor. Çözüm: Kullanabiliyorsunuz, kim diyor kullanılamıyor diye?",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "Tablet için ekran görüntüsü uygulaması önerisi",
+    "soru": "Tabletimi genelde klavye ve mouse ile kullanıyorum. Fakat klavyemde prntscr tuşu maalesef yok. İstediğim tuşa ekran görüntüsü atamanın bir yolu veya bu işe yarayan bir uygulama var mı? Bilgisayardaki LightShot uygulaması gibi bir seçenek varsa çok memnun olurum.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Win+Shift+S gibi bir ekran goruntusu kısayolu yok mu?"
+      },
+      {
+        "cevap_metni": "Buton yerine 3 parmak ile ekran görüntüsü almayı aktif edebilirsiniz isterseniz."
+      },
+      {
+        "cevap_metni": "Evet aktif olarak bende kullanıyorum feci bir şey."
+      },
+      {
+        "cevap_metni": "Çok teşekkür ederim varmış istediğim yeri de seçmeme olanak sağlıyor çözüm olarak işaretleyeceğim. Teşekkür ederim bunu da kullanacağım sağ olun."
+      },
+      {
+        "cevap_metni": "Rica ederim."
+      }
+    ],
+    "cozum": "Win+Shift+S gibi bir ekran goruntusu kısayolu yok mu?",
+    "sentiment": "positive",
+    "reference_summary": "Tablet için ekran görüntüsü uygulaması önerisi. Çözüm: Win+Shift+S gibi bir ekran goruntusu kısayolu yok mu?",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "T290 T290XXS5CWG5 için Custom ROM ve TWRP var mı?",
+    "soru": "Merhaba. T290 T290XXS5CWG5 uygun TWRP ve CUSTOM ROM var mıdır? Artı olarak şu anda cihazımda FRP bulunmakta bundan dolayı istiyorum zaten TWRP veya Custom ROM ve bildiğim kadarıyla T290'a uygun TWRP bulunmamakta ama bir sorayım dedim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Artık Custom ROM ve Custom Recovery mümkün bu cihazlara."
+      },
+      {
+        "cevap_metni": "Sağ ol abi vallahi, bu işler senden sorulur Abi vallahi olursa hayatımı kurtarırsın. Olursa haber vereceğim. Yahu OEM açık değil galiba, failledi. Bir de only official released binaries... hatası verdi. Bunun çözümü var mı peki? FRP var cihazda, açamıyorum ayarları."
+      },
+      {
+        "cevap_metni": "FRP bypass Google hesabı sadece paralı uygulamalar ile oluyor bu cihaz."
+      },
+      {
+        "cevap_metni": "Ah be, bu tableti kullanmayı çok istiyordum. Peki official bir Android 6 veya 5 ROM'u var mı bu tabletin? Android 5 için bir taktiğim var da."
+      },
+      {
+        "cevap_metni": "Imkansız zaten cihaz kutudan Android 9 ile çıkıyor."
+      },
+      {
+        "cevap_metni": "anladım download mode'de oem lock ON (L) yazıyor büyük ihtimalle kapalı yapacak birşey yok yinede teşekkür ederim abi ne kadarsa bir bakarım ismi nedir programın atarsan sevinirim"
+      },
+      {
+        "cevap_metni": "Samfw frp tool denedin mi Samfw frp tool denedin mi Custom recovery ben kurmuştum root atmaya çalışınca yine secure check fail veriyor bypasslamama rağmen acaba bir çözümü var mı yoksa bu cihazlarda hala root koruması duruyor mu?"
+      }
+    ],
+    "cozum": "Artık Custom ROM ve Custom Recovery mümkün bu cihazlara.",
+    "sentiment": "neutral",
+    "reference_summary": "T290 T290XXS5CWG5 için Custom ROM ve TWRP var mı. Çözüm: Artık Custom ROM ve Custom Recovery mümkün bu cihazlara.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "Android telefona inip kaybolan APK dosyası virüs müdür?",
+    "soru": "Android telefonumda VPN açıkken gizli sekmede bir sitedeyken birden GTA 6 isimli bir APK dosyası indirildi, o anlık korkuyla direkt uygulamayı kapattım. Dosya ismini her yerde aradım ama telefonumda bulamadım. 2 farklı ücretsiz uygulamada test yaptırdım bir şey cıkmadı ama yine de korkuyorum, bir şey olmuş mudur?",
+    "cevaplar": [
+      {
+        "cevap_metni": "APK dosyasını kurmadığınız için sorun olmaz."
+      },
+      {
+        "cevap_metni": "Arkadaşın dediği gibi kurmadığınız sürece bir şey olmaz ve anlattığınız yazılım virüstür."
+      }
+    ],
+    "cozum": "APK dosyasını kurmadığınız için sorun olmaz.",
+    "sentiment": "neutral",
+    "reference_summary": "Android telefona inip kaybolan APK dosyası virüs müdür. Çözüm: APK dosyasını kurmadığınız için sorun olmaz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "McDonald's uygulaması hata veriyor",
+    "soru": "Arkadaşlar bundan 3 4 ay önce McDonald's uygulamasını indirmiştim indirim gibi bir şey vardı sanırsam. Ama telefonunuz kaçak tarzı bir şey diyordu. Şimdi bir daha denedim şimdi hata diye bir şey diyor. Uygulama güncel görünüyor Play Store'da silip tekrar yükledim olmadı.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Telefonun kacak mi? Ya da bootloader acik mi?"
+      },
+      {
+        "cevap_metni": "Cihazda root var sanırım?"
+      },
+      {
+        "cevap_metni": "Ben root yapmadım ama yurt dışından geldi telefon IMEI yapıp falan kullanıyorum rootlu mudur nereden öğrenebilirim? Kaçak telefon evet.Bootloader ne bilmiyorum nerden bakabilirim ona?"
+      },
+      {
+        "cevap_metni": "Ben de aynı sorunu yaşıyorum, yanlış bilmiyorsam bootloader kilidi açık telefonlarda bu hatayı veriyor. Telefonunuzu kapatıp-açarken ekranın üstünde açık kilit logosu görüyorsanız bilin ki bootloader açıktır. Benim telefonum root'suz ama bootloader ile yazılım kurdurduğum için ben de kullanamıyorum bir çözüm bulursanız lütfen yazın."
+      },
+      {
+        "cevap_metni": "Benim iPhoneda da aynı hata oldu var mı bir çözümü?"
+      },
+      {
+        "cevap_metni": "hocam çözüm bulabildiniz mi kendi kendine mi düzeldi yoksa"
+      }
+    ],
+    "cozum": "Telefonun kacak mi? Ya da bootloader acik mi?",
+    "sentiment": "negative",
+    "reference_summary": "McDonald's uygulaması hata veriyor. Çözüm: Telefonun kacak mi?",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Android",
+    "baslik": "Custom ROM Recovery Redmi Note 8 Pro MI Unlock görmüyor",
+    "soru": "Performans arttırmak için crDroid yüklemek istiyorum fakat Fastboot modunda cihazı bağladığımda MI Unlock görmüyor. + aygıt yöneticisinde cihazın yanında ünlem var ve PC'den sürekli USB bağlantı kesilme sesi geliyor. OEM ve USB hata ayıklama açık.",
+    "cevaplar": [
+      {
+        "cevap_metni": "ADB driver yoktur, bunu kur hala görmezse 2. linki de kur."
+      },
+      {
+        "cevap_metni": "Yükledim bilgisayara bir şey değişmedi."
+      },
+      {
+        "cevap_metni": "Yorumumu düzenledim Xiaomi driver var onu da yükle, PC restart at düzelmesi lazım."
+      },
+      {
+        "cevap_metni": "Yükledim bilgisayara bir şey değişmedi. Deneyeyim teşekkürler. Latest USB driver Windows, bunu tam olarak nasıl kuracağım? Dosyaya bakınca bir şey anlayamadım. Oldu galiba Android ADB Interface olarak gözüküyor."
+      },
+      {
+        "cevap_metni": "ABD üzerinde gözüküyorsa muhtemelen Fastboot üzerindede gözükür, şu anda MI Unlock üzerinde gözüküyor olması lazım hala gözükmezse MI Unlock üzerinde driver klasörü olması lazım onu da kur."
+      },
+      {
+        "cevap_metni": "MI Unlock üzerinde de gözüküyor teşekkürler sadece 168 saat beklememi istiyor başka bir sıkıntı yok"
+      },
+      {
+        "cevap_metni": "Sen garanti olsun diye 10 gün bekle extra olarak süre dolmadan tekrar kilit açma başvurusunda bulunursanız 168 saatlik süre yeniden başlıyor şimdiden bol şans, bu arada hangi cihazı kullanıyorsun?"
+      },
+      {
+        "cevap_metni": "Anladım teşekkürler, şuanki cihazım Galaxy A16 256/8."
+      }
+    ],
+    "cozum": "ADB driver yoktur, bunu kur hala görmezse 2. linki de kur.",
+    "sentiment": "neutral",
+    "reference_summary": "Custom ROM Recovery Redmi Note 8 Pro MI Unlock görmüyor. Çözüm: ADB driver yoktur, bunu kur hala görmezse 2.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "İtopya geç kargo yaptı ve ekran kartı gelmedi",
+    "soru": "Selamlar, bugün kasa geldi fakat içinde ekran kartı yok. Gelen kutunun içinde de ekran kartı yok. Şaşırdım kaldım. Kargocu tek kutu verdi ve içinde ekran kartı yok, takılı da değil zaten. İtopya'ya mail attım muhtemelen yarın dönüş alırım ya da ararım fakat neden ekran kartı farklı kutuda geliyor ayrıca bir de onun kargosunu beklemek var yaşayan var mı?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hazır sistemlerde iki farklı kutu ile gelir. Bir kasanın olduğu kutu. Birde parçaların kutularının ve ekran kartının olduğu kutu. Kablo olarak sadece PSU kablosu gelecek zaten. PSU kasanın içindeyse kutudadır. Ayrı bir PSU ise kargoda kutunun içindedir. İtopya'lık bir şey yok. Normal prosedürdür bu. Her firma hazır sistemleri böyle gönderir. Gerisi kargoya kalmış."
+      },
+      {
+        "cevap_metni": "Stoklarında yoksa belki başka bir mağazadan kargolanmış olabilir."
+      },
+      {
+        "cevap_metni": "Kırılmasın diye ayrı."
+      },
+      {
+        "cevap_metni": "23'ünde sipariş verdim. Ayın kaçı oldu daha yeni kasa geldi sevindik, ekran kartı yok"
+      },
+      {
+        "cevap_metni": "Parçaların kutuları geldi mi? Muhtemelen onlarla gelir."
+      },
+      {
+        "cevap_metni": "Hocam tek gelen şey kasa, kablo falan hiçbir şey yok. Kutu falan sıfır."
+      },
+      {
+        "cevap_metni": "Tüm hazır sistemler ekran kartı sökülü şekilde gelir zaten. Bu durumda bir sorun yok. Sizin sorun ekran kartının aynı kutuda olmaması. Geneli aynı kutuda gelir ama size gelmediğine göre yukarıdaki arkadaşın dediği gibi stok sorunu varsa başka mağazadan gelme ihtimali olabilir."
+      },
+      {
+        "cevap_metni": "Sistem elimde, ekran kartı takılmamış halde sabah saatinde geldi taktım ve sorun yok şimdilik. Fakat, RAM'ler 5200 MHz almıştım, 4800'e ayarlanmış. Arttırsam problem olur mu?"
+      },
+      {
+        "cevap_metni": "Hocam diğer kutuları gönderdiler mi?"
+      }
+    ],
+    "cozum": "Hazır sistemlerde iki farklı kutu ile gelir. Bir kasanın olduğu kutu. Birde parçaların kutularının ve ekran kartının olduğu kutu. Kablo olarak sadece PSU kablosu gelecek zaten. PSU kasanın içindeyse kutudadır. Ayrı bir PSU ise kargoda kutunun içindedir. İtopya'lık bir şey yok. Normal prosedürdür bu. Her firma hazır sistemleri böyle gönderir. Gerisi kargoya kalmış.",
+    "sentiment": "neutral",
+    "reference_summary": "İtopya geç kargo yaptı ve ekran kartı gelmedi. Çözüm: Hazır sistemlerde iki farklı kutu ile gelir.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "Sneaks Up üzerinden ayakkabı değişimi nasıl yapılır?",
+    "soru": "Sneaks Up uygulamasından indirimli bulduğum için bir ayakkabı siparişi verdim ve internet üzerinden ilk ayakkabı siparişi deneyimim. Ayakkabı sorunsuz geldi fakat ayağımı sıktı, bir büyük nedeni uygun olur gibi. Fakat ne uygulamada ne de sitede yardım kısmında nereden nasıl iade yapabileceğimi bilmiyordum. DHL ecommerce kargo firması getirdi kargomu ve daha kargo bana geleli 2 gün oldu. Ürünün değişimi için şubeye gitmeden evimden almaları mümkün mü? Mümkünse nereden nasıl yaparım? Yardımcı olursanız çok sevinirim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Yurtiçi Kargo veya DHL kargo ile 30 gün içinde ürüne zarar vermeden, etiketleri dahil ürünü aldığın gibi olması kaydıyla iade gerçekleştirebilirsin. Kurye çağırmak içinse; DHL eCommerce | Bireysel Gönderi DHL'den de gönderi oluştururken adresten alım seçeneğini seçmen yeterli."
+      },
+      {
+        "cevap_metni": "Çok teşekkür ederim."
+      }
+    ],
+    "cozum": "Yurtiçi Kargo veya DHL kargo ile 30 gün içinde ürüne zarar vermeden, etiketleri dahil ürünü aldığın gibi olması kaydıyla iade gerçekleştirebilirsin. Kurye çağırmak içinse; DHL eCommerce | Bireysel Gönderi DHL'den de gönderi oluştururken adresten alım seçeneğini seçmen yeterli.",
+    "sentiment": "neutral",
+    "reference_summary": "Sneaks Up üzerinden ayakkabı değişimi nasıl yapılır. Çözüm: Yurtiçi Kargo veya DHL kargo ile 30 gün içinde ürüne zarar vermeden, etiketleri dahil ürünü aldığın gibi olması kaydıyla iade gerçekleştirebilirsin.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "Hepsiburada'dan alınan HP Victus 50W olduğu için iade edilebilir mi?",
+    "soru": "Hepsiburada'dan laptop aldım. Müşteri ürün danışmanı 75 watt olduğunu söyledi, elime gelince 50 W çıktı. İçine Windows 11 kurdum. İade edebilir miyim? Windows 11 kurulu şekilde FreeDOS yapmak için ekstra bir para vermek istemiyorum.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Direk gönderin hocam. İsterseniz önce bir müşteri hizmetlerini arayın ama sorun çıkartacaklarını sanmıyorum."
+      },
+      {
+        "cevap_metni": "İnternetten alınan ürünler için 14 gün sorgusuz iade hakkınız var, iade etmek zorundalar. Mesafeli yöntemle yapılan alışverişlerde, satıcı, cayma bildiriminin kendisine ulaşmasından itibaren on dört gün içerisinde tüketicinin ödemiş olduğu bedeli iade etmek zorundadır. Ayrıca, tüketici cayma bildirimini yönelttiği tarihten itibaren on gün içerisinde satın aldığı malı iade etmek zorundadır."
+      },
+      {
+        "cevap_metni": "NVİDİA denetim masasından kontrol ettiniz mi? Zira Boost ile 75W olması gerekiyor o modelin."
+      },
+      {
+        "cevap_metni": "Ürünü ne zaman satın aldınız, 14 günü geçmediyse \"beğenmedim\" demeniz bile iade için yeterli."
+      },
+      {
+        "cevap_metni": "Eğer 14 gün geçtiyse ve buna rağmen iade etmek istiyorsanız, mevzuata göre siz yine haklı bulunacaksınız, satıcının yanlış bilgilendirme yapması ve sizi yanlış yönlendirmesi tamamen suçtur."
+      },
+      {
+        "cevap_metni": "Beğenmedim de geç detaya gerek yok. İade edersin."
+      },
+      {
+        "cevap_metni": "Denetim Masası'ndan baktım, birçok oyun testi yaptım ve hiçbir oyunda aşırı zorlamama rağmen 50W'i geçmedi. Denetim masasında 50W gosteriyor. Windows kalsa sıkıntı olur mu? Zira FreeDOS yapmak için yine bilgisayarciya para harcamak istemiyorum."
+      },
+      {
+        "cevap_metni": "Windows yüklemeniz sisteme donanımsal bir zarar vermediği için genelde sorun olmaz. Lakin bazı satıcılar gıcık. Direk HP satıcısından aldıysanız sıfırlama yapmanıza gerek yok. Ne olur ne olmaz diye kişisel bilgileriniz varsa silin sadece. Kullanılmış ama zarar görmemiş olarak değerlendireceklerdir"
+      },
+      {
+        "cevap_metni": "Hepsiburada kendi satıyor, oradan aldim."
+      }
+    ],
+    "cozum": "Direk gönderin hocam. İsterseniz önce bir müşteri hizmetlerini arayın ama sorun çıkartacaklarını sanmıyorum.",
+    "sentiment": "neutral",
+    "reference_summary": "Hepsiburada'dan alınan HP Victus 50W olduğu için iade edilebilir mi. Çözüm: Direk gönderin hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "Xbox Series S PES'e gelen 20 TL'lik paket Kuveyt Türk ile alınamıyor",
+    "soru": "Merhaba, Xbox Series S'imde PES'e gelen 20 TL'lik paketi alacağım ancak ödemede Kuveyt Türk kartımı kabul etmiyor. Paketi nasıl alabilirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Troy şemasından dolayıdır. VISA veya Mastercard şemalı bir kartla dene."
+      }
+    ],
+    "cozum": "Troy şemasından dolayıdır. VISA veya Mastercard şemalı bir kartla dene.",
+    "sentiment": "neutral",
+    "reference_summary": "Xbox Series S PES'e gelen 20 TL'lik paket Kuveyt Türk ile alınamıyor. Çözüm: Troy şemasından dolayıdır.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "Hepsiburada faturası görüntülenemiyor",
+    "soru": "Arkadaşlar selam, ben 3 Ocak 2024'te. Asus VP249QGR 23.8\" 144Hz 1ms (Analog+Display+HDMI) FreeSync Full HD IPS Monitör İsimli monitörü sipariş ettim. Bundan aylar sonra da faturası elime ulaştı, buraya kadar sıkıntı yok. Fakat monitörümde birkaç ölü piksel olduğu için mecbur garantiye yollamam lazım. Fatura istediler fakat mailimden fatura görüntüleye bastığım zaman Hepsiburada'nın sitesinden girdiğimde fatura görüntülenemiyor. Ve ilginç bir şekilde Hepsiburada hesabımda monitör siparişi gözükmüyor. Fakat mailime kadar sipariş numarası, fatura görüntüle yazısı vs. her şey geldi. Ekran görüntüleriyle paylasıyorum. 1.SS fatura hatası. 2.SS siparişim. Yardımcı olursanız sevinirim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hepsiburada'ya ulaşıp durumu anlatacaksın, kendi sistemlerinde sakladıkları varsa onu paylaşabilirler seninle. Eğer eski satıcı isim değişikliğine gitmişse onda da olabilir yedek."
+      },
+      {
+        "cevap_metni": "Satıcı hesabını kapatmış olabilir."
+      },
+      {
+        "cevap_metni": "Peki ne yapmam lazım? Ürüne girdiğim zaman satıcı başka birisi olarak gözüküyor."
+      },
+      {
+        "cevap_metni": "Panele satıcı tarafından fatura yüklenmediği için göremiyorsun. Beta Plus Teknoloji'yi arayıp durumu anlat, mail adresine faturayı gönderirler. Efaturası kesilmiştir zaten aldığın zaman. Kolaylıkla ulaşabilirsin."
+      },
+      {
+        "cevap_metni": "Satıcı aktif hala satış yapan Gaming Gen TR. Mailde PDF şekilde olması lazım faturanın."
+      },
+      {
+        "cevap_metni": "Satıcının genel iletişim adresi, mail atıp faturanı talep edebilirsin."
+      },
+      {
+        "cevap_metni": "Arkadaşlar çok sağolun Ben bir hata yapmışım. Hepsiburada'dan sipariş ettiğim monitöre bağlı email başka email'miş. O maili kontrol ettiğim de faturaya ulaştım. Yardımlarınız için tekrardan çok teşekkür ederim."
+      },
+      {
+        "cevap_metni": "Sayende birisi alışverip yapıp satıcı kapanırsa ne yapacağına dair google'da yandex'te arayınca bulacak. Kolay gelsin değişim sürecin."
+      }
+    ],
+    "cozum": "Hepsiburada'ya ulaşıp durumu anlatacaksın, kendi sistemlerinde sakladıkları varsa onu paylaşabilirler seninle. Eğer eski satıcı isim değişikliğine gitmişse onda da olabilir yedek.",
+    "sentiment": "negative",
+    "reference_summary": "Hepsiburada faturası görüntülenemiyor. Çözüm: Hepsiburada'ya ulaşıp durumu anlatacaksın, kendi sistemlerinde sakladıkları varsa onu paylaşabilirler seninle.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "Kurye ile mağazaya iade yapılır mı?",
+    "soru": "N11'den aldığım Aras Kargo ile gönderilen 16 GB RAM hatalı ürün çıktı ve ben de iade etmek istiyorum. Aras Kargo şubesi bulunduğum konumda olmadığı için 40km yol gitmem gerekiyor. Evime Aras Kargo kuryesi çağırıp kuryeye mağazanın verdiği kampanya kodunu göstersem iade gerçekleşir mi yoksa illa şubeye kadar mı gitmeliyim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Evet çağırabilirsiniz."
+      },
+      {
+        "cevap_metni": "Gerçekleşir diye düşünüyorum."
+      },
+      {
+        "cevap_metni": "Teşekkürler cevabınız için iadeyi sağladım."
+      }
+    ],
+    "cozum": "Evet çağırabilirsiniz.",
+    "sentiment": "negative",
+    "reference_summary": "Kurye ile mağazaya iade yapılır mı. Çözüm: Evet çağırabilirsiniz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "hesap.com.tr'den alınan Minecraft hesabının e-posta adresi değiştirildi",
+    "soru": "Minecraft'ta aldığım 400 TL'lik hesap mailini değişmeme rağmen bir anda tekrar mail değişikliği oldu. Hesabınız yok diyor ama hesap açma kısmında var diyor.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hesap.com.tr'ye söyle iadeni versinler. Adam parayı alıp hesabı geri almış."
+      },
+      {
+        "cevap_metni": "Tekrar mail değişikliği olduysa hesap sahibi oyun ile görüşüp geri almış hesabı."
+      },
+      {
+        "cevap_metni": "Nasıl tekrar geri alırım. Güvenilirede benziyordu Sahip"
+      },
+      {
+        "cevap_metni": "Destek talebi oluşturun ama satın aldığınıza dair video kaydı olsun"
+      },
+      {
+        "cevap_metni": "Bunun gibimi?"
+      }
+    ],
+    "cozum": "Hesap.com.tr'ye söyle iadeni versinler. Adam parayı alıp hesabı geri almış.",
+    "sentiment": "neutral",
+    "reference_summary": "hesap.com.tr'den alınan Minecraft hesabının e-posta adresi değiştirildi. Çözüm: Hesap.com.tr'ye söyle iadeni versinler.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "AliExpress'te vergi neden üründen daha pahalı?",
+    "soru": "Arkadaşlar selam. Kırk yılın başı AliExpress'ten bir şey almam gerekti. Ürün 250TL. Vergisi 300TL. Kargosu da ücretsiz. Neye göre hesaplanıyor bu ücret, nedir matematiği?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Selam hocam. Vergi indirimsiz fiyat üstünden hesaplanır çünkü. Bu ürün indirimle 100 liraya da düşse sizin ödeyeceğiniz miktar 300 TL olacaktı. Vergide hesaplananlarsa şu şekilde : Sürprizbozan: Bakınız"
+      },
+      {
+        "cevap_metni": "Sen gurbetcisin galiba, baska ulkeden falan mi geldin? Türkiye'nin genelinde var bu olay, AliExpress'e ozel degil ki. Satilan urunden verginin vergisi bile aliniyor."
+      }
+    ],
+    "cozum": "Selam hocam. Vergi indirimsiz fiyat üstünden hesaplanır çünkü. Bu ürün indirimle 100 liraya da düşse sizin ödeyeceğiniz miktar 300 TL olacaktı. Vergide hesaplananlarsa şu şekilde : Sürprizbozan: Bakınız",
+    "sentiment": "neutral",
+    "reference_summary": "AliExpress'te vergi neden üründen daha pahalı. Çözüm: Selam hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "5 gün kullanılan Huawei Watch GT5 Pro iade edilemiyor",
+    "soru": "Merhaba iyi günler Trendyol'dan Huawei marka akıllı saat aldım 5 günden sonra begenmedim ve iade ettim ama bana iade ettiğim yerden ürün açılmış garantisi başlamış, iade kabul edemiyoruz diye geri dönüş yaptılar. 14 gün koşulsuz şartsız iade diyorlar sonra da böyle diyorlar. Elektronik ürünü kullanmadan ben nasıl iade edeyim? Şu anda ne yapmam gerekiyor? Yardımcı olursanız sevinirim. Saat bu: Huawei Watch GT5 Pro 46mm - Siyah - Fiyatı, Yorumları",
+    "cevaplar": [
+      {
+        "cevap_metni": "Merhaba. Tüketici hakem heyetine konuyla ilgili yazılı bir e-dilekçeyle başvurun. O heyet bu sorunu mutlaka çözer. Zaten onların tüketiciler için var olma nedenleri budur. Kolay gelsin."
+      },
+      {
+        "cevap_metni": "14 gün içinde iade edilen ürünlerde “garanti başlamış” veya “kutusu açılmış” olması, iade hakkınızı ortadan kaldırmaz. (ürünü denemek doğaldır.) Fakat kullanılmış olması bariz olan ürünlerde firma iade cayma hakkını kullanabilir sonuç alamazsanız CİMER'e başvurabilirsiniz."
+      }
+    ],
+    "cozum": "Merhaba. Tüketici hakem heyetine konuyla ilgili yazılı bir e-dilekçeyle başvurun. O heyet bu sorunu mutlaka çözer. Zaten onların tüketiciler için var olma nedenleri budur. Kolay gelsin.",
+    "sentiment": "positive",
+    "reference_summary": "5 gün kullanılan Huawei Watch GT5 Pro iade edilemiyor. Çözüm: Merhaba.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web ve Mağaza Alışverişlerinde Yaşanan Sorunlar",
+    "baslik": "Dolap alıcı ürünü teslim almazsa ne olur?",
+    "soru": "Dolap üzerinden Redmi 5C bir cihaz sattım ve alıcı ürünü teslim almıyor. Bu durumda ürün bana geri gelip kazancım da hesabıma yatar mı yoksa ürün bana geri gelip kazancım alıcıya geri iade mi edilir? Eğer bilginiz yoksa veya sorduğum soru hakkında bir cevabınız yoksa yazmayın. Şimdiden teşekkürler.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Ürün, birkaç gün daha teslime çıkarılır; o günlerde de alıcıya ulaşmazsa sana geri döner. Para sana yatmaz, alıcıya geri iade olur; bir nevi alışveriş hiç olmamış gibi olur."
+      },
+      {
+        "cevap_metni": "Zamanım gitmiş oluyor ama çok saçma değil mi alıcı ülkenin öbür ucunda 10 gün boyunca ürünü satabilecekken satamıyorum"
+      },
+      {
+        "cevap_metni": "Hocam bu ve benzeri platformlarda satıcı olarak kargolama yapmak çok riskli zaten. Herhangi bir karışıklıkta da direkt alıcının tarafında saf tutuyorlar. Elden teslim etmek her zaman çok daha sağlıklı."
+      },
+      {
+        "cevap_metni": "Evet elden vermek daha doğru ama öğrenciyim okullar başlayınca ilgilenecek zamanım olmuyor. Bilgilendirdiğiniz için teşekkür ederim"
+      },
+      {
+        "cevap_metni": "Aynen öyle onu yazacaktım bu durumda satıcıya olan oluyor"
+      }
+    ],
+    "cozum": "Ürün, birkaç gün daha teslime çıkarılır; o günlerde de alıcıya ulaşmazsa sana geri döner. Para sana yatmaz, alıcıya geri iade olur; bir nevi alışveriş hiç olmamış gibi olur.",
+    "sentiment": "positive",
+    "reference_summary": "Dolap alıcı ürünü teslim almazsa ne olur. Çözüm: Ürün, birkaç gün daha teslime çıkarılır; o günlerde de alıcıya ulaşmazsa sana geri döner.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "5070 Eagle vs 5070 Windforce",
+    "soru": "Merhaba 28K-32K fiyat aralığında 5070 ekran kartı alacağım ve bu ikisi arasında kaldım. İkisinin arasında ne fark var ve sizce hangisini tercih etmeliyim? Amazon.com.tr Amazon.com.tr",
+    "cevaplar": [
+      {
+        "cevap_metni": "Eagle göze biraz daha hoş geliyor o kadar, başka da fark yok."
+      },
+      {
+        "cevap_metni": "Birbirlerine çok yakın modeller, Eagle al geç."
+      },
+      {
+        "cevap_metni": "ne farkları var peki"
+      },
+      {
+        "cevap_metni": "tamam çok teşekkür ederim"
+      },
+      {
+        "cevap_metni": "Kendi önerim gigabyte auros harici ekran kartı alma indirimde bazen msı gaming trio 30k civarında oluyor ve asus prime bazen 30k bandına düşüyor ayrıca 2 fanlı modellerde inno3d bakabilirsin."
+      }
+    ],
+    "cozum": "Eagle göze biraz daha hoş geliyor o kadar, başka da fark yok.",
+    "sentiment": "neutral",
+    "reference_summary": "5070 Eagle vs 5070 Windforce. Çözüm: Eagle göze biraz daha hoş geliyor o kadar, başka da fark yok.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "RX 7900 XT AC: Odyssey'de 70 derece oluyor",
+    "soru": "Bende RX 7900 XT ve Ryzen 7 7800X3D var. Assassin's Creed Odyssey'de en yüksek ayarlarda ekran kartı sıcaklığı 70 derece, işlemci de 65 civarlarında oluyor. Normal mi?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Ekran kartı da işlemci de normal seviyelerde, endişelenmenize gerek yok."
+      },
+      {
+        "cevap_metni": "\"Bence\" gayet normal."
+      }
+    ],
+    "cozum": "Ekran kartı da işlemci de normal seviyelerde, endişelenmenize gerek yok.",
+    "sentiment": "neutral",
+    "reference_summary": "RX 7900 XT AC: Odyssey'de 70 derece oluyor. Çözüm: Ekran kartı da işlemci de normal seviyelerde, endişelenmenize gerek yok.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "Sistemde dahili ekran kartının devre dışı bırakılması mantıklı mıdır?",
+    "soru": "Merhaba arkadaşlar. Laptopta dahili birimi (Intel HD Graphics'i) devre dışı bırakırsak harici ekran kartının bozulduğu durumda görüntü gelir mi yoksa BIOS'u sıfırlamamız mı gerekir?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Windows'dan değil de BIOS'dan kapatırsan sorun olmaz. Hatta Windows BIOS'a da etki etmez diye düşünüyorum. En sağlıklısı, BIOS'dan hybrid modu vs. kapat. Dahili ekran kartı zorunda olmadıkça kullanılmaz. Ek olarak Grafikler kısmından da hepsini harici ekran kartı olarak seçebilirsin."
+      }
+    ],
+    "cozum": "Windows'dan değil de BIOS'dan kapatırsan sorun olmaz. Hatta Windows BIOS'a da etki etmez diye düşünüyorum. En sağlıklısı, BIOS'dan hybrid modu vs. kapat. Dahili ekran kartı zorunda olmadıkça kullanılmaz. Ek olarak Grafikler kısmından da hepsini harici ekran kartı olarak seçebilirsin.",
+    "sentiment": "neutral",
+    "reference_summary": "Sistemde dahili ekran kartının devre dışı bırakılması mantıklı mıdır. Çözüm: Windows'dan değil de BIOS'dan kapatırsan sorun olmaz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "İtopya'dan alınan hazır sistemde ekran kartı gözükmüyor",
+    "soru": "Selam aleyküm, İtopya'dan hazır sistem aldım. Ekran kartı gözükmüyor ama fanlar çalışıyor (evde de şu an internet yok). Acaba sürücüleri yüklemedim diye mi?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sürücü olmadığı için gözükmüyor, sürücüyü kurduğun zaman düzelir."
+      },
+      {
+        "cevap_metni": "Ekran kartı modeli nedir?"
+      },
+      {
+        "cevap_metni": "Rtx 5050 nvdia yüklü değil"
+      },
+      {
+        "cevap_metni": "İnternetsiz Windows kurulumu yaptıysanız ondan öyle olmuştur eğer interneti açıp Windows Update'leri yaparsanız gözükür."
+      },
+      {
+        "cevap_metni": "Sürücü yüklemeden göremezsin site girip ekran kartı sürücüsünü yüklemen gerekiyor."
+      },
+      {
+        "cevap_metni": "Driver'ı kurmazsan nasıl gözükecek?"
+      },
+      {
+        "cevap_metni": "Sürücüyü kurun sorun çözülecektir."
+      },
+      {
+        "cevap_metni": "Yardımcı olduğunuz için teşekkürler. bide hocam ekran yenileme hızını değiştirme seçeneği yok.Windows update yaptıktan sonra düzelir mi?"
+      },
+      {
+        "cevap_metni": "Ekran kartı driverını kurduktan sonra gözükür o da."
+      }
+    ],
+    "cozum": "Sürücü olmadığı için gözükmüyor, sürücüyü kurduğun zaman düzelir.",
+    "sentiment": "neutral",
+    "reference_summary": "İtopya'dan alınan hazır sistemde ekran kartı gözükmüyor. Çözüm: Sürücü olmadığı için gözükmüyor, sürücüyü kurduğun zaman düzelir.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "Ekran kartı kasa arkasına nasıl takılır?",
+    "soru": "Ekran kartımı ne ile sabitleyeceğim? Bir şey, kasanın arkasındaki şeyi kendileri sökmüşler fakat bu küçük şeyler ileride takılmıyor gibi.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Kırmızı ile işaretli olan vida benziyor tam net göremiyorum.Diğer fotoğrafa bakarak bulabilirsiniz."
+      },
+      {
+        "cevap_metni": "Vidayı şuraya takıp sıkın. Biraz zor girebilir ama girmesi gerekiyor. yinede olmazsa elinizde daha küçük bir vida varsa onla deneyin"
+      },
+      {
+        "cevap_metni": "Denedim girmiyor gibi ya."
+      },
+      {
+        "cevap_metni": "Sağ olun hocam oldu çok teşekkürler. Bir sorum daha olacaktı. Bu iki kablo hangisini? Sola küçük olan mı yoksa büyük olan kabloyu mu ilk takacağım ya da fark etmez mi? Kablo bunlar:"
+      },
+      {
+        "cevap_metni": "Hocam 2liyi 6lı parçanın sağına geçireceksiniz.2li sağ tarafa,6lı sol tarafa gelecek şekilde olacak.İşaretli yere göz atın."
+      },
+      {
+        "cevap_metni": "Bu iki parçayı birleştirmemi lazım birleşmiyor. Ya da o işaretlediğin yeri sağ tarafa mı takacağım?"
+      },
+      {
+        "cevap_metni": "Hocam o zaman ilk 6'liyi sola takın. Sonra 2'liyi sağa takın. Olmazsa tam tersini yapın."
+      },
+      {
+        "cevap_metni": "Aynen öyle oluyor bir tek."
+      },
+      {
+        "cevap_metni": "Tamam, yerine iyice oturduğuna emin olun."
+      }
+    ],
+    "cozum": "Kırmızı ile işaretli olan vida benziyor tam net göremiyorum.Diğer fotoğrafa bakarak bulabilirsiniz.",
+    "sentiment": "neutral",
+    "reference_summary": "Ekran kartı kasa arkasına nasıl takılır. Çözüm: Kırmızı ile işaretli olan vida benziyor tam net göremiyorum.Diğer fotoğrafa bakarak bulabilirsiniz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "RTX 4060 oyunda AMD FSR Frame Gen gösteriyor",
+    "soru": "RTX 4060 ekran kartı ve Battlefield 6 oyununda AMD FSR Frame Generation olarak gözüküyor NVIDIA frame genaration olarak gözükmesi lazım değil mi?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Bir başka tavsiye olarak şu ayarı açmayı öneriyorlar: Sistem/Ekran/Grafikler: Sonrasında yeniden başlatın. Açık ise kapatın ve deneyin."
+      },
+      {
+        "cevap_metni": "AMD FSR Frame Generation ekstra olarak bulunması normal çünkü AMD tüm kartlara ve sistemlere sunuyor bunu ama DLSS FG olmaması tabiki normal değil. Bir Reddit gönderisine göre 1 ay öncede bu problem varmış, oyunda DLSS FG aktif olmuyor. Bir şahıs oyuna girdikten sonra gamepad'i aktif ederek sorunu çözmüş nasıl ise: Bu içeriği görüntülemek için üçüncü taraf çerezlerini yerleştirmek için izninize ihtiyacımız olacak. Daha detaylı bilgi için, çerezler sayfamıza bakınız. Üçüncü taraf çerezlerini kabul et Bu bariz bir çözüm sanırsam: Steam girdisini komple kapatmayı deneyin bir."
+      },
+      {
+        "cevap_metni": "steam girdisini tamamen devre dışı yaptım fakat hala nvidia frame gen olmadı."
+      },
+      {
+        "cevap_metni": "Bunu yapınca düzeliyor evet. Aynı sorunu bu şekilde çözmüştüm."
+      },
+      {
+        "cevap_metni": "Bunu yapınca evet düzeldi hocam NVIDIA Fg yazıyor sagolasın. Bir de 4060 multi frame 2x desteklemiyor muydu?"
+      },
+      {
+        "cevap_metni": "5000 serisi gibi 2X, 4X mevzusu yok diye biliyorum. Düz aktif oluyor."
+      },
+      {
+        "cevap_metni": "teşekkür ederim kral. hocam be yeni açtıgım konuya bakabilme şansınız var mı?"
+      }
+    ],
+    "cozum": "Bir başka tavsiye olarak şu ayarı açmayı öneriyorlar: Sistem/Ekran/Grafikler: Sonrasında yeniden başlatın. Açık ise kapatın ve deneyin.",
+    "sentiment": "negative",
+    "reference_summary": "RTX 4060 oyunda AMD FSR Frame Gen gösteriyor. Çözüm: Bir başka tavsiye olarak şu ayarı açmayı öneriyorlar: Sistem/Ekran/Grafikler: Sonrasında yeniden başlatın.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "Galax 5070 Ti HOF kutusunun içerisinden çıkan kablo nedir?",
+    "soru": "Yeni aldığım hazır sistemin içerisinde bulunan Galax 5070 Ti hof ekran kartının içerisinden şu kablo çıktı ekran kartına bağlamak için ama ben bu kabloyu kullanmak yerine Power Supply'a bağlı kabloyu kullandım çünkü kablonun başlarını bağlayacak bir yer göremedim, bunun bana bir dezavantajı olur mu? Bu kablonun 3 başlı olmasının sebebi nedir? PSU: MWE Gold V3 ATX 3.1 850W Kutudan çıkan kablo: Benim kullandığım kablo: Ayrıca bu kablonun ne olduğu hakkında hiçbir şey yok, sanırım ARGB kablosu ama bunu nereye bağlamam lazım?",
+    "cevaplar": [
+      {
+        "cevap_metni": "3 başlı kablo PSU'sunda 12VHPWR olmayanlar için dönüştürücü. Diğeri ise ekran kartının güç girişinin yanında giriş yeri olan ARGB kontrol kablosu. Ekran kartı RGB'lerini anakart ile senkronize etmeye yarıyor."
+      },
+      {
+        "cevap_metni": "Şu ince kablo üst tarafa takılacak fan için galiba öbürküde ATX 3.0 PSU'su olmayanlar için dönüştürücü kankam."
+      },
+      {
+        "cevap_metni": "ARGB kablosunu bağladım. 2 ucu vardı diye kafam karışmıştı meğersem biri kartla beraber opsiyonel olarak gelen crown içinmiş. Peki PSU'da bulunan 12V-2X6 450W kablo 5070ti için yeterli mi sizce?"
+      },
+      {
+        "cevap_metni": "Evet yeterli merak etmeyin."
+      },
+      {
+        "cevap_metni": "Tamamdır çok teşekkürler"
+      }
+    ],
+    "cozum": "3 başlı kablo PSU'sunda 12VHPWR olmayanlar için dönüştürücü. Diğeri ise ekran kartının güç girişinin yanında giriş yeri olan ARGB kontrol kablosu. Ekran kartı RGB'lerini anakart ile senkronize etmeye yarıyor.",
+    "sentiment": "neutral",
+    "reference_summary": "Galax 5070 Ti HOF kutusunun içerisinden çıkan kablo nedir. Çözüm: 3 başlı kablo PSU'sunda 12VHPWR olmayanlar için dönüştürücü.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "GPU kullanımı artınca cızırtı sesi oluyor",
+    "soru": "Bilgisayarımda ekran kartı kullanımı arttıkça ses seviyesi artan bir cızırtılanma sesi geliyor. Bunun nedenini çözemedim. Bazı kaynaklarda daha çok güç tükettiği için içerisindeki bobinlerin elektrik iletim sesi olduğu söyleniyor ancak ben yine de sormak istedim. Bu sesin nedeni nedir ya da bilgisayarıma bir zararı var mıdır? Bu arada ekran kartım Galax 4070 Ti Super.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Normal hocam. Benim 3060'ta da Coil Whine var ve kulaklık yokken bayağı tiz. Hatta bakmak isterseniz, FPS arttıkça tizlik de artıyor bende. PUBG girerken 1000 FPS'lere çıkıyorum, bayağı inceleşiyor ses. Güç çekişi ve FPS düştükçe de azalıyor. Dert edilecek bir şey değil. Eğer ses aşırı fazlaysa aldığınız yere danışabilirsiniz."
+      },
+      {
+        "cevap_metni": "%90 ihtimalle Coil Whine. Ses atar mısın? Güç çektikçe ses artar ve yük azaldıkça cızırtı azalır."
+      },
+      {
+        "cevap_metni": "Bobin titremesi. Benim ekran kartı da yapıyor -ikinci el aldığım- arada, alışman lazım. Güç kaynağından güç kaynağına ses azalıyor diyorlar da, uğraşmaya değmez."
+      },
+      {
+        "cevap_metni": "Aynı yazdığınız gibi güç çektikçe ses artıyor yük azaldıkça ses azalıyor. Ama benim kafamı karıştıran kısım bu sesin fan sesinden daha çok gelmesi. Bilgisayarı kulaklık takmadan kullandığımda aşırı derecede rahatsız ediyor."
+      }
+    ],
+    "cozum": "Normal hocam. Benim 3060'ta da Coil Whine var ve kulaklık yokken bayağı tiz. Hatta bakmak isterseniz, FPS arttıkça tizlik de artıyor bende. PUBG girerken 1000 FPS'lere çıkıyorum, bayağı inceleşiyor ses. Güç çekişi ve FPS düştükçe de azalıyor. Dert edilecek bir şey değil. Eğer ses aşırı fazlaysa aldığınız yere danışabilirsiniz.",
+    "sentiment": "neutral",
+    "reference_summary": "GPU kullanımı artınca cızırtı sesi oluyor. Çözüm: Normal hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "Asus Rog Astral 5090 OC için Corsair HX1500i GPU kablosu kullanılabilir mi?",
+    "soru": "Merhaba arkadaşlar. Corsair HX1500i (2025) PSU'dan çıkan görseldeki kabloyu kullanırsam erime gibi bir problem yaşar mıyım? PSU'da 12VHPWR kablo için soket yokmuş.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hayır, yaşamaman gerekli. Corsair'in kullandığı yöntem düz 12x6 - 12x6'dan daha güvenli hatta."
+      },
+      {
+        "cevap_metni": "Bazı kaynaklar 12x6 kullanın sadece yazmış. Biraz tedirgin oldum açıkçası."
+      },
+      {
+        "cevap_metni": "Hangi kaynak o?"
+      },
+      {
+        "cevap_metni": "Reddit kullanıcı yorumları. Yarın deneyeceğim. Teşekkür ederim. Umarım patlamayız."
+      }
+    ],
+    "cozum": "Hayır, yaşamaman gerekli. Corsair'in kullandığı yöntem düz 12x6 - 12x6'dan daha güvenli hatta.",
+    "sentiment": "neutral",
+    "reference_summary": "Asus Rog Astral 5090 OC için Corsair HX1500i GPU kablosu kullanılabilir mi. Çözüm: Hayır, yaşamaman gerekli.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Ekran Kartı",
+    "baslik": "3 fanlı ve 2 fanlı aynı GPU arasında performans farkı var mıdır?",
+    "soru": "Aralarında az veya çok, performans farkı var mıdır? Yoksa sadece soğutma konusunda mı ekstrası var 3 fanlının? Kısacası, 2 fanlı almak mantıklı mıdır acaba 3 fanlıya göre?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Soğutma farkı var. Yük altında olmadıkça aman aman fark yaratmaz. Fiyat farkı uçuk değilse 3 alınabilir."
+      }
+    ],
+    "cozum": "Soğutma farkı var. Yük altında olmadıkça aman aman fark yaratmaz. Fiyat farkı uçuk değilse 3 alınabilir.",
+    "sentiment": "neutral",
+    "reference_summary": "3 fanlı ve 2 fanlı aynı GPU arasında performans farkı var mıdır. Çözüm: Soğutma farkı var.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "Laptopu sökmeye çalışıp kapattıktan sonra çalışmadı",
+    "soru": "Eski bir laptopum vardı, bayağı bir süredir kullanmıyordum. İçini bir açıp bakayım dedim merakla. Arka taraftaki vidalarının çoğunu söktüm, birkaçı yalama olduğu için sökemedim. RAM ve diske baktım ve yandan kredi kartı ile kastırarak açmaya çalıştım ama bir türlü açamadım. Sonra \"boş ver\" deyip geri topladım. Fakat açmaya çalıştığımda ışıklar yanıyor, fan bir süre dönüyor ama görüntü hiç gelmeyip kapanıyor. Ne olmuş olabilir sizce?",
+    "cevaplar": [
+      {
+        "cevap_metni": "RAM'e zarar gelmiştir veya tam takamamışsınızdır orasını bilemiyorum ama çok yüksek ihtimalle RAM sorunu bu. Kendim de yaşadım tam oturduğundan o kadar emin olmayın, tam girmeyebiliyor."
+      },
+      {
+        "cevap_metni": "Flex kablosu yırtmışsınızdır."
+      },
+      {
+        "cevap_metni": "Ramler yerinden oynamış olabilir."
+      },
+      {
+        "cevap_metni": "Büyük ihtimal öyle bir şey oldu hocam içinde SSD bir de 8 GB RAM bulunuyor zaten bayağı eski cihaz yedek parça diye satacağım büyük ihtimal."
+      },
+      {
+        "cevap_metni": "Beğenmedim işareti atmışsınız ama yazdığınız şey tam olarak ram sorununda olan şeyler. Power flexi kopsa hiç açılmaz, ekran flexi kopsa sadece görüntü gelmez ama açılır, touchpad veya klavye flexi kopsa sadece onlar çalışmaz."
+      },
+      {
+        "cevap_metni": "Sanmıyorum hocam RAM'lerden olduğunu belki bir oksit olmuştur ama doğru açıda taktığıma eminim geri yani"
+      }
+    ],
+    "cozum": "RAM'e zarar gelmiştir veya tam takamamışsınızdır orasını bilemiyorum ama çok yüksek ihtimalle RAM sorunu bu. Kendim de yaşadım tam oturduğundan o kadar emin olmayın, tam girmeyebiliyor.",
+    "sentiment": "negative",
+    "reference_summary": "Laptopu sökmeye çalışıp kapattıktan sonra çalışmadı. Çözüm: RAM'e zarar gelmiştir veya tam takamamışsınızdır orasını bilemiyorum ama çok yüksek ihtimalle RAM sorunu bu.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "HP laptop 14-EM0008NT'te RAM'lerin gömülü olup olmadığı nereden öğrenilir?",
+    "soru": "Fabrika çıkışı 8 GB RAM var. Nasıl öğrenirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Genelde RAM anakarta bağlı olur cikartamaz RAM soketine bakarsan."
+      },
+      {
+        "cevap_metni": "Ben de öyle düşünüyorum da emin olmak için sordum."
+      }
+    ],
+    "cozum": "Genelde RAM anakarta bağlı olur cikartamaz RAM soketine bakarsan.",
+    "sentiment": "neutral",
+    "reference_summary": "HP laptop 14-EM0008NT'te RAM'lerin gömülü olup olmadığı nereden öğrenilir. Çözüm: Genelde RAM anakarta bağlı olur cikartamaz RAM soketine bakarsan.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "Casper Excalibur G870 bataryası oyun oynarken %5 düşüyor",
+    "soru": "Casper G870 batarya, prize bağlı oyun oynarken %2 ile %5 düşüyor. Bir sorun olur mu? İade etmeli miyim veya garantiye yollamalı mıyım? Çözümü nedir? Böyle olması normal midir?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Evet hocam normal bir durum sıkıntı çıkarmaz."
+      },
+      {
+        "cevap_metni": "Yüksek watt çeken laptoplarda böyle düşüş olması normal %10 civarı gibi yüksek düşüşler olursa iadeye gönder onun dışında bir sıkıntı olmaz."
+      },
+      {
+        "cevap_metni": "Sorun yok o zaman hocam, öyle mi?"
+      }
+    ],
+    "cozum": "Evet hocam normal bir durum sıkıntı çıkarmaz.",
+    "sentiment": "negative",
+    "reference_summary": "Casper Excalibur G870 bataryası oyun oynarken %5 düşüyor. Çözüm: Evet hocam normal bir durum sıkıntı çıkarmaz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "ASUS Vivobook 15 M1502 laptopun pil ömrü nasıl sağlıklı kullanılır?",
+    "soru": "Öncelikle konuma cevap vererek bana yardımcı olacak arkadaşlara şimdiden çok teşekkür ederim. Arkadaşlar. ASUS Vivobook 15 M1502 5.nesil Ryzen 7 5825U-16 GB-512 GB SSD-15.6INC-W11 adlı laptop aldım. Ofiste çalıştığım için Word, Excel tarzı uygulamalarla haşır neşir oluyorum. Gün içinde şarjı beni çok memnun etti gayet güzel götürüyor. Benim asıl sorum şu bildiğiniz üzere laptop pilleri bir yerden sonra gidiyor şarj tutmamaya başlıyor. Bunun önüne geçmek için nasıl şarj etmeliyim? My ASUS'ta böyle bir özellik var. Şimdi sorum bu üç seçenekten hangisini kullanmalıyım? Yani şöyle şarj bitine kadar şarjdan yiyorum sonrasında şarja takıp şarj olana kadar şarjdayken kullanıyorum. Yüzde yüz dolunca ise çıkarıp normal kullanmaya devam ediyorum. Bu sisteme göre hangisini kullanmam mantıklı olur? Bilgileriniz ile beni aydınlatabilirseniz çok sevinirim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Yaptığın çok yanlış. Bataryayı asıl bitiren dolup boşalması daha çok. Ve takılı iken zaten bataryayı pas geçip direk prizden güç alıyor. O yüzden hep prizde kullanman bataryayı çok etkilemiyor. Genelde yüzde 20 ile yüzde 80 arasında tutmak tavsiye edilir. Eğer yapabiliyorsanız 2. veya 3. seçeneği seçip prizde kullanmanız."
+      },
+      {
+        "cevap_metni": "Değerli vaktinizi ayırıp cevapladığınız için çok teşekkür ederim. Dediğiniz gibi kullanmaya çalışacağım. Sağ olun iyi günler."
+      }
+    ],
+    "cozum": "Yaptığın çok yanlış. Bataryayı asıl bitiren dolup boşalması daha çok. Ve takılı iken zaten bataryayı pas geçip direk prizden güç alıyor. O yüzden hep prizde kullanman bataryayı çok etkilemiyor. Genelde yüzde 20 ile yüzde 80 arasında tutmak tavsiye edilir. Eğer yapabiliyorsanız 2. veya 3. seçeneği seçip prizde kullanmanız.",
+    "sentiment": "neutral",
+    "reference_summary": "ASUS Vivobook 15 M1502 laptopun pil ömrü nasıl sağlıklı kullanılır. Çözüm: Yaptığın çok yanlış.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "ASUS Vivobook S16 laptop prizde mi kullanılmalı?",
+    "soru": "Merhaba arkadaşlar. Soru başlığında da gördüğünüz gibi anlamadığım bir konu var. 10 yıl aradan sonra kendime tekrardan bir laptop (ASUS Vivobook S16 i5) aldım fakat bu yeni nesil laptopların batarya olayını anlayamadım. Laptopu sürekli prizde takılı olarak mı kullanmam lazım? Bir de bazıları, ayarlardan yani pil bakım modundan, pil sarjını tam kapasitesini %80 ile sınırlandırmaktan bahsediyor, uzun ömürlü olması için. Siz ne diyorsunuz? Üniversite öğrencisiyim, şu anlık ağır programlar kullanmıyorum. Yardımcı olur musunuz, şimdiden teşekkür ederim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Evet uzun ömürlü olması için %80 - 90'lara sınırlayıp prizde kullanım yapabilirsiniz. Böylece prizdeyken pil döngüye girmez daha uzun ömürlü olur. Ancak pili en azından haftada bir kullanıp tekrar şarj etmelisiniz."
+      },
+      {
+        "cevap_metni": "Teşekkür ederim, O modu aktifleştirdiğimde \"anında tam sarj modu, pili %100'e kafar sarj eder. Pil bakım modu 24 saat sonra yeniden etkinleştirilecektir.\" kısmını aktifleştireyim mi yoksa kapalı mı kalsın?"
+      },
+      {
+        "cevap_metni": "Bu kısmı bilmiyorum Windows laptop kullananlar cevaplasa daha iyi."
+      },
+      {
+        "cevap_metni": "MyASUS yazılımı bilgisayarınızı destekliyor kurulu değilse bunu kurun, bataryayı %80 dolmasına kadar sınırla seçeneğiyle daha uzun ömürlü kullanabilirsiniz."
+      },
+      {
+        "cevap_metni": "Evet oradan hemen aktifleştirdim o seçeneği. O modu aktifleştirdiğimde \"anında tam şarj modu, pili %100'e kafar şarj eder. Pil bakım modu 24 saat sonra yeniden etkinleştirilecektir.\" kısmını aktifleştireyim mi yoksa kapalı mı kalsın? Bir bilginiz var mı bu konuda da?"
+      },
+      {
+        "cevap_metni": "Hayır bunu açmanıza gerek yok biz zaten pilin tam şarj olmasını istemiyoruz. Bu, örneğin dışarı çıkacağım daha çok pile ihtiyaç olacak dediğinizde açılabilir. Bu seçeneği açtığınızda pili %100'e kadar şarj eder ve 24 saat sonra tekrar pili %80 sınırında tutar. Yani acil ihtiyaçlarda açmak isteyebilirsiniz. Gündelik kullanımda açmayın."
+      },
+      {
+        "cevap_metni": "Anlaşıldı şimdi, teşekkür ederim."
+      }
+    ],
+    "cozum": "Evet uzun ömürlü olması için %80 - 90'lara sınırlayıp prizde kullanım yapabilirsiniz. Böylece prizdeyken pil döngüye girmez daha uzun ömürlü olur. Ancak pili en azından haftada bir kullanıp tekrar şarj etmelisiniz.",
+    "sentiment": "positive",
+    "reference_summary": "ASUS Vivobook S16 laptop prizde mi kullanılmalı. Çözüm: Evet uzun ömürlü olması için %80 - 90'lara sınırlayıp prizde kullanım yapabilirsiniz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "Abra A5 v20.6.1 ekranı kaç Hz'dir?",
+    "soru": "Google üzerinden biraz araştırdım ama net bir sonuç bulamadım, bu bilgisayarın ekranının kaç Hz olduğunu söyleyebilir misiniz?",
+    "cevaplar": [
+      {
+        "cevap_metni": "144 Hz."
+      }
+    ],
+    "cozum": "144 Hz.",
+    "sentiment": "neutral",
+    "reference_summary": "Abra A5 v20.6.1 ekranı kaç Hz'dir. Çözüm: 144 Hz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "Lenovo LOQ TPM 2.0 nasıl kapatılır?",
+    "soru": "Lenovo LOQ 15IAX9'ı cihaza manuel sürücüler ile Windows 10 kurdum. TPM 2.0'ı nasıl kapatabilirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sorun çözülmüştür hocam. Intel Trust Technology kapatmak gerekiyormuş."
+      },
+      {
+        "cevap_metni": "Neden kapatıyorsunuz?"
+      }
+    ],
+    "cozum": "Sorun çözülmüştür hocam. Intel Trust Technology kapatmak gerekiyormuş.",
+    "sentiment": "neutral",
+    "reference_summary": "Lenovo LOQ TPM 2.0 nasıl kapatılır. Çözüm: Sorun çözülmüştür hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "Laptopun üzerine sıvı serpildi",
+    "soru": "Selamlar boş sandığım kutu kola şişesini (içerisinde dibinde fırtlatılsa belki gelebilecek miktarda kalmıştı) bir anlık bitti sanmamla hızla kaldırmamla birlikte içinde kalan kalıntı kola fırlayıp klavye üzerine ve bir miktar fan delikleri üzerine serpildi. Bu çok bir miktar değildi ama yine de oraları ıslattı. Kapatibildiğim ilk anda kapadım ve tekrar açtım. Herhangi sessel veya görüntüsel bir problem yok laptopta. Merak ettiğim konu eğer bir problem oluşturduysa veya oluşturacaksa bu atıyorum 20 FPS az alıyorum gibi bir şey mi olacaktır yoksa direkt olarak ne bileyim şu tuş çalışmıyor ya da şu fan devre dışı kaldı gibi kesin ya bir ya sıfır benzeri bir durum mu oluşturacaktır? (Şu anda herhangi bir sorun sezinlemiyorum.)",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hocam genelde sıvı uçtuktan sonra kalan şeker sıkıntı oluyor. Bu tuşların takılaran basmasına neden olduğu gibi, eğer hareketli bir aksam üzerine gelirse zamanla hareket kabiliyetini kısıtlayabilir ya da devrelerdeki komponentlerde oksitlenme gibi durumlar oluşturarak arızalara sebep olabilir. Kola gelen yerleri genelde izopropil alkol ve diş fırçasıyla güzelce temizleyip durularlar."
+      },
+      {
+        "cevap_metni": "Güzelce temizleyip kalıntı/iz bırakmadıysan bir problem olmaz. Ha içime sinmedi dersen arka kapağı açarak anakartı çıkar öyle temizle."
+      }
+    ],
+    "cozum": "Hocam genelde sıvı uçtuktan sonra kalan şeker sıkıntı oluyor. Bu tuşların takılaran basmasına neden olduğu gibi, eğer hareketli bir aksam üzerine gelirse zamanla hareket kabiliyetini kısıtlayabilir ya da devrelerdeki komponentlerde oksitlenme gibi durumlar oluşturarak arızalara sebep olabilir. Kola gelen yerleri genelde izopropil alkol ve diş fırçasıyla güzelce temizleyip durularlar.",
+    "sentiment": "negative",
+    "reference_summary": "Laptopun üzerine sıvı serpildi. Çözüm: Hocam genelde sıvı uçtuktan sonra kalan şeker sıkıntı oluyor.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "Athlon Gold 3150u hızını bir anda 0.38 GHz'ye düşürdü",
+    "soru": "Bilgisayarım Lenovo V15-ADA işlemcisi AMD Athlon Gold 3150u işlemcinin temel hızı 2.40 GHz. 1 yıldır kullanıyorum ve şimdiye kadar hiçbir sorun çıkarmamıştı. Bugün GTA 5'i açtım ve her zamanki gibi oyunumu oynadım. Sonra bir anda FPS oyunu oynayamayacağım kadar düştü. Görev Yöneticisi'nden baktığımda işlemcinin hızı 0.38 GHz olduğunu gördüm. Oyunu kapatıp biraz bekledim ve işlemci hızı 1.60 GHz seviyelerine kadar yükseldi. Fakat yeniden başlatıncaya kadar 1.60 GHz seviyesinin üstüne çıkamadı. Yeniden başlattım ve oyuna devam ettim. Tekrar 2. kere aynı sorunla karşılaştım ve oyunu kapattım. Şu an oyunu kapattığımdan beri yaklaşık yarım saat geçti ve işlemcim temel hızına (2.40 GHz) daha yeni ulaştı ve 1.50 GHz ile 2.40 GHz arasında gidip geliyor. (normalde 2.40 GHz ile 2.80 GHz arasında bir hızda çalışırdı.) Bu sorunu ilk yaşadığımda işlemci 90 derece sıcaklıktaydı. Fakat daha önce 99 dereceyi bile gördüğüm oldu ve işlemcim en fazla 1.90 GHz hızlara düşmüştü. Bu sorunun sebebi sıcaklık ise neden daha önce böyle bir sorun ile karşılaşmadım ve neden işlemcim 55 dereceye kadar soğuduğunda bile temel hızını geçemiyordu?",
+    "cevaplar": [
+      {
+        "cevap_metni": "AMD'lerde yardımcı olamam pek maalesef. AMD BD PROCHOT kapatmayı araştırsın. Sorun BD PROCHOT."
+      },
+      {
+        "cevap_metni": "99 dereceyi gorduyseniz sizin termal macun degisimi ve fan temizligi yapmaniz gerekirdi, frekans kismasi olmus."
+      },
+      {
+        "cevap_metni": "Evet daha önce 99 dereceyi görmüştüm fakat frekanslar 1.90 GHz'den aşağıya inmemişti. Ama bu olayda 90 derecenin üstünü görmedim ve bir anda frekans 0.38 GHz'e kadar düştü. İşlemci soğumasına rağmen yükselemedi. Termal macunu değiştirebilirim fakat bilgisayarın garantisi devam ediyor. Servis de yüksek ihtimalle bilgisayar oyuncu bilgisayarı olmadığı için oyunda sıcaklıkların artmasını önemsemeyip termal macun değişimi yapmayacak. Fotoğrafları ESC menüsünde çektim. Oyun içi FPS'im 5, işlemci hızı 60 derece olmasına rağmen temel hızından çok daha düşük. (dün daha da kötüydü.) Ne yaparsam yapayım frekansı bilgisayarı yeniden başlatmadan arttıramıyorum. En fazla 2.4 GHz'yi görüyor ama normalde rahat rahat 2.8 GHz hızlara çıkabiliyordu. Oynadığım oyun da GTA 5 olduğu için 5 FPS ile görevi bitirmek zorunda kalıyorum. Yeni fark ettiğim şey, oyundayken işlemci hızı hiçbir zaman 1 GHz'yi geçmiyor. Görev Yöneticisi'ni açtığım an 1.60 GHz, oyuna döndüğüm an 0.80 GHz hızında oluyor. Sorun GTA 5 de olabilir mi? Başka bir oyunda hiç böyle bir sorun yaşamadım 2 gündür."
+      },
+      {
+        "cevap_metni": "Sicakliklar da normal. @erengore hocami davet ediyorum."
+      },
+      {
+        "cevap_metni": "Güç planını düzenle de işlemci güç yönetiminde ikisini de 100 yap düzelir."
+      },
+      {
+        "cevap_metni": "AMD bd prochot ayarını araştırdım ve bir video buldum. Denilenleri yaptım ve şu anlık bir sorun yok gibi gözüküyor. Cevaplar için teşekkürler."
+      },
+      {
+        "cevap_metni": "Sorunu nasıl çözdüğünü söyleyebilir misin? Bende de aynı cihaz var ve ben de aynı sorunu yaşıyorum."
+      },
+      {
+        "cevap_metni": "Sorunun üstünden 2 yıl geçti ve 1.5 yıldır o bilgisayarı kullanmıyorum ama hatırladığım kadarıyla bu mesajı yazdıktan sonra yine aynı problem olmuştu. Sıcaklıktan olduğu kesin zaten. Şimdi baktım da benim 2 yıl önce takıldığım nokta çok ısındıktan sonra soğuyunca hızlanmamasıydı (BD PROCHOT dedikleri şey oluyor) ki termal macunu değişimi yaptıktan sonra çok ısınmayı bırakınca sorun çözülmüştü. Kesin çözüm için fan temizliği termal macunu değişimi falan yapmak gerek yani."
+      }
+    ],
+    "cozum": "AMD'lerde yardımcı olamam pek maalesef. AMD BD PROCHOT kapatmayı araştırsın. Sorun BD PROCHOT.",
+    "sentiment": "negative",
+    "reference_summary": "Athlon Gold 3150u hızını bir anda 0.38 GHz'ye düşürdü. Çözüm: AMD'lerde yardımcı olamam pek maalesef.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Dizüstü Bilgisayarlar",
+    "baslik": "Laptopu dik tutmak zararlı mıdır?",
+    "soru": "Merhaba. Dizüstü bilgisayarımı kullanmadığım zaman dik tutmak zarar verir mi? Termal macun akması falan olur mu?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Bir şey olmaz."
+      },
+      {
+        "cevap_metni": "HDD var ise kullanma SSD var ise sorun olmaz."
+      },
+      {
+        "cevap_metni": "SSD var. Teşekkür ederim."
+      },
+      {
+        "cevap_metni": "SSD var ise yabailirsin SSD sabitlenmiş bir şekilde duruyor zararı olmaz hocam."
+      },
+      {
+        "cevap_metni": "Laptop açıkken bile dikine koysan bişey olmaz. Kaldı ki kapalıyken okuyucu kafa park halinde olur risk zaten sıfır. Ben laptobu açıkken kaç kez düşürdüm onda bile bişey olmadı. Masaüstümde bir tane 2,5 hdd var kasada dikine monteli duruyor. Mobil hdd ler amacı gereği sağlamdır."
+      }
+    ],
+    "cozum": "Bir şey olmaz.",
+    "sentiment": "neutral",
+    "reference_summary": "Laptopu dik tutmak zararlı mıdır. Çözüm: Bir şey olmaz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "Roblox'ta karakter hareket etmiyor",
+    "soru": "Merhaba, az önce Roblox'u açtım ve karakterimi hareket ettiremiyorum. Fareyi algılıyor ekrandaki butonlara falan basabiliyorum. Chat yazabiliyorum ama karakter hareket etmiyor. Çok garip bir durum mesaj kısmına W a s D yazdım ve algılayıp yazdı ama karaktere dönünce hareket etmiyor. Bilgisi olan yardımcı olabilir mi? Teşekkür ederim.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hocam o çözümü biliyorum fakat o değilmiş oyunu silip tekrar yükledim sorun bitti yine de teşekkür ederim saygılar"
+      },
+      {
+        "cevap_metni": "\",\" Tuşuna basmış olabilirsiniz. Basınca UI moda geçer; bununla ilgili olabilir belki. Ayrıca ayarlarda Movement modunun “Default (Keyboard)” seçili olduğunu kontrol et."
+      }
+    ],
+    "cozum": "Hocam o çözümü biliyorum fakat o değilmiş oyunu silip tekrar yükledim sorun bitti yine de teşekkür ederim saygılar",
+    "sentiment": "positive",
+    "reference_summary": "Roblox'ta karakter hareket etmiyor. Çözüm: Hocam o çözümü biliyorum fakat o değilmiş oyunu silip tekrar yükledim sorun bitti yine de teşekkür ederim saygılar",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "Call of Duty bir süre sonra donuyor",
+    "soru": "Call of Duty oyununu açıyorum, ancak oyun bir süre sonra donup kalıyor. İmleç gecikmeli (laglı) hareket ediyor ve sistemi yeniden başlatmak zorunda kalıyorum. Herhangi bir hata kodu yazmıyor.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sorunu çözdüm. Gerekli dosyalarda sorun olduğunu fark ettim. DLC eksik inmiş. DLC'yi tekrar indirdim ve ardından doğrulama yaptım. Sorun çözüldü."
+      },
+      {
+        "cevap_metni": "Sistemin rahat kaldırır. Kasayla ilgili bir sorun olabilir diğer oyunlardada problem oluyormu?"
+      },
+      {
+        "cevap_metni": "Bir sorun olmuyor COD sorun var ekran donuyor mouse sapıtıyor sadece."
+      },
+      {
+        "cevap_metni": "Sil yükle yap."
+      },
+      {
+        "cevap_metni": "200 GB'yi sil yükle yapmanın neresi mantıklı."
+      },
+      {
+        "cevap_metni": "Oyunu indirirken eksik dosya indirebiliyor veya kurduğunuz yere göre değişiyor ama 200gb silip yüklemek epey vaktinizi alır."
+      },
+      {
+        "cevap_metni": "@GhostOps DLC eksikliğini nasıl anladın nasıl indirdin yardımcı olur musun? Bende de aynı durum oluyor. Scan and repair yapıyorum sorun bulamıyor oyuna girdiğimde bir müddet sonra yine donmuyor bilgisayara reset atmak zorunda kalıyorum. Uzun zamandır oynuyorum böyle bir sıkıntı ilk defa oluyor ne yapabilirim? Çözüm bulamazsam silip oyunu komple yeniden yükleyeceğim. Konuyu hortlatmış oldum yeni konu açmaktansa buraya yazmayı uygun gördüm kusuruma bakmayın."
+      },
+      {
+        "cevap_metni": "Başarımlar ekranının altında bir DLC bölümü bulunur. ‘yönet' kısmına tıklayın ve indirmek istediğiniz DLC'nin kutucuğunu işaretleyerek indirebilirsiniz. Benim önerim, tüm DLC'leri seçip bu şekilde indirmenizdir."
+      },
+      {
+        "cevap_metni": "Teşekkürler arkadaşım allah razı olsun"
+      }
+    ],
+    "cozum": "Sorunu çözdüm. Gerekli dosyalarda sorun olduğunu fark ettim. DLC eksik inmiş. DLC'yi tekrar indirdim ve ardından doğrulama yaptım. Sorun çözüldü.",
+    "sentiment": "negative",
+    "reference_summary": "Call of Duty bir süre sonra donuyor. Çözüm: Sorunu çözdüm.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "RX 570 sistem oyunlarda çöküyor",
+    "soru": "Merhaba. Eskiden yoktu ancak son 1 aydır oyunlarda çökme yaşıyorum. BeamNG.drive ekran kartı uyarısı veriyordu diğerleri mavi ekrana kadar gidebiliyor ancak mavi ekran çok yaşamadım. Oyun sadece takıldı ve çöktü. Birçok şey denedim bellek kontrolü işlemci kontrolü gibi ancak çözüm bulamadım. En sonunda ekran kartının 2022'de çıkan kararlı sürümünü yükledim ama gene çözüm yok. Bana bir çare gösterin (not: SSD vardı yanına HDD bağladım sanki ondan sonra başladı ama bilmiyorum). Sistem özellikleri: Ryzen 5 1500X. RX 570 8 GB. 16 GB RAM. 250GB SSD. 250GB HDD. 650watt PSU.",
+    "cevaplar": [
+      {
+        "cevap_metni": "SSD'ye de HDD'ye de yaptım. Hız düşüklüğü dışında bir şey çıkmadı yalnız HDD'yi test ederken iki kere ekran gitti ve sinyal yok dedi. Alt Tab atınca düzeldi. Arkadaşlar, sorunun çözümünü ben kendimce buldum. Eski bir işlemci olduğu için 3200 MHz RAM'i kaldırmıyor ve bundan dolayı hata veriyor. Çözüm ise BIOS'tan RAM hızını sınırlamak. 2666 MHz yaparsanız sorun çözülüyor."
+      },
+      {
+        "cevap_metni": "HDD söküp deneyin."
+      },
+      {
+        "cevap_metni": "Büyük ihtimalle HDD sistemi kararsızlaştırıyor. R5 1600 +RX570 4GB kombinasyonunu kendim de kullanıyorum hala sorunsuz çalışıyor."
+      },
+      {
+        "cevap_metni": "HDD'de bad sector varsa böyle mavi ekran sıkıntısı vs çıkarır bir HD Tune ile error scan yap bakalım. Sıkıntılıysa HDD'yi söküp kullanmayı dene."
+      },
+      {
+        "cevap_metni": "Sorunu çözdüğüne sevindim oda bir faktördü kimsenin aklına gelmemiş ram. Bende RX570i Ryzen 5 1600 le kullanıyorum. RAM hızını 2133'ten 3000'e çıkarmıştım XMP açıp birkaç gün önce şimdilik bir sıkıntı yok bakalım."
+      }
+    ],
+    "cozum": "SSD'ye de HDD'ye de yaptım. Hız düşüklüğü dışında bir şey çıkmadı yalnız HDD'yi test ederken iki kere ekran gitti ve sinyal yok dedi. Alt Tab atınca düzeldi. Arkadaşlar, sorunun çözümünü ben kendimce buldum. Eski bir işlemci olduğu için 3200 MHz RAM'i kaldırmıyor ve bundan dolayı hata veriyor. Çözüm ise BIOS'tan RAM hızını sınırlamak. 2666 MHz yaparsanız sorun çözülüyor.",
+    "sentiment": "neutral",
+    "reference_summary": "RX 570 sistem oyunlarda çöküyor. Çözüm: SSD'ye de HDD'ye de yaptım.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "Cyberpunk 2077 çöküyor",
+    "soru": "Oyun düne kadar normal çalışıyordu. Bugün kaldığım saveden devam etmek istediğimde çökme sorunu yaşıyorum. Bu sorunu nasıl çözebilirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Birkaç yöntemi denedim ancak olmadı hocam. 2 eski save önceye döndüm ve halloldu neyse ki."
+      },
+      {
+        "cevap_metni": "Hocam o kadar sebep olabilir ki, aklıma gelen birkaç tanesini yazayım. Oyunu yönetici olarak çalıştırma Önce yedekleyip eski save'i deneme Oyun dosyalarını nerden oynuyorsanız doğrulatma Windows'a güncelleme vesaire yaptıysanız geri kaldırma. Ekran kartı sürücülerini güncelleme veyahut eski sürüme dönme (DDU ile silip tekrar yükleyebilirsin) Küçük bir ihtimal antivirüs programları da olabilir."
+      }
+    ],
+    "cozum": "Birkaç yöntemi denedim ancak olmadı hocam. 2 eski save önceye döndüm ve halloldu neyse ki.",
+    "sentiment": "negative",
+    "reference_summary": "Cyberpunk 2077 çöküyor. Çözüm: Birkaç yöntemi denedim ancak olmadı hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "GTA IV \"MSVP140.dll\" hatası",
+    "soru": "Önceliklen merhaba. Arkadaşlar ben GTA 4 satın aldım ve indirdim. İndikten sonra böyle bir uyarı aldım bu uyarıyı nasıl düzeltirim? Oyun orijinal Steam oyunu.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Bu paketleri indirip kurun. Bahsi geçen DLL dosyası bu paketler ile yükleniyor. Download Microsoft Visual C++ 2015-2022 Redistributable Package (x86) Download Microsoft Visual C++ 2015-2022 Redistributable Package (x64)"
+      },
+      {
+        "cevap_metni": "Vcredist allinone ve dxwebsetup kurun."
+      },
+      {
+        "cevap_metni": "Yüklü diye hatırlıyorum ama gene de deneyeyim."
+      },
+      {
+        "cevap_metni": "Elle dll atmak gibi bir kötülük yapmadıysanız sisteme bunlar çözer."
+      },
+      {
+        "cevap_metni": "Link var mı? Yok elle DLL atmadım, link var mı?"
+      },
+      {
+        "cevap_metni": "Bütün Microsoft Visual C++ redist paketlerini kurmanıza gerek yok. 2015-2022 olanlar ile çözülür sorun."
+      },
+      {
+        "cevap_metni": "Link bu. Microsoft serverlerinden link."
+      },
+      {
+        "cevap_metni": "Eski oyunlarda baş ağrısı oluyor, yüklemişken hepsini yüklemenizi öneririm."
+      },
+      {
+        "cevap_metni": "msvcp140.dll dosyası için 2015-2022 Microsoft Visual C++ paketleri yetiyor. Konu sahibi kurmuşken hepsini de kurabilir, zararı olmaz tabii ki de ama internetten araştırıp gören biri için daha belirleyici bir cevap olur."
+      }
+    ],
+    "cozum": "Bu paketleri indirip kurun. Bahsi geçen DLL dosyası bu paketler ile yükleniyor. Download Microsoft Visual C++ 2015-2022 Redistributable Package (x86) Download Microsoft Visual C++ 2015-2022 Redistributable Package (x64)",
+    "sentiment": "negative",
+    "reference_summary": "GTA IV \"MSVP140.dll\" hatası. Çözüm: Bu paketleri indirip kurun.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "GTA 5 Enhanced \"ERR GFX INIT\" hatası nasıl çözülür?",
+    "soru": "Merhaba arkadaşlar, yeni bilgisayar topladım ve GTA yükledim, açmaya çalışırken \"err GFX ınıt\" hatası veriyor. Ekran kartım 7600XT ve driver güncel. Birçok yerden baktım fakat olmuyor. Ne yapmam lazım? DX versiyonum 12. Şimdi bir şey fark ettim görselde \"shader\" ve \"citydestiny\" arasında DX kodu yazması gerekiyormuş fakat bende yazmıyor.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hocam belgelerden silmeyi denedim fakat o olmadı şimdi DDU deneyeceğim. Hocam DDU yaptım, dosyaları tekrar doğrularım, belgelerden Rockstar dosyasını sildim fakat hala aynı hatayı veriyor. https://www.amd.com/en/support/down...eon-rx-7000-series/amd-radeon-rx-7600-xt.html 25.10.2'yi indirdim. Çözdüm arkadaşlar, yeni kullanıcı açıp oraya yükledim ama kendi oturumumdan oynayabiliyorum."
+      },
+      {
+        "cevap_metni": "DDU ile ekran kartı sürücüsünü kaldırıp AMD'nin sitesinden WHQL onaylı sürücüyü kurmayı dene. Olmazsa belgelerimden Rockstar Games klasörünü silmeyi deneyebilirsin. (yedek almayı unutma)"
+      },
+      {
+        "cevap_metni": "Hocam tam olarak nasıl çözdün detaylıca anlatır mısın?"
+      }
+    ],
+    "cozum": "Hocam belgelerden silmeyi denedim fakat o olmadı şimdi DDU deneyeceğim. Hocam DDU yaptım, dosyaları tekrar doğrularım, belgelerden Rockstar dosyasını sildim fakat hala aynı hatayı veriyor. https://www.amd.com/en/support/down...eon-rx-7000-series/amd-radeon-rx-7600-xt.html 25.10.2'yi indirdim. Çözdüm arkadaşlar, yeni kullanıcı açıp oraya yükledim ama kendi oturumumdan oynayabiliyorum.",
+    "sentiment": "neutral",
+    "reference_summary": "GTA 5 Enhanced \"ERR GFX INIT\" hatası nasıl çözülür. Çözüm: Hocam belgelerden silmeyi denedim fakat o olmadı şimdi DDU deneyeceğim.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "RDR2 yüz grafikleri kötü gözüküyor",
+    "soru": "RDR2 oynuyorum. İnternetteki videolarda yüzler gerçekçi duruyor. Bende piksel gibi. Bütün ayarlar ultrada. PS3 grafiklerine benziyor yüzler. Çözüm var mı?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Eğer sistemin yeterince güçlüyse gelişmiş ayarlardan render scale ayarını 3/2 (%150) veya 4/5 (%125) yap, ciddi etkisi oluyor RDR2 1080p'de."
+      },
+      {
+        "cevap_metni": "Çözünürlük nedir?"
+      },
+      {
+        "cevap_metni": "1920x1080 oynuyorum."
+      },
+      {
+        "cevap_metni": "FSR / DLSS açık mı? Çözünürlük ölçekleme ayarı açık mı?"
+      },
+      {
+        "cevap_metni": "1920x1080'de oyun bir nevi bug'lı. Ağaçlar falan da olması gerektiğinden kötü gözüküyor. Belki bu yüzdendir."
+      },
+      {
+        "cevap_metni": "Kapalı ikisi de açık denedim çözüm yok özellikle John marston yüzü çok kötü. Anladım evet Ultra rağmen ağaçlarda biraz kötü gözüküyor."
+      },
+      {
+        "cevap_metni": "Sisteminiz nedir? Ona göre ölçeklendirme açabilirmisiniz onu söyleyebilirim."
+      },
+      {
+        "cevap_metni": "Ekran kartı 5070 Ryzen 7 7800x3D 32 GB RAM var. Deneyeceğim sistem yeterlidir herhalde bu ayar için."
+      },
+      {
+        "cevap_metni": "Yeterli ne kelime, 1440p yüksek ayarlarda bile oynatır. İstersen 2/1 (%200) render ayarını bile deneyebilirsin, performanstan memnun olmazsan 150 yaparsın. Ben RX 6700 ile %125 render ayarında oynamıştım."
+      }
+    ],
+    "cozum": "Eğer sistemin yeterince güçlüyse gelişmiş ayarlardan render scale ayarını 3/2 (%150) veya 4/5 (%125) yap, ciddi etkisi oluyor RDR2 1080p'de.",
+    "sentiment": "neutral",
+    "reference_summary": "RDR2 yüz grafikleri kötü gözüküyor. Çözüm: Eğer sistemin yeterince güçlüyse gelişmiş ayarlardan render scale ayarını 3/2 (%150) veya 4/5 (%125) yap, ciddi etkisi oluyor RDR2 1080p'de.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "CS 1.6 siyah şerit sorunu",
+    "soru": "CS1.6'da oyun hep 4:3 Blackbars şeklinde çalışıyor. Aynı sorun CS:GO'da yok sadece 1.6'da yaşıyorum. Araştırdım Steam'den bazı kodları girince yapabiliyormuşuz denedim fakat olmadı hiç bir türlü düzelmiyor.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Counter-Strike başlatma komutlarına şunları ekleyiniz; - nofbo -stretchaspect"
+      },
+      {
+        "cevap_metni": "Hangi ekran kartını kullanıyorsunuz?"
+      },
+      {
+        "cevap_metni": "Çalıştırdan (regedit) e girip, HKEY_CURRENT_USER/Software/Valve/Half-Life/Settings e çift tıkla ve sağ taraftaki gördüğün üz\"Screen Height\"i çift tıklatın, ardından ondalık değer kutucuğu işaretli iken, çözünürlük yüksekliğinizi yazıp onaylayın. Ardından ise \"Screen Width\" adlı seçeneği çift tıklatın. Aynı şekilde (ondalıkta) Çözünürlük yatay genişliğinizi yazıp onaylayın. İyi oyunlar."
+      },
+      {
+        "cevap_metni": "Hocam bunun işe yarayacağını sanmıyorum ha oyun içinden ha config dosyasından ha oyun içinden çözünürlük ayarını değiştirmek bir fark yaratmıyor. Yine black bar verecek oyun."
+      },
+      {
+        "cevap_metni": "Nvidia ekran kartı kullanıyorsanız; Nvidia Denetim Masasına girin, masaüstü konumunu ve boyutunu ayarla seçeneğine tıklayın, Ölçeklendirme modunu tam ekran olarak seçin ve alttaki \"oyunlar ve programlar tarafından belirlenen ölçeklendirme modunu geçersiz kıl\" seçeneğini işaretleyin. Uygula diyip çıkın."
+      },
+      {
+        "cevap_metni": "Teşekkürler deneyeceğim."
+      },
+      {
+        "cevap_metni": "O sorun bendede vardı eğer Software olarak giriyorsanız oyuna 0 ın yanındaki * ile - tuşlarıyla ekranın boyutunu büyültüp küçültebiliyorsunuz."
+      },
+      {
+        "cevap_metni": ",Riseup yazın consola olacaktır."
+      },
+      {
+        "cevap_metni": "-stretchaspect"
+      }
+    ],
+    "cozum": "Counter-Strike başlatma komutlarına şunları ekleyiniz; - nofbo -stretchaspect",
+    "sentiment": "negative",
+    "reference_summary": "CS 1.6 siyah şerit sorunu. Çözüm: Counter-Strike başlatma komutlarına şunları ekleyiniz; - nofbo -stretchaspect",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "BF4 yükleme ekranında takılı kalıyor",
+    "soru": "Merhaba arkadaşlar, dün arkadaşımla oynamak için yeniden BF4 aldım ama yükleme ekranında takılı kalıyor. Punkbuster güncelledim, oyun dosyalarının bütünlüğünü 2-3 kere doğruladım, hâlâ çözülmedi. Başka ne yapabilirim, açılmıyor.",
+    "cevaplar": [
+      {
+        "cevap_metni": "İşe yaramadı, hâlâ aynı ekranda. Oyunu Steam ve masaüstünden değil, EA uygulamasından açınca düzeldi."
+      },
+      {
+        "cevap_metni": "PunkBuster'i, yeniden kurmayı deneyin. Oyunu yönetici olarak çalıştırmayı deneyin."
+      }
+    ],
+    "cozum": "İşe yaramadı, hâlâ aynı ekranda. Oyunu Steam ve masaüstünden değil, EA uygulamasından açınca düzeldi.",
+    "sentiment": "negative",
+    "reference_summary": "BF4 yükleme ekranında takılı kalıyor. Çözüm: İşe yaramadı, hâlâ aynı ekranda.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Oyun Teknik Destek",
+    "baslik": "Steam'den oynanan Ready or Not açılırken Epic Games yazısı çıkıyor",
+    "soru": "Geçen gün Steam'den Ready or Not aldım. Oyuna girerken böyle bir yazı çıkıyor, kapatmaya basınca kapanıyor ve oyun açılıyor. Neden oluyor bu, anlayamadım, bilen var mı acaba?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Bazı oyunlar Epic Games servisleri kullanıyor mesela Fall Guys'a girince de öyle. Bir sorun değil, takmayın."
+      },
+      {
+        "cevap_metni": "Fall Guys zaten Epic Games'te."
+      },
+      {
+        "cevap_metni": "Eskiden Steam'de satılıyordu."
+      },
+      {
+        "cevap_metni": "Sonradan Epic Games ya şirketi ya da oyunu satın aldı."
+      },
+      {
+        "cevap_metni": "Anladım teşekkür ederim."
+      }
+    ],
+    "cozum": "Bazı oyunlar Epic Games servisleri kullanıyor mesela Fall Guys'a girince de öyle. Bir sorun değil, takmayın.",
+    "sentiment": "negative",
+    "reference_summary": "Steam'den oynanan Ready or Not açılırken Epic Games yazısı çıkıyor. Çözüm: Bazı oyunlar Epic Games servisleri kullanıyor mesela Fall Guys'a girince de öyle.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "Instagram Daha önce değiştirilen hesap isimlerini başka hesaplar görebilir mi?",
+    "soru": "Arkadaşlar benim bir hesabım var 2024 başında açmıştım. 6 kez isim değiştirmişim hesapta, eski kullanıcı isimlerinin başkaları tarafından gözükmesini istemiyorum. nasıl yaparım? Şu an bende gözükmüyor ama başka hesaplarda gözüküp gözükmeyeceğini nasıl anlarım ki?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Sadece kullanıcı adınızı kaç kez değiştirdiğinizi görebiliyoruz hocam."
+      },
+      {
+        "cevap_metni": "Eski kullanıcı isimleriniz gözükmez. Sadece kaç kez değiştirdiğinizin bilgisi yazar."
+      },
+      {
+        "cevap_metni": "Başka hesaplarda gözüküyor, bunu gizleyemezsiniz maalesef. Arkadaşların dediği gibi sadece kaç kez değiştirdiğini görebiliyoruz."
+      }
+    ],
+    "cozum": "Sadece kullanıcı adınızı kaç kez değiştirdiğinizi görebiliyoruz hocam.",
+    "sentiment": "neutral",
+    "reference_summary": "Instagram Daha önce değiştirilen hesap isimlerini başka hesaplar görebilir mi. Çözüm: Sadece kullanıcı adınızı kaç kez değiştirdiğinizi görebiliyoruz hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "Herkesten sil özelliğini kullanabilmek için ne kadar sürede mesajı silmek gerekir?",
+    "soru": "Evet başlıkta da belirttiğim gibi bir mesajı karşı taraftan da silmek için ne kadar süremiz var?",
+    "cevaplar": [
+      {
+        "cevap_metni": "İki gün vakit var."
+      },
+      {
+        "cevap_metni": "2 gün yazıyor ama belli olmaz mesaj görüldüden sonra daha kısa süre oluyor sanırsam."
+      },
+      {
+        "cevap_metni": "Herkesten sil özelliğini kullanabilmek için söz konusu mesaj gönderildikten sonra iki gün süreniz vardır."
+      },
+      {
+        "cevap_metni": "Evet araştırmalarım sonucu o 2 gün süreyi bende gördüm fakat daha önce çok kısa bir süre vardı diye hatırlıyorum. 30 dk gibi mesela."
+      },
+      {
+        "cevap_metni": "Dediğim gibi görüldüde farklı işliyor sanırsam. Çarşamda saat 21.00 da mesaj atmışım birine şuan silebiliyorum. Görüldüsüz yani bu süre."
+      },
+      {
+        "cevap_metni": "Görüldü de bu süre farklı o halde. Edit: Şimdi yapay zekaya sordum, görülmedi veya görüldü dahi olsa 2 gün (48 saat) süre olarak güncellenmiş dedi."
+      }
+    ],
+    "cozum": "İki gün vakit var.",
+    "sentiment": "neutral",
+    "reference_summary": "Herkesten sil özelliğini kullanabilmek için ne kadar sürede mesajı silmek gerekir. Çözüm: İki gün vakit var.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "Instagram PC, Reels açılmıyor",
+    "soru": "Instagram'a web üzerinden giriş yapıyorum. Reels'e tıkladıktan sonra donuyor ve yanıt vermiyor. Farklı tarayıcı ve çerezleri silmeyi denedim. Aynı sonuç, farklı hesaptan denedim, aynı nasıl çözebilirim bu sorunu?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Arama kısmına performans yaz ve Windows'un görünümü ve performansı ayarla kısmı çıkıyor ona tıkla çıkan kısma bilgisayarım için en iyi ayarı Windows seçsin gibi bir seçenek var onu seç ben böyle düzelttim. @Avesta Nyx"
+      },
+      {
+        "cevap_metni": "Çözebildin mi bende bayağı şey denedim hala açılmıyor."
+      },
+      {
+        "cevap_metni": "Sen var ya kral adamsın çözüm olarak işaretledim."
+      },
+      {
+        "cevap_metni": "eyvallah"
+      },
+      {
+        "cevap_metni": "Oha hiç olmasını beklemiyordum niyeyse çok saçma gelmişti ama oldu eyvallah."
+      },
+      {
+        "cevap_metni": "w11 için gelişmiş seçeneklerden performans Windows'un görünümü ve performansı ayarlayın"
+      },
+      {
+        "cevap_metni": "Helal olsun be hiç olacağını düşünmüyodum çalıştı adamın dibisin"
+      },
+      {
+        "cevap_metni": "gelişmiş seçenekler neresi"
+      },
+      {
+        "cevap_metni": "Arama kısmına gelişmiş sistem ayarlarını görüntüle yaz oraya tıkla performans yazıyor onun altında ayarlar var orası."
+      }
+    ],
+    "cozum": "Arama kısmına performans yaz ve Windows'un görünümü ve performansı ayarla kısmı çıkıyor ona tıkla çıkan kısma bilgisayarım için en iyi ayarı Windows seçsin gibi bir seçenek var onu seç ben böyle düzelttim. @Avesta Nyx",
+    "sentiment": "negative",
+    "reference_summary": "Instagram PC, Reels açılmıyor. Çözüm: Arama kısmına performans yaz ve Windows'un görünümü ve performansı ayarla kısmı çıkıyor ona tıkla çıkan kısma bilgisayarım için en iyi ayarı Windows seçsin gibi bir...",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "Instagram gönderilen takip isteklerini görme",
+    "soru": "Yeni güncelleme ile gizlilik güvenlik kısmında çıkmıyor arkadaş giden takip isteklerini görebileceğim bir program var mı yardımcı olur musunuz gönderdiğim istek gönderildi şeklinde kabul etmeyenleri görmek istiyorum?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hocam verilerinizi bu linkten talep edin. E-postanıza gelince arşivi indirin, arşivi açın ve followers_and_following klasörüne girin, oradan da recent_follow_requests kısmına gidin. Buradan reddedilen ya da kabul edilen istekleri görebilirsiniz. Son zamanlarda zorlaştırıldı, tek yöntem bu."
+      },
+      {
+        "cevap_metni": "Çok teşekkür ederim galiba tek yöntem bu uygulama var mı peki play storeden indireceğimiz instagram hesabımızı girip bakcağımız bir ara bulmuştum şimdi kaybettim ya bulamıyorum indirmiş silmişim."
+      },
+      {
+        "cevap_metni": "Hocam play store üzerindeki bu tür uygulamalara pek güvenim yok."
+      },
+      {
+        "cevap_metni": "Artık bu kısım yok. Bilginiz var mı nasıl ulaşacağız?"
+      },
+      {
+        "cevap_metni": "Selamlar, kontrol amaçlı yeniden talep ettim dosyaları. Kaldırıldığını sanmıyorum, araştırdıktan sonra buradan güncelleme paylaşacağım."
+      },
+      {
+        "cevap_metni": "Hocam internette biraz gezindim. Sanırım artık kaldırılmış herkes fellik fellik arıyor çözümünü. Bulursanız mutlaka formda konu açın, pek çok kişi faydalanacaktır."
+      },
+      {
+        "cevap_metni": "Arkadaşlar selam Instagram’da kime takip isteği attığınızı artık göremiyor musunuz? Ben de bayağı aradım ama sonunda güncel yöntemini buldum. 2025’te hâlâ görmek mümkünmüş Kısaca özet geçeyim: Instagram uygulamasından “Verilerini indir” kısmına giriyorsunuz. Size gelen dosyada connections > pending_follow_requests.html yolunu izliyorsunuz. O dosyada kime istek attıysanız hepsi listeleniyor. Yani “Instagram istek attığın kişileri görme kalktı” olayı yalanmış hocam Tüm adımların detaylı anlatımı burada Kaynak : Instagram İstek Attığın Kişileri Görme (2025 Güncel Rehber) - Takipçi Al"
+      }
+    ],
+    "cozum": "Hocam verilerinizi bu linkten talep edin. E-postanıza gelince arşivi indirin, arşivi açın ve followers_and_following klasörüne girin, oradan da recent_follow_requests kısmına gidin. Buradan reddedilen ya da kabul edilen istekleri görebilirsiniz. Son zamanlarda zorlaştırıldı, tek yöntem bu.",
+    "sentiment": "neutral",
+    "reference_summary": "Instagram gönderilen takip isteklerini görme. Çözüm: Hocam verilerinizi bu linkten talep edin.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "WhatsApp'ın ayarlardan verilerini silince mesajlar gider mi?",
+    "soru": "Arkadaşlar Samsung A54 telefonda ayarlardan WhatsApp'ın verilerini sil dersem geçmiş mesajlar da silinir mi? Ön bellek değil, verileri silmek.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Şayet buluta yedeklemediysen gider. Gitmemesi için buluta yedeklemen lazım, ayarlarda senkronizasyon ayarı var."
+      }
+    ],
+    "cozum": "Şayet buluta yedeklemediysen gider. Gitmemesi için buluta yedeklemen lazım, ayarlarda senkronizasyon ayarı var.",
+    "sentiment": "neutral",
+    "reference_summary": "WhatsApp'ın ayarlardan verilerini silince mesajlar gider mi. Çözüm: Şayet buluta yedeklemediysen gider.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "iCloud'a kayıtlı cihazdan çıkılıp yeni cihazla giriş yapılırsa WhatsApp mesajları gider mi?",
+    "soru": "Bir tane telefon vardı bayağıdır kullandığım geçen aylarda telefon değiştirdim ve eski telefonumda Drive ile kayıtlıydı. Bu telefondaki sohbetlerimde iCloud ile kayıtlı diğer telefondan bakmam gereken bir şey var. Bu telefondan çıkış yapıp diğer telefona bağlanınca bu yeni telefondaki mesajlar gider mi? Veya diğer telefonda mesajları görebilir miyim? Telefonu ilk aldığımda denemiştim, gözüküyordu fakat şimdi mesajlar birikince şu anki telefondaki mesajların gitmesini istemiyorum. Yedekledim ama yine de cevaplarınızı bekliyorum.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Hocam iyi günler eğer yedekleme yaptıysanız bir sorun olmaz ben de aynısını yapmıştım benimkinde bir sıkıntı olmadı ama yedeklendiğinden emin oldun derim."
+      },
+      {
+        "cevap_metni": "Deneyeceğim sabah teşekkürler."
+      },
+      {
+        "cevap_metni": "Durum nedir oldu mu?"
+      },
+      {
+        "cevap_metni": "Geç oldu cevap biraz ama evet mesajlarım silinmedi. Teşekkürler. Denedim ama yazmayı unutmuşum."
+      }
+    ],
+    "cozum": "Hocam iyi günler eğer yedekleme yaptıysanız bir sorun olmaz ben de aynısını yapmıştım benimkinde bir sıkıntı olmadı ama yedeklendiğinden emin oldun derim.",
+    "sentiment": "neutral",
+    "reference_summary": "iCloud'a kayıtlı cihazdan çıkılıp yeni cihazla giriş yapılırsa WhatsApp mesajları gider mi. Çözüm: Hocam iyi günler eğer yedekleme yaptıysanız bir sorun olmaz ben de aynısını yapmıştım benimkinde bir sıkıntı olmadı ama yedeklendiğinden emin oldun derim.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "WhatsApp Google Drive yedeği yüklenmiyor",
+    "soru": "Merhaba arkadaşlar, dün gece 2:00'da WhatsApp otomatik olarak yedekleme yaptı ve yedek dosyası Google Drive'da aktif şekilde görünüyor. Ancak telefona WhatsApp'ı tekrar kurdum ve yedeklenen mesajları geri getir dediğim zaman uzunca süre yüklemeye çalışıyor ardından hiçbir mesaj geri yüklenemedi diye bir yanıt geliyor. Ne yapmamız lazım? Teşekkürler.",
+    "cevaplar": [
+      {
+        "cevap_metni": "WhatsApp'ın son güncellemeleri sorunlu sadece betada öyle olduğunu düşünüyordum fakat çevremde de gördüm uygulama kendiliğinden çöküp tüm mesajları siliyor, normalde yedekler şifrelenir WhatsApp tarafından başka şekilde okunmasın diye ama bu güncelleme yedekleri de okuyamıyor. Yapılması gereken şu anlık tek çözüm apkmirrordan 31 Ağustos'ya da 1 Eylül sürümlerinden beta olmayanı indirmek yüklemeden önce WhatsApp'ı silmeniz gerekli."
+      },
+      {
+        "cevap_metni": "Otomatik yedekleme bence bir işe yaramıyor. Aynı durumu yaşamıştım. Sonra manuel olarak gidip yedeklediğimde sorun çözülmüştü."
+      },
+      {
+        "cevap_metni": "Peki hocam bunu düzeltmenin bir yolu yok mudur? Yerelde ve Drive'da yedek duruyor ama yükleyemiyorum."
+      },
+      {
+        "cevap_metni": "Whatsapp'in verilerini sıfırlayıp ardından uygulamaya giriş sağlamadan önce ayarlara girip tüm izinleri verip tekrar dener misin?"
+      },
+      {
+        "cevap_metni": "Hocam %49'a kadar geliyor 3-5 dakika bekleyip yine aynı hatayı veriyor. Telefonu formatlasam WhatsApp verilerinin kaybolacağını biliyorum ancak belki o zaman Drive'dan çekebilirim. Yani tek çare şu an telefonu formatlamak gibi duruyor."
+      },
+      {
+        "cevap_metni": "Ben de Beta üyesiydim hocam ama günlerdir çöküyor geçen gün de annemin hesap aynı şekilde hata verdi onu WhatsApp Web'ten APK olarak tekrar kurdum sorun çözüldü ancak benim cihazda sorun devam ediyor. Şimdi sizin söylediğiniz yolu deneyeceğim umarım başarılı somuç alabilirim. Bu arada, formatlamakta da başarılı sonuç alınamadı. Hocam çok teşekkürler bu yöntem işe yaradı. Emeği ve yardımı geçen herkese teşekkür ederim. Konu kilit."
+      },
+      {
+        "cevap_metni": "Google Play'den otomatik güncellemeyi kapatmayı unutmayın."
+      },
+      {
+        "cevap_metni": "Teşekkür ederim hocam, güncellemeyi kapattım."
+      },
+      {
+        "cevap_metni": "Aynı sorun bende de var. Geri yukleme kısa surede sona geliyor ama en sonunda ustteki mesaj cikiyor. Eski sürümü de yükledim ama olmadı. Vefat eden akrabamizla son mesajlasmamiz bile vardi, hersey gitti. Nasil çözebilirim?"
+      }
+    ],
+    "cozum": "WhatsApp'ın son güncellemeleri sorunlu sadece betada öyle olduğunu düşünüyordum fakat çevremde de gördüm uygulama kendiliğinden çöküp tüm mesajları siliyor, normalde yedekler şifrelenir WhatsApp tarafından başka şekilde okunmasın diye ama bu güncelleme yedekleri de okuyamıyor. Yapılması gereken şu anlık tek çözüm apkmirrordan 31 Ağustos'ya da 1 Eylül sürümlerinden beta olmayanı indirmek yüklemeden önce WhatsApp'ı silmeniz gerekli.",
+    "sentiment": "positive",
+    "reference_summary": "WhatsApp Google Drive yedeği yüklenmiyor. Çözüm: WhatsApp'ın son güncellemeleri sorunlu sadece betada öyle olduğunu düşünüyordum fakat çevremde de gördüm uygulama kendiliğinden çöküp tüm mesajları siliyor, normalde...",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "WhatsApp Hesap sebepsiz yere engellendi",
+    "soru": "WhatsApp hesabım 26 Ekim pazartesi akşamı grupta sohbet ederken bilmediğim bir sebepten engellendi. Gözden geçirme talep etmek istiyorum. O tuş çıkmıyor. Mail atıyorum dönüş yapamıyorum. Öğrenciyim. Ödevlerim geliyor bakamıyorum. Benzer durumları yaşayanlar varsa yardım edebilir mi? Teşekkürler.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Numaranızı banlamışlar. 3. parti WhatsApp kullanımı, uygunsuz içeriklerin gönderilmesi ve bunların şikayet edilmesi ile vs. banlanabiliyor. Yeni numara alırsanız veya numara taşırsanız sorunsuz giriş yaparsınız."
+      },
+      {
+        "cevap_metni": "Babama da olmuştu. Maalesef yeni numara almıştı."
+      },
+      {
+        "cevap_metni": "Kaç gündür mail atıyorum hep bot mesajı alıyorum. Numara değişince aynı sorun yaşandı mi peki?"
+      },
+      {
+        "cevap_metni": "Açılma ihtimali hiç mi yok numaranın tamamınımı yoksa son 4 hanesinde değiştirsem olur mu?"
+      },
+      {
+        "cevap_metni": "Açılmaz. Son 4 hane de işe yarar."
+      },
+      {
+        "cevap_metni": "Teşekkür ederim. Son 2 hane de olur mu? Kusura bakma tekrar rahatsız ediyorum."
+      },
+      {
+        "cevap_metni": "Olur tabii. Önemli olan numaranın değişmesi."
+      }
+    ],
+    "cozum": "Numaranızı banlamışlar. 3. parti WhatsApp kullanımı, uygunsuz içeriklerin gönderilmesi ve bunların şikayet edilmesi ile vs. banlanabiliyor. Yeni numara alırsanız veya numara taşırsanız sorunsuz giriş yaparsınız.",
+    "sentiment": "positive",
+    "reference_summary": "WhatsApp Hesap sebepsiz yere engellendi. Çözüm: Numaranızı banlamışlar.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "Instagram Çiziktirme özelliğine nasıl erişilir?",
+    "soru": "Arkadaşlarımın hepsinde \"çiziktirme\" özelliği var ama bende daha yok. Güncellemeyi denedim, yok. Telefonu yeniden başlattım, Instagram'ı sildim yükledim, yok. Nasıl düzelir?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Her hesaba tek seferde gelmez. Bu YouTube Instagram Facebook Twitter WhatsApp hepsinde geçerli. Bir süre sonra gelebilir."
+      },
+      {
+        "cevap_metni": "Yani bir süre sonra 1 gün 1 hafta ne zaman geleceği belli olmaz mı?"
+      },
+      {
+        "cevap_metni": "Önce belli yüzdelik kısma açarlar sonradan yavaş yavaş başka kesime. Net bir tarih yok. 1 yıl özellik gelmeyen adamlar oluyor."
+      },
+      {
+        "cevap_metni": "Anladım teşekkürler."
+      },
+      {
+        "cevap_metni": "Belli olmaz. Rastgele dağıtılıyor hocam."
+      }
+    ],
+    "cozum": "Her hesaba tek seferde gelmez. Bu YouTube Instagram Facebook Twitter WhatsApp hepsinde geçerli. Bir süre sonra gelebilir.",
+    "sentiment": "neutral",
+    "reference_summary": "Instagram Çiziktirme özelliğine nasıl erişilir. Çözüm: Her hesaba tek seferde gelmez.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Sosyal Medya ve Mesajlaşma",
+    "baslik": "Discord çevrimdışı kullanıcılar gozukmuyor",
+    "soru": "Merhaba. Sunucumda 1000 kişi oldu ve çevrimdışı kullanıcılar gözükmüyor. Bunu nasıl üye düşürmeden gözüküyor olarak ayarlayabilirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "O maalesef ayarlanmıyor hocam. Discord kendisi kısıtlıyor."
+      },
+      {
+        "cevap_metni": "Sunucu 1000 üyeyi geçtiği zaman Discord tarafından çevrimdışı üyeler gösterilmiyor."
+      },
+      {
+        "cevap_metni": "Anladım, sağ olun. Peki bu sayıyı artırmanın hiçbir yolu yok mu?"
+      },
+      {
+        "cevap_metni": "@her4_35 , maalesef yok."
+      },
+      {
+        "cevap_metni": "Onu ne yaparsan yap değiştiremezsin."
+      }
+    ],
+    "cozum": "O maalesef ayarlanmıyor hocam. Discord kendisi kısıtlıyor.",
+    "sentiment": "neutral",
+    "reference_summary": "Discord çevrimdışı kullanıcılar gozukmuyor. Çözüm: O maalesef ayarlanmıyor hocam.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "Minecraft sunucusu için kaç GB RAM yeterli olur?",
+    "soru": "5 kişilik aramızda oynacağımız paper yazılımlı Minecraft sunucusu kuracağız. Plugin olarak sadece protocollib ve orebfuscstor var. Sunucuda bol bol Build ve farm olacak. İşlemci olarak AMD Epyc 9454 kullanacağım sunucu için kaç GB RAM önerirsiniz?",
+    "cevaplar": [
+      {
+        "cevap_metni": "4 GB yeterli olacaktır. Garanti olsun derseniz 6 yapın."
+      }
+    ],
+    "cozum": "4 GB yeterli olacaktır. Garanti olsun derseniz 6 yapın.",
+    "sentiment": "neutral",
+    "reference_summary": "Minecraft sunucusu için kaç GB RAM yeterli olur. Çözüm: 4 GB yeterli olacaktır.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "play.hosting Minecraft sunucusu yasal mıdır?",
+    "soru": "Merhaba, Aternos gibi ücretsiz sunucular yasal mı? Ana sunucu olarak play.hosting yasal mıdır Türkiye'de? Bilgi verebilir misiniz?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Herhangi bir kısıtlama yok diye biliyorum. Sonuçta oyun sunucuları. Mojang da resmi olarak sunucuyu korsana da açma özelliği eklemiş zaten. Pek bir sorun olacağını sanmıyorum."
+      },
+      {
+        "cevap_metni": "Teşekkür ederim bilginiz varsa daha çok bilgi verebilir misiniz?"
+      },
+      {
+        "cevap_metni": "Ne hakkında Hocam? Yasal olarak bir sorun teşkil etmez."
+      },
+      {
+        "cevap_metni": "Geçen arkadaşlar ile sunucu açtığımzda bir eleman gelip bunun yasal olmadığını bizi sibere şikayet edeceğini söyledi."
+      },
+      {
+        "cevap_metni": "Sunucuda kanunlara aykırı bir şey olmadıkça bir sorun yaratmaz. Sonuçta zaten korsana bile sunucu açmaya izin veriyor Mojang destek vermese bile."
+      },
+      {
+        "cevap_metni": "Teşekkür ederimm bu arada sunucuda olan şey boxmining towny gibi şeyler trollemiş bizi kısaca"
+      }
+    ],
+    "cozum": "Herhangi bir kısıtlama yok diye biliyorum. Sonuçta oyun sunucuları. Mojang da resmi olarak sunucuyu korsana da açma özelliği eklemiş zaten. Pek bir sorun olacağını sanmıyorum.",
+    "sentiment": "neutral",
+    "reference_summary": "play.hosting Minecraft sunucusu yasal mıdır. Çözüm: Herhangi bir kısıtlama yok diye biliyorum.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "Blade vs Tower vs Rack serverları arasında hangisi daha yüksek işlem yapar?",
+    "soru": "Bu serverlardan hangisi daha güçlü? Biri kabinet rafı, biri kule tipi falan var. Bunlar arasında hangisi daha iyidir?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Boyutuna göre değişmiyor, dediğim gibi içerisinde hangi işlemciden kaç tane kullanılmış, ana kartı kaç adet ve kaç gb ram destekliyor gibi şeylere bakıyor iş. Gpu server'ı göz önüne alacak olursak 2U raf tipi server'a çoğu kart sığıyor ancak oyun için üretilmiş daha yeni bir gpu kullanmayı düşünüyorsanız tower kasa daha kullanışlı olabilir. Bu arada raf tipi dediğimiz serverlarda aslında baya büyük ve ağır, bir süre odamda barındırmıştım. Şimdi benimde anlamadığım şey şu hocam, siz bir teknoloji mağazasında bilgisayar kasalarına bakarken kasanın boyutuna göre mi daha iyi ve daha güçlü olduğuna karar veriyorsunuz? Sadece buradan yola çıksanız bile konuyu epey açıklığa kavuşturabilirsiniz."
+      },
+      {
+        "cevap_metni": "Bunları bilgisayar gibi düşünecek olursak, hangisinin daha güçlü olduğu tamamen içindeki donanımlara göre değişkenlik gösterir. Blade, Rack, Tower bunlar form faktörleri. Soru şunun gibi olmuş; ATX, mATX, Mini-ITX arasında hangisi daha yüksek işlem yapar?"
+      },
+      {
+        "cevap_metni": "Ne kadar büyükse o kadar iyi mi oluyor yani?"
+      },
+      {
+        "cevap_metni": "Hiç alakası yok hocam, dedim ya içindeki donanıma göre değişir bu durum. Bu arada söylediğim şey ATX, mATX, Mini-ITX içinde geçerli. Bunlar işlem gücünü belirleyen faktörler değiller. Aslında bilgisayarlar ile ilgilenen birisi için temel bilgilerdir bunlar."
+      },
+      {
+        "cevap_metni": "Hocam, anlamadığım için soruyorum. İçindeki parça büyüklüğüne veya küçüklüğüne bakmıyor mu güçlü olması için? Ya da direkt olarak içindeki parçanın önemi mi daha iyi? GPU server gibi şeyleri sormak istiyorum. Rack ve Blade sürümlerini pek anlamış değilim. Bir raf olarak takılıyor, diğeri kule tipi kasa olarak çalışıyor. Kafam burada karıştı işte. Bunun içindeki sistemin güçlü olması boyutuna göre değişiyor mu değişmiyor mu? Bunu anlamış değilim."
+      },
+      {
+        "cevap_metni": "Tamam, sizin en son dedikleriniz kafama yattı. Daha güçlü olana bakarım elbette. Ama böyle bir workstation PC var. Bu nasıl sizce? Yanlış anlamayın, merak edip sordum bu konuyu."
+      },
+      {
+        "cevap_metni": "İyi değil, bunu alsanız hiç bir işinize yaramaz. Hatta şunu söyleyebilirim ki şuan bunu okuduğunuz bilgisayar bu linkteki üründen kat kat daha performanslı. Bu ürünün işlemci, RAM, ssd/hdd ve GPU'su yok. Sadece kasa + anakart + güç kaynakları + fanlar şeklinde satılıyor. Bu içeriği görüntülemek için üçüncü taraf çerezlerini yerleştirmek için izninize ihtiyacımız olacak. Daha detaylı bilgi için, çerezler sayfamıza bakınız. Üçüncü taraf çerezlerini kabul et"
+      },
+      {
+        "cevap_metni": "Hayda, o da dert. Nasıl yani? Bunu dizmek bayağı masraflı sanırım. Akü çalma olayına çok güldüm."
+      },
+      {
+        "cevap_metni": "Tabi, 2 adet işlemci, 16 adet ram ve 4 adet gpu destekliyor. 8 adet disk yuvası var. İşlemci, ram ve disk alırsanız kullanmaya başlayabilirsiniz. Gpu ihtiyacı varsa birde gpu almanız gerekecek. Bu cihazı toplayanlar zaten cihazın parasını rahat çıkartıyordur. Yaptığı iş ile veya kiralayarak. Normal ev kullanıcıları için değiller."
+      }
+    ],
+    "cozum": "Boyutuna göre değişmiyor, dediğim gibi içerisinde hangi işlemciden kaç tane kullanılmış, ana kartı kaç adet ve kaç gb ram destekliyor gibi şeylere bakıyor iş. Gpu server'ı göz önüne alacak olursak 2U raf tipi server'a çoğu kart sığıyor ancak oyun için üretilmiş daha yeni bir gpu kullanmayı düşünüyorsanız tower kasa daha kullanışlı olabilir. Bu arada raf tipi dediğimiz serverlarda aslında baya büyük ve ağır, bir süre odamda barındırmıştım. Şimdi benimde anlamadığım şey şu hocam, siz bir teknoloji mağazasında bilgisayar kasalarına bakarken kasanın boyutuna göre mi daha iyi ve daha güçlü olduğuna karar veriyorsunuz? Sadece buradan yola çıksanız bile konuyu epey açıklığa kavuşturabilirsiniz.",
+    "sentiment": "neutral",
+    "reference_summary": "Blade vs Tower vs Rack serverları arasında hangisi daha yüksek işlem yapar. Çözüm: Boyutuna göre değişmiyor, dediğim gibi içerisinde hangi işlemciden kaç tane kullanılmış, ana kartı kaç adet ve kaç gb ram destekliyor gibi şeylere bakıyor iş.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "İtemsatış'ta site çok yavaş",
+    "soru": "Sadece bende mi var bilmiyorum ama sitede aşırı bir donma, kasma hissiyatı var. Bir ilana veyahut mesajlar bölümüne girmek istediğimde gecikmeli şekilde giriş yapıyor. Oturum aktif gözüküyor lakin bildirimlere vs. girmeye çalışınca servis hatası veriyor, yeniden giriş yaptırtıyor. Donanımsal olduğunu düşünmüyorum, sistemim GTX 1650 R5 5600H'lı sistem. Kötü denecek bir sistem değil. Bu donmalar, kasmalar ve gecikmeli işlemler sizde de oluyor mu, Yoksa benden mi kaynaklı?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Donanım hızlandırma ayarını açınca sorun çözüldü."
+      },
+      {
+        "cevap_metni": "Bende de var, sitede bir şeye tıkladığımda gecikme fazla ve nedense her gün oturumuzun kapatıldı yeniden giriş yapın diyor. Giriş yaptığımda çok bekletiyor ya da o ekranda kalıyor."
+      },
+      {
+        "cevap_metni": "DDoS saldırısı yiyor olabilir. Tamamen doğal şeyler."
+      },
+      {
+        "cevap_metni": "DDoS değil bu, sitenin kendisi aşırı yavaş. Aylardır böyle bu durum. Neden oturum kapatılıyor onu hala çözemedim, durduk yere kapatılmış oluyor, girerken de bekletiyor. Garip bir site."
+      },
+      {
+        "cevap_metni": "Her zaman DDoS yiyor olamaz mı? İtem satış çok büyük bir site yazılımsal ve veri olarak. Bu yavaşlık haliyle normal olabilir. Eminolun bu siteyi yapan geliştiriciler gerekli optimizasyonu yapmıştır. Altyapıları sağlamdır hızlıdır. Ancak belirli bir yere kadar ellerinden bir şey geliyordur çözüm gelse ellerinden bu zamana kadar yaparlardı."
+      }
+    ],
+    "cozum": "Donanım hızlandırma ayarını açınca sorun çözüldü.",
+    "sentiment": "negative",
+    "reference_summary": "İtemsatış'ta site çok yavaş. Çözüm: Donanım hızlandırma ayarını açınca sorun çözüldü.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "4 GB RAM 4 kişilik Minecraft sunucusunu kaldırır mı?",
+    "soru": "Arkadaşlarla Spigot Survival oynayacağız. Tek plugin var o da timber. Bayağı farm yaptık bu kaldırır mı? Max 4 kişi oluruz.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Muhtemelen sorununuz CPU kaynaklı olmuştu. Attığınız ekran görüntüsündeki iki CPU da çok daha rahat oynatır. Şahsen zamanında 4-5 kişi girmek için R9 5900X ve 6GB RAM'e para ödemek gibi bir saçmalığa düşmüştüm. Bu miktarda güç gerçekten gerekmiyor. Yeterlidir, artar bile."
+      },
+      {
+        "cevap_metni": "Yeterli olur."
+      },
+      {
+        "cevap_metni": "Fazlasıyla rahatça oynarsınız. 2GB bile yeterli sizin durumunuzda."
+      },
+      {
+        "cevap_metni": "Yeterli olur rahat rahat oynayabilirsiniz."
+      },
+      {
+        "cevap_metni": "Normalde Aternos üzerinden oynuyorduk sunucu farmları engellemeye durdurmaya başladı böyle bir sorun yaşar mıyız? 2 GB ve 4 GB'de? Bir de VDS olarak alacağım 4 GB yeter mi?"
+      }
+    ],
+    "cozum": "Muhtemelen sorununuz CPU kaynaklı olmuştu. Attığınız ekran görüntüsündeki iki CPU da çok daha rahat oynatır. Şahsen zamanında 4-5 kişi girmek için R9 5900X ve 6GB RAM'e para ödemek gibi bir saçmalığa düşmüştüm. Bu miktarda güç gerçekten gerekmiyor. Yeterlidir, artar bile.",
+    "sentiment": "neutral",
+    "reference_summary": "4 GB RAM 4 kişilik Minecraft sunucusunu kaldırır mı. Çözüm: Muhtemelen sorununuz CPU kaynaklı olmuştu.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "VDS ne işe yarar ve mantığı nedir?",
+    "soru": "Arkadaşlar bir oyundan sunucu açmak istiyorum ve sanırım VDS ile açılıyormuş. Bazi sitelerde aylik 500-600 giderken örneğin KAYIZER'de alan adıyla 100 tlye ulaşıyor. Ben sadece girip sunucuyu açıp çıkacağım alan adi almak zorunda mıyım ya da bu alan adi ne ise yarıyor? Dediğim gibi VDS'de arka planda bir site sürekli acik kalacak ve bu sayede sunucu açık kalmış olacak. Alan adi ne ise yarıyor ki?",
+    "cevaplar": [
+      {
+        "cevap_metni": "VDS, sunucuları hostlamak ve dosyaları depolamak için kullanılıyor. 7/24 açık kalan bir bilgisayar gibi düşünebilirsin. Alan adı ise web site için kullanılıyor örneğin technopat.net bir alan adıdır. Fiyat ise kiralamak istediğin VDS'in özelliklerine göre değişir. (2, 4 GB ram vb.)"
+      },
+      {
+        "cevap_metni": "VDS, kullanıcılara özel bir sunucu olarak, sanal makine sağlayan bir barındırma hizmeti türüdür . Kendi işletim sistemini çalıştıran ve CPU, RAM, depolama gibi özel kaynaklara sahip sanallaştırılmış bir sunucudur. VDS ile kullanıcılar, sunucu ortamı üzerinde daha fazla kontrole sahip olur. İnternetten buldum."
+      },
+      {
+        "cevap_metni": "Kabaca bir bilgisayari fiziksel olarak sana ayirmiyorlar; o bilgisayarin bazi kaynaklarini senin icin sanallastiriyorlar ve VDS ortaya cikiyor. 10 cekirdekli islemcinin her bir cekirdegini birisine kiraya vermek gibi dusunebilirsin. Kabaca anlatiyorum cunku daha fazla detaylari da var ama bu sekilde. Alan adi senin adina bir web adresinin kiralanmasi. Bu alan adini sahsina kiraladigin zaman bu adrese yapilacak baglantilari yonetme sansin oluyor. Web sitesi acacaksan da bu alan adini sunucunun IP adresine yonlendiriyorsun ve boylece web siten hizmete girmis oluyor."
+      },
+      {
+        "cevap_metni": "Basit bir sunucu açmak icin alan adi kiralamaya gerek var mi peki sizce? Keyubu adlı sitede ucuz fiyata rahat bir şekilde sadece sunucu açılabiliyor. Ya da önereceğiniz bir vds sitesi var mi?"
+      },
+      {
+        "cevap_metni": "Ne sunucusu açacaksın? VDS sanallaştırılmış bir bilgisayar. Yani kabaca sana sadece bilgisayarı veriyorlar. VDS'i alınca otomatik oyun sunucusu kurulmuş olmuyor."
+      },
+      {
+        "cevap_metni": "Statik IP adresin varsa kendi evinde de acabilirsin. Bu biraz sunucunun amacina gore degisir. Tum bu islemlerdeki amac, sunucuda verecegin hizmete insanlarin kolay erismesi. Eger bir oyun sunucusu acacaksan; baglanti yapacak olan kisiler icin www.bilmemne.com yazmaktansa IP adresi yazmalari sorun olmayacaksa ( 10.283.xxx.xxx vs ) alan adina ihtiyacin yok. Malesef uygun fiyatli VDS hizmeti veren yer bilmiyorum, ben DO ve AWS kullaniyorum ama onlar da ek hizmetler dolayisiyla gorece pahali."
+      },
+      {
+        "cevap_metni": "3-4 ay içinde bir haxball sunucusu acmak istiyorum aslinda. VDS'e girip açıp bırakıp cikacagim tek yapmam gereken bu fakay hangi ayarlari kullanmam gerek bilmiyorum. Asıl amaci Haxball.headlesste kodu yapistiriyorsun sonrasinda zaten direk haxball içerisinde oda kurulmus oluyor. Yani web sitesi o yüzden mantıklı gelmedi."
+      }
+    ],
+    "cozum": "VDS, sunucuları hostlamak ve dosyaları depolamak için kullanılıyor. 7/24 açık kalan bir bilgisayar gibi düşünebilirsin. Alan adı ise web site için kullanılıyor örneğin technopat.net bir alan adıdır. Fiyat ise kiralamak istediğin VDS'in özelliklerine göre değişir. (2, 4 GB ram vb.)",
+    "sentiment": "neutral",
+    "reference_summary": "VDS ne işe yarar ve mantığı nedir. Çözüm: VDS, sunucuları hostlamak ve dosyaları depolamak için kullanılıyor.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "Hosting Dünyam Saturn Node tamamen erişilemez durumda",
+    "soru": "Bugün sabah siteme girmeye çalıştığımda \"yanıt vermesi uzun sürdü\" hatası aldım. CPanel'e girip kontrol etmek istedim ama cPanel de açılmıyor. Araştırınca fark ettim ki hosting sağlayıcımın saturn Node'u (saturn.hostingdunyam.net) tamamen erişilemez durumda. Benzer sorun yaşayan var mı? Bu durum ne kadar sürer, bilgisi olan paylaşabilir mi?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Destek talebi oluşturup sorununuzu bildirdiniz mi? Fark ettiklerinde emin olun yardımcı olacaklardır."
+      },
+      {
+        "cevap_metni": "Web site erişim sorunları hakkında. Jüpiter ve merkür kodlu hosting sunucularımızda oluşan arıza nedeniyle kısa süreli erişim sorunu devam etmektedir. Durum en kısa süre içerisinde giderilecektir. Anlayışınız için teşekkür ederiz. Diyorlar öneri için teşekkür ederim"
+      }
+    ],
+    "cozum": "Destek talebi oluşturup sorununuzu bildirdiniz mi? Fark ettiklerinde emin olun yardımcı olacaklardır.",
+    "sentiment": "negative",
+    "reference_summary": "Hosting Dünyam Saturn Node tamamen erişilemez durumda. Çözüm: Destek talebi oluşturup sorununuzu bildirdiniz mi?",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "Sunucu az RAM kullaniyor",
+    "soru": "Kodlar bu ama az RAM kullanıyor.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Garip bir şekilde XMS'i 7G yaptım, tam tersi şekilde çalıştı, yani 200 MB yiyor, yuzde 95 boşta başına - koyduğumdan veya jawanın yeni sürümleri yüzünden olabilir."
+      },
+      {
+        "cevap_metni": "-Xms gözükmüyor? Başlangıçtaki ram miktarı ayarlarlı değil. Yanlızca kullanılabilir ram gözüküyor. Direk bu şekil mi kuruldu?"
+      },
+      {
+        "cevap_metni": "Olmadı yuzde 10 boşta gorunuyor ancak playit GG tuzunden olabilir mi? Ordanmi ayarlamaliyim"
+      },
+      {
+        "cevap_metni": "Bunu dener misin? Ayrıca sunucuda oyuncu var mı? Kimse yoksa belki ram kullanma ihtiyacı duymuyordur."
+      },
+      {
+        "cevap_metni": "Hallettim"
+      },
+      {
+        "cevap_metni": "Nasıl hallettiğini açıklarsan, aynı sorunu yaşayan insanlar da faydalanmış olur."
+      }
+    ],
+    "cozum": "Garip bir şekilde XMS'i 7G yaptım, tam tersi şekilde çalıştı, yani 200 MB yiyor, yuzde 95 boşta başına - koyduğumdan veya jawanın yeni sürümleri yüzünden olabilir.",
+    "sentiment": "neutral",
+    "reference_summary": "Sunucu az RAM kullaniyor. Çözüm: Garip bir şekilde XMS'i 7G yaptım, tam tersi şekilde çalıştı, yani 200 MB yiyor, yuzde 95 boşta başına - koyduğumdan veya jawanın yeni sürümleri yüzünden olabilir.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "Sunucu için ayrı bir sistemden hosting nasıl yapılır?",
+    "soru": "Merhaba dostlar, başlıktaki konu hakkında bilgim sınırlı, bu yüzden konu açma gereği duydum. Çeşitli oyunlarda kendi sunucumuzu açabiliyoruz, ancak bunu 2. bir sistem üzerinden, herhangi bir monitör kullanmadan(panel vs. üzerinden) gerçekleştirmenin bir yolu var mı? Aklımdaki düzenek şu şekilde; ana sistem oyun oynamak ve takılmak için, ikinci ve daha güçsüz sistem ise sadece çeşitli sunucuları(oyun, web, uygulama geliştirme sürecinde oluşturulan veritabanları) hostlamak veya veri merkezi işlevi görmek için kullanacak. Bu sistemler nasıl oluşturulmakta? Bilginizi paylaşırsanız memnun kalırım, şimdiden teşekkürler.",
+    "cevaplar": [
+      {
+        "cevap_metni": "Karmaşık değil 2. sisteme vm esxi kurulumu yapın ve istediğiniz kadar sanal sunucu oluşturun. Örnek veriyorum 1. sanal sunucunuz web site barındırmak için olur. 2. sanal sunucunuz veri depolama/yedekleme için olur. Bunların hepsi tek bir sunucu konumundaki cihazda barınmış olur."
+      },
+      {
+        "cevap_metni": "Evet mümkün. Veri merkezi'ni yanlış kullandınız ancak demek istediğinizi anladım. Ana sistem dediğinizde sunucumu olacak yoksa sizin kendi kullandığınız bilgisayar mı? Eğer bir sunucuda 2 farklı işi görmek istiyorsanız vm esxi ile sanallaştırma yapabilirsiniz. Eğer ana makine dediğiniz kendi bilgisayarınız ve siz host arıyorsanız bir vds/vps kiralayabilirsiniz. Eğer sadece bir site barındırmak için bir host ihtiyacı varsa tek başına bir hosting paketi işinizi görecektir."
+      },
+      {
+        "cevap_metni": "Hocam ana sistem(1. kasa) benim kullandığım genel işler için olan sistem, yan sistem(anlatıda server için kullandığım sistem) ise hosting ve veri depolama için kullanılacak. Yani mümkünse hem veri depolama(ev ağı üzerinden erişilebilecek) hem de oyunlarda, yazılım geliştirmede oluşturulan sunucuları host edecek. Karmaşık geldiğinin farkındayım ancak bana yapılabilirmiş gibi geliyor hocam. Siz daha iyi bilirsiniz tabii."
+      },
+      {
+        "cevap_metni": "Teşekkürler hocam. Şimdi değilde, ileride şuanki sistemim pek para etmediği için, satmak yerine sunucuya dönüştürmeyi planlıyorum. Cevabınız için teşekkür ederim tekrardan."
+      },
+      {
+        "cevap_metni": "Rica ederim."
+      }
+    ],
+    "cozum": "Karmaşık değil 2. sisteme vm esxi kurulumu yapın ve istediğiniz kadar sanal sunucu oluşturun. Örnek veriyorum 1. sanal sunucunuz web site barındırmak için olur. 2. sanal sunucunuz veri depolama/yedekleme için olur. Bunların hepsi tek bir sunucu konumundaki cihazda barınmış olur.",
+    "sentiment": "positive",
+    "reference_summary": "Sunucu için ayrı bir sistemden hosting nasıl yapılır. Çözüm: Karmaşık değil 2.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Web Hosting - Server",
+    "baslik": "Batıhost'dan alınan Minecraft sunucusu kapanmazsa ne olur?",
+    "soru": "Batıhost üzerinden Minecraft sunucusu aldım, sunucu açık kalsa bir sıkıntı olur mu?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Ödeme konusunda bir probleminiz yoksa, sistemsel açıdan yeterli kaynağı da sunucuya sağlıyorsanız sıkıntı olmaz."
+      },
+      {
+        "cevap_metni": "Kalabilir sizin sunucunuz sonuçta kiraladığınız sürece."
+      },
+      {
+        "cevap_metni": "Hahahaha, bir ihtimal kızabilirler. Endişeniz gerçekten çok iyi. İçiniz rahat olsun, bu hizmetleri 7/24 açık tutmak için alıyorsunuz. Bunun karşılığında da sizden belirli bir meblağ ödeme alıyorlar."
+      },
+      {
+        "cevap_metni": "Kimse kızamaz o parayı verdiyse istediği saniye istediği saat istediği şekilde kullanabilir, ister kapatır ister açar."
+      },
+      {
+        "cevap_metni": "Cevaplarınız için teşekkürler. Peki Minecraft sunucusunu kapatmasam oyun içinde zaman geçtiği için bir sıkıntı olur mu?"
+      },
+      {
+        "cevap_metni": "Hayır, sıkıntı olmaz."
+      }
+    ],
+    "cozum": "Ödeme konusunda bir probleminiz yoksa, sistemsel açıdan yeterli kaynağı da sunucuya sağlıyorsanız sıkıntı olmaz.",
+    "sentiment": "neutral",
+    "reference_summary": "Batıhost'dan alınan Minecraft sunucusu kapanmazsa ne olur. Çözüm: Ödeme konusunda bir probleminiz yoksa, sistemsel açıdan yeterli kaynağı da sunucuya sağlıyorsanız sıkıntı olmaz.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Musteri Destek Platformu",
+    "urun": "Beyaz Eşya",
+    "baslik": "Bosch bulaşık makinesi E15 hatası veriyor ve çalışmıyor",
+    "soru": "Bosch bulaşık makinem ekranda E15 hatası gösteriyor, alttan su sesi geliyor ama program başlamıyor ve sürekli aynı hatayı tekrarlıyor. Makinenin altına baktım, hafif su birikintisi var gibi. Bu hata tam olarak ne anlama geliyor ve servis çağırmadan önce kendim deneyebileceğim bir şey var mı?",
+    "cevaplar": [
+      {
+        "cevap_metni": "E15 hatası, makinenin taban tablasındaki güvenlik şamandırasının su algıladığı anlamına gelir. Yani makinenin tabanına su kaçmış ve taşma koruması devreye girmiş. Çoğu zaman ciddi bir arıza değil, taban suyunu boşaltınca düzeliyor."
+      },
+      {
+        "cevap_metni": "Önce makinenin fişini çekin. Makineyi hafifçe arkaya yatırın veya öne eğin ki tabandaki su aksın, bir havlu ile altını kurulayın. Şamandıra kuruyunca hata genelde sıfırlanır. Bu en sık işe yarayan yöntem."
+      },
+      {
+        "cevap_metni": "Suyun nereden kaçtığını bulmak önemli, yoksa hata tekrar eder. En yaygın sebep: filtrenin tam oturmaması, tuz kapağının gevşek kalması ya da bir hortum bağlantısının sızdırması. Tuz haznesi kapağını ve filtreyi sıkıca kapatın."
+      },
+      {
+        "cevap_metni": "Tabandaki suyu boşaltıp kuruladıktan sonra makineyi tekrar fişe takın ve boş bir program başlatın. Hata gitmişse sızıntı küçük ve geçiciydi demektir. Tekrar ederse, alt conta veya pompa contası sızdırıyor olabilir, o zaman yetkili servis gerekir."
+      },
+      {
+        "cevap_metni": "Bende filtre tam oturmadığı için tabana su sızmış. Tabandaki suyu boşaltıp filtreyi düzgün yerleştirince E15 hatası kayboldu ve makine normal çalışmaya başladı."
+      }
+    ],
+    "cozum": "E15 hatası, makinenin taban tablasındaki güvenlik şamandırasının su algıladığı anlamına gelir. Yani makinenin tabanına su kaçmış ve taşma koruması devreye girmiş. Çoğu zaman ciddi bir arıza değil, taban suyunu boşaltınca düzeliyor.",
+    "sentiment": "negative",
+    "reference_summary": "Bosch bulaşık makinesi E15 hatası veriyor ve çalışmıyor. Çözüm: E15 hatası, makinenin taban tablasındaki güvenlik şamandırasının su algıladığı anlamına gelir.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Musteri Destek Platformu",
+    "urun": "Beyaz Eşya",
+    "baslik": "Beko çamaşır makinesi su almıyor, program başında bekliyor",
+    "soru": "Beko çamaşır makinem programı başlatıyorum ama su almıyor, tambur dönmüyor ve program ilerlemeden başında kalıyor. Bir süre sonra hata veriyor. Musluğun açık olduğundan eminim. Servis çağırmadan kontrol edebileceğim noktalar nelerdir?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Makine su alamadığında neredeyse her zaman sorun su giriş tarafındadır. Önce muslukla makine arasındaki giriş hortumunu kontrol edin: musluk tam açık mı, hortum bükülmüş veya ezilmiş mi? Bu en basit ve en sık sebep."
+      },
+      {
+        "cevap_metni": "Su giriş hortumunun musluğa bağlandığı yerde bir filtre (süzgeç) vardır. Zamanla kireç ve tortu ile tıkanır ve makine yeterli su alamaz. Hortumu sökün, ucundaki küçük plastik süzgeci çıkarıp sirkeli suda bekletin ve temizleyin, sonra takın."
+      },
+      {
+        "cevap_metni": "Su basıncının düşük olmadığından emin olun. Evde o anda başka yerde su akıyorsa veya şebeke basıncı düşükse makine su alamayabilir. Aynı musluktan bir kovaya su doldurup basıncı gözleyin."
+      },
+      {
+        "cevap_metni": "Kapağın tam kapanmadığı durumda da makine programa başlamaz, kapak kilidini kontrol edin, 'klik' sesiyle kilitlenmeli. Kapak sensörü arızalıysa makine güvenlik için su almaz."
+      },
+      {
+        "cevap_metni": "Bende musluktaki giriş filtresi kireçten tıkanmıştı. Filtreyi söküp temizledikten sonra makine sorunsuz su almaya ve programı tamamlamaya başladı."
+      }
+    ],
+    "cozum": "Makine su alamadığında neredeyse her zaman sorun su giriş tarafındadır. Önce muslukla makine arasındaki giriş hortumunu kontrol edin: musluk tam açık mı, hortum bükülmüş veya ezilmiş mi? Bu en basit ve en sık sebep.",
+    "sentiment": "negative",
+    "reference_summary": "Beko çamaşır makinesi su almıyor, program başında bekliyor. Çözüm: Makine su alamadığında neredeyse her zaman sorun su giriş tarafındadır.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Yazıcı",
+    "baslik": "Yazıcı 'çevrimdışı' görünüyor ve baskı almıyor (Windows)",
+    "soru": "HP yazıcım Windows'ta sürekli 'çevrimdışı' (offline) olarak görünüyor ve yazdırma işlerini kuyrukta tutuyor ama basmıyor. Yazıcı açık, kablosu takılı ve aynı ağda. Kapatıp açtım, fişini çektim ama düzelmedi. Çevrimdışı durumundan nasıl çıkarırım?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Önce Windows'ta yazıcı kuyruğunu ve durumu sıfırlayalım. Ayarlar > Bluetooth ve cihazlar > Yazıcılar ve tarayıcılar yolundan yazıcıyı açın, 'Yazdırma kuyruğunu aç' deyin ve bekleyen tüm işleri iptal edin. Takılı bir iş, yazıcıyı çevrimdışı gösterebilir."
+      },
+      {
+        "cevap_metni": "Yazıcı menüsünde 'Yazıcıyı çevrimiçi kullan' seçeneği olup olmadığına bakın; bazen 'Yazıcıyı çevrimdışı kullan' işaretli kalır. Çevrimdışı seçeneğinin işaretini kaldırın."
+      },
+      {
+        "cevap_metni": "Print Spooler (Yazdırma Biriktiricisi) hizmetini yeniden başlatmak çok sık çözüm olur. services.msc'yi açın, 'Print Spooler' hizmetini bulup sağ tık > Yeniden Başlat deyin. Bu, kilitlenmiş kuyruğu ve çevrimdışı durumunu temizler."
+      },
+      {
+        "cevap_metni": "Ağ yazıcısıysa, yazıcının IP adresinin değişmiş olabileceğini kontrol edin. Yazıcının ekranından IP'yi öğrenip, Windows'ta yazıcı bağlantı noktası ayarlarındaki IP ile aynı mı bakın. DHCP ile IP değişince yazıcı çevrimdışı görünür; sabit IP atamak kalıcı çözümdür."
+      },
+      {
+        "cevap_metni": "Bende Print Spooler hizmetini yeniden başlatmak ve yazıcıya sabit IP atamak sorunu çözdü. IP değiştiği için Windows yazıcıyı bulamıyor ve çevrimdışı gösteriyormuş."
+      }
+    ],
+    "cozum": "Önce Windows'ta yazıcı kuyruğunu ve durumu sıfırlayalım. Ayarlar > Bluetooth ve cihazlar > Yazıcılar ve tarayıcılar yolundan yazıcıyı açın, 'Yazdırma kuyruğunu aç' deyin ve bekleyen tüm işleri iptal edin. Takılı bir iş, yazıcıyı çevrimdışı gösterebilir.",
+    "sentiment": "negative",
+    "reference_summary": "Yazıcı 'çevrimdışı' görünüyor ve baskı almıyor (Windows). Çözüm: Önce Windows'ta yazıcı kuyruğunu ve durumu sıfırlayalım.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Yazıcı",
+    "baslik": "Yazıcı çıktıları soluk ve çizgili çıkıyor",
+    "soru": "Mürekkep püskürtmeli yazıcımın çıktıları soluk geliyor, yazılarda ve resimlerde yatay beyaz çizgiler oluyor, bazı renkler hiç basmıyor. Kartuşlarda mürekkep olduğunu düşünüyorum çünkü yenilerini taktım. Kafa temizliği dışında ne yapabilirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Bu klasik tıkalı baskı kafası belirtisidir, özellikle yazıcı bir süre kullanılmadıysa mürekkep kafada kuruyup tıkar. Önce yazıcının kendi menüsünden veya bilgisayardaki yazıcı yazılımından 'Baskı Kafası Temizliği' işlemini çalıştırın ve ardından 'Püskürtme Ucu Kontrolü' (nozzle check) deseni bastırın."
+      },
+      {
+        "cevap_metni": "Tek seferde düzelmezse temizliği 2-3 kez tekrarlayın, her temizlikten sonra test deseni basın. Çoğu hafif tıkanma birkaç döngüde açılır. Her temizlik mürekkep harcadığından arada test deseni basıp gerekip gerekmediğini görün."
+      },
+      {
+        "cevap_metni": "İnatçı tıkanıklıklarda kafayı manuel temizlemek gerekebilir: kartuşları çıkarıp kafanın altını ılık damıtık su ile nemlendirilmiş tüy bırakmayan bir bezle hafifçe silin. Tankı ayrı olan modellerde kafayı çıkarıp birkaç dakika ılık suda bekletmek işe yarar."
+      },
+      {
+        "cevap_metni": "Kartuşların orijinal veya kaliteli olduğundan ve hava almadığından emin olun; ucuz dolum kartuşları sık tıkanma yapar. Ayrıca kartuş takarken üzerindeki koruyucu bandın çıkarıldığını kontrol edin."
+      },
+      {
+        "cevap_metni": "Bende 3 kez baskı kafası temizliği yapınca tıkalı renk açıldı ve çizgiler kayboldu. Yazıcıyı haftada bir kullanmak kafanın tekrar kurumasını önlüyor."
+      }
+    ],
+    "cozum": "Bu klasik tıkalı baskı kafası belirtisidir, özellikle yazıcı bir süre kullanılmadıysa mürekkep kafada kuruyup tıkar. Önce yazıcının kendi menüsünden veya bilgisayardaki yazıcı yazılımından 'Baskı Kafası Temizliği' işlemini çalıştırın ve ardından 'Püskürtme Ucu Kontrolü' (nozzle check) deseni bastırın.",
+    "sentiment": "negative",
+    "reference_summary": "Yazıcı çıktıları soluk ve çizgili çıkıyor. Çözüm: Bu klasik tıkalı baskı kafası belirtisidir, özellikle yazıcı bir süre kullanılmadıysa mürekkep kafada kuruyup tıkar.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Akıllı TV",
+    "baslik": "Akıllı TV WiFi'ye bağlanmıyor veya internet yok diyor",
+    "soru": "Samsung akıllı televizyonum WiFi ağını görüyor, şifreyi giriyorum ama bağlanmıyor ya da bağlanıp 'internet bağlantısı yok' diyor. Aynı ağa telefon ve laptop sorunsuz bağlanıyor. Uygulamalar (YouTube, Netflix) açılmıyor. Nasıl çözebilirim?",
+    "cevaplar": [
+      {
+        "cevap_metni": "Diğer cihazlar bağlandığına göre sorun modemde değil, TV'nin ağ durumunda. Önce en etkili yöntem: TV'yi tamamen kapatıp fişini prizden çekin, 1-2 dakika bekleyip tekrar takın (soft reset). Bu, takılı kalan ağ durumunu temizler ve çoğu zaman çözer."
+      },
+      {
+        "cevap_metni": "TV menüsünden Ağ > Ağ Durumu yolunu açıp testi çalıştırın. 'Modeme bağlı ama internete değil' diyorsa DNS sorunu olabilir. Ağ ayarlarında DNS'i 'Otomatik' yerine elle 8.8.8.8 olarak girin, bu çok sık işe yarar."
+      },
+      {
+        "cevap_metni": "Modemde 2.4GHz ve 5GHz aynı ada sahipse, eski TV'ler 5GHz ile sorun yaşayabilir. Modem arayüzünden iki bandı ayrı isimlendirip TV'yi 2.4GHz ağına bağlamayı deneyin; menzil ve uyumluluk daha iyidir."
+      },
+      {
+        "cevap_metni": "Yazılım güncellemesi de önemli: TV'nin yazılımı eskiyse uygulamalar bağlanmayabilir. İnternet geçici çalışıyorsa Destek > Yazılım Güncelleme'den güncelleyin. Hiç bağlanmıyorsa USB ile güncelleme yapılabilir."
+      },
+      {
+        "cevap_metni": "Bende DNS'i elle 8.8.8.8 yapmak ve TV'yi prizden çekip soft reset atmak çözdü. TV ağa bağlanıyor ama otomatik DNS alamadığı için internet yok diyormuş."
+      }
+    ],
+    "cozum": "Diğer cihazlar bağlandığına göre sorun modemde değil, TV'nin ağ durumunda. Önce en etkili yöntem: TV'yi tamamen kapatıp fişini prizden çekin, 1-2 dakika bekleyip tekrar takın (soft reset). Bu, takılı kalan ağ durumunu temizler ve çoğu zaman çözer.",
+    "sentiment": "negative",
+    "reference_summary": "Akıllı TV WiFi'ye bağlanmıyor veya internet yok diyor. Çözüm: Diğer cihazlar bağlandığına göre sorun modemde değil, TV'nin ağ durumunda.",
+    "language": "tr"
+  },
+  {
+    "kaynak": "Teknoloji Forumu",
+    "urun": "Akıllı TV",
+    "baslik": "Akıllı TV'de uygulamalar açılmıyor veya açılır açılmaz kapanıyor",
+    "soru": "LG akıllı televizyonumda Netflix ve YouTube gibi uygulamalar açılmıyor, simgeye basınca siyah ekranda kalıyor ya da hemen ana ekrana dönüyor. İnternet bağlantısı var, tarayıcı çalışıyor. Uygulamaları nasıl tekrar çalışır hale getiririm?",
+    "cevaplar": [
+      {
+        "cevap_metni": "İnternet çalışıp uygulamalar açılmıyorsa sorun genelde uygulamanın birikmiş önbelleği veya TV yazılımıdır. İlk ve en etkili adım: TV'yi prizden çekip 1-2 dakika bekleyip takın. Bu, arka planda takılı uygulama belleğini temizler ve sıklıkla sorunu çözer."
+      },
+      {
+        "cevap_metni": "Uygulamanın önbelleğini/verisini temizleyin veya uygulamayı kaldırıp yeniden yükleyin. LG'de Ana Ekran > uygulama simgesinin üzerine gelip kaldırın, sonra İçerik Mağazası'ndan tekrar kurun. Bu, bozulmuş uygulama dosyalarını yeniler."
+      },
+      {
+        "cevap_metni": "TV yazılımını güncelleyin: Ayarlar > Tüm Ayarlar > Genel > Bu TV Hakkında > Yazılım Güncelleme. Eski webOS/yazılım sürümünde popüler uygulamalar güncel sürümleriyle uyumsuz kalıp açılmayabilir."
+      },
+      {
+        "cevap_metni": "Saat ve tarih ayarının doğru olduğundan emin olun; yanlış saat, uygulamaların sunucu sertifikalarını reddetmesine ve açılmamasına yol açar. Saati otomatik/ağdan alacak şekilde ayarlayın."
+      },
+      {
+        "cevap_metni": "Son çare olarak TV'yi fabrika ayarlarına döndürmek bozuk sistem durumunu temizler, ama önce diğer adımları deneyin. Bende prizden çekip uygulamayı kaldırıp yeniden kurmak yeterli oldu, uygulamalar tekrar sorunsuz açıldı."
+      }
+    ],
+    "cozum": "İnternet çalışıp uygulamalar açılmıyorsa sorun genelde uygulamanın birikmiş önbelleği veya TV yazılımıdır. İlk ve en etkili adım: TV'yi prizden çekip 1-2 dakika bekleyip takın. Bu, arka planda takılı uygulama belleğini temizler ve sıklıkla sorunu çözer.",
+    "sentiment": "negative",
+    "reference_summary": "Akıllı TV'de uygulamalar açılmıyor veya açılır açılmaz kapanıyor. Çözüm: İnternet çalışıp uygulamalar açılmıyorsa sorun genelde uygulamanın birikmiş önbelleği veya TV yazılımıdır.",
+    "language": "tr"
+  }
+]

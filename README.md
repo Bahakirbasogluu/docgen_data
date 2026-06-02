@@ -2,7 +2,6 @@
 
 A multilingual, multi-turn **technical support dialogue dataset**. Each sample contains a complete issue-resolution thread between an end user/customer and a Technical Support Agent (TSA), together with the issue title, the related product/application category, a sentiment label, and a reference summary. The dataset is designed to evaluate **issue classification, title generation, sentiment analysis, and summarization** in enterprise technical-support scenarios.
 
-> The data was used **only for evaluation and few-shot prompt design** — not for model training or fine-tuning.
 
 ## Contents
 

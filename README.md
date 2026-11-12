@@ -37,3 +37,10 @@ A multilingual, multi-turn **technical support dialogue dataset**. Each sample c
 - Privacy-preserving and anonymized.
 - Internal corporate correspondence is not included.
 - Designed for evaluation and few-shot prompting.
+
+## Sources and licensing
+
+The dialogues are drawn from public technical-support discussions (the `source` field names the origin of each sample, such as Stack Overflow, Reddit, Microsoft forums and other tech forums) and were normalized and anonymized. That text remains under the terms of its original source; Stack Overflow content, for example, is licensed CC BY-SA.
+
+The annotations added in this dataset (`product`, `title`, `sentiment` and `reference_summary`) are released under CC BY 4.0. If you use the dataset, credit the original sources and this repository.
+
